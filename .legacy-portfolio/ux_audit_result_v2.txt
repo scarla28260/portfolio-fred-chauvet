@@ -1,0 +1,32 @@
+
+[UX AUDIT] 15 files checked
+--------------------------------------------------
+[!] ISSUES (13):
+  - [Typography] about.html: 4 font families detected. Limit to 2-3 for cohesion.
+  - [Cognitive Load] contact.html: Form inputs without labels. Use <label> for accessibility and clarity.
+  - [Typography] contact.html: 4 font families detected. Limit to 2-3 for cohesion.
+  - [Typography] cv.html: 4 font families detected. Limit to 2-3 for cohesion.
+  - [Cognitive Load] expertise.html: Form inputs without labels. Use <label> for accessibility and clarity.
+  - [Cognitive Load] gestion-cookies.html: Form inputs without labels. Use <label> for accessibility and clarity.
+  - [Cognitive Load] politique-confidentialite.html: Form inputs without labels. Use <label> for accessibility and clarity.
+  - [Cognitive Load] projets.html: Form inputs without labels. Use <label> for accessibility and clarity.
+  - [Cognitive Load] custom.css: Form inputs without labels. Use <label> for accessibility and clarity.
+  - [Motion] custom.css: Scroll-driven animation without throttling. Add requestAnimationFrame for 60fps.
+[*] WARNINGS (138):
+  - [Reflective] about.html: Long-form content without brand story/values. Add 'About' or 'Why We Exist' section.
+  - [Typography] about.html: No line length constraint (45-75ch). Use max-w-prose or max-w-[65ch].
+  - [Typography] about.html: Heading has line-height 1.8 (>1.3). Headings should be tighter (1.1-1.3).
+  - [Typography] about.html: Heading has line-height 1.8 (>1.3). Headings should be tighter (1.1-1.3).
+  - [Typography] about.html: Heading has line-height 1.8 (>1.3). Headings should be tighter (1.1-1.3).
+  - [Typography] about.html: Adjacent font weights (800/700). Skip at least 2 levels for contrast.
+  - [Typography] about.html: Skipped heading level (h1 -> h3). Maintain sequential hierarchy.
+  - [Performance] about.html: Animating expensive properties (width, bottom, height, left, padding, margin, top, right). Use transform/opacity where possible.
+  - [Accessibility] about.html: Animations found without prefers-reduced-motion check
+  - [Color] about.html: Color variables without HSL. Consider HSL for easier palette adjustment (Hue, Saturation, Lightness).
+  - [Fitts' Law] contact.html: Small targets (< 44px)
+  - [Reflective] contact.html: Long-form content without brand story/values. Add 'About' or 'Why We Exist' section.
+  - [Trust] contact.html: No social proof detected. Consider adding testimonials, ratings, or 'Trusted by' logos.
+  - [Typography] contact.html: No line length constraint (45-75ch). Use max-w-prose or max-w-[65ch].
+  - [Typography] contact.html: Heading has line-height 1.6 (>1.3). Headings should be tighter (1.1-1.3).
+[+] PASSED CHECKS: 5
+STATUS: FAIL

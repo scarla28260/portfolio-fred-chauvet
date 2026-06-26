@@ -1,0 +1,25 @@
+# Moteurs de recherche classiques
+User-agent: *
+Allow: /
+
+# GEO — AI Crawlers (Generative Engine Optimization)
+# Autorisation complète pour maximiser les citations AI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://station-os.vercel.app/sitemap.xml

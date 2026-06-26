@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr" class="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://fonts.googleapis.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com; font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com; img-src 'self' data: https:;">
+
+    <title>CONFIDENTIALITÉ | NovaPhoenix</title>
+    <link rel="stylesheet" href="/src/index.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <!-- Fonts imported via index.css -->
+</head>
+
+<body class="bg-dark selection:bg-primary/30 min-h-screen">
+    <script type="module" src="/src/js/spy.js"></script>
+    <script type="module" src="/assets/js/security-layer.js"></script>
+    <div class="grainy"></div>
+
+    <!-- Dynamically injected via nav.js -->
+    <main class="relative z-10 pt-40 pb-20 animate-fade-up">
+        <div class="max-w-4xl mx-auto px-4">
+            <h1 style="font-family:var(--font-luxury); line-height:1.1;" class="text-5xl md:text-7xl font-black tracking-tighter mb-12 uppercase text-white">
+                Politique de <span class="text-primary block">Confidentialité</span>
+            </h1>
+
+            <div
+                class="glass hologram-card p-8 md:p-12 rounded-3xl space-y-12 text-slate-400 leading-relaxed border border-white/5 shadow-2xl transition-shadow duration-500">
+                <section class="space-y-4">
+                    <h2 style="font-family:var(--font-luxury); font-size:1.5rem;" class="font-bold text-white flex items-center gap-3">PRÉAMBULE</h2>
+                    <p aria-label="Policy Text">Cette politique détaille comment NovaPhoenix traite vos données personnelles conformément au
+                        RGPD. La protection de votre vie privée est une priorité absolue dans le développement de nos
+                        solutions sécurisées.</p>
+                </section>
+
+                <section class="space-y-4">
+                    <h2 style="font-family:var(--font-luxury); font-size:1.5rem;" class="font-bold text-white flex items-center gap-3">DONNÉES COLLECTÉES
+                    </h2>
+                    <ul class="list-disc pl-5 space-y-2">
+                        <li><strong class="text-slate-200">Formulaire de contact :</strong> Nom et email pour répondre à
+                            vos demandes.</li>
+                        <li><strong class="text-slate-200">Métriques de sécurité :</strong> Logs anonymisés (type
+                            d'appareil, fréquence des événements) via le `SpySystem` interne.</li>
+                        <li><strong class="text-slate-200">Données techniques :</strong> Adresse IP anonymisée pour la
+                            détection d'intrusions.</li>
+                    </ul>
+                </section>
+
+                <section class="space-y-4">
+                    <h2 style="font-family:var(--font-luxury); font-size:1.5rem;" class="font-bold text-white flex items-center gap-3">VOS DROITS</h2>
+                    <p>Vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Pour toute
+                        demande, contactez-nous à l'adresse suivante : <span
+                            class="text-primary">hello@novaphoenix.dev</span></p>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <script type="module" src="/assets/js/nav.js"></script>
+    <script type="module" src="/assets/js/main.js"></script>
+
+</body>
+
+</html>

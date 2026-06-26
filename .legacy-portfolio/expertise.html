@@ -1,0 +1,198 @@
+<html lang="fr" class="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EXPERTISE | NovaPhoenix — Piliers Techniques</title>
+    <link rel="stylesheet" href="./src/index.css">
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .expertise-hero-img {
+            width: 100%;
+            height: 35vh;
+            border-radius: 40px;
+            overflow: hidden;
+            margin-bottom: 5rem;
+            position: relative;
+            box-shadow: 0 40px 100px rgba(15, 23, 42, 0.1);
+            z-index: 2;
+        }
+
+        .expertise-hero-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: brightness(1);
+        }
+
+        .exp-card {
+            background: rgba(255, 255, 255, 0.8);
+            border: 1px solid rgba(15, 23, 42, 0.05);
+            border-radius: 40px;
+            padding: 3rem;
+            transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .exp-card:hover {
+            background: #FFFFFF;
+            border-color: var(--color-primary);
+            transform: translateY(-10px);
+            box-shadow: 0 30px 60px rgba(15, 23, 42, 0.08);
+        }
+    </style>
+</head>
+
+<body>
+
+    <canvas id="vfx-canvas"></canvas>
+
+    <div class="grainy"></div>
+    <div class="light-leak"></div>
+    <div class="aurora-bg fixed inset-0 z-0"></div>
+
+    <main style="position:relative;z-index:10;" class="lg:pl-20">
+
+
+        <section style="padding:4rem 2.5rem 2rem;">
+            <div style="max-width:1600px;margin:0 auto;">
+
+                <div class="fade-up" style="margin-bottom:3rem;">
+                    <p class="section-label"
+                        style="margin-bottom:1.5rem;color:var(--color-primary);letter-spacing:0.8em;font-size:0.75rem;font-family:var(--font-brand);">//
+                        MANUFACTURE_TECH_2026</p>
+                    <h1 class="light-bleed"
+                        style="font-family:var(--font-luxury);font-size:clamp(2.5rem,6vw,4.5rem);font-weight:700;line-height:1.1;letter-spacing:-0.02em;text-transform:uppercase;color:#0F172A;margin:0;">
+                        L'EXCELLENCE_<br><span style="color:var(--color-primary);font-style:italic;">HORS_NORME</span>.
+                    </h1>
+                    <p style="margin-top:1.5rem;font-size:1.1rem;color:#475569;max-width:600px;font-family:var(--font-body);font-weight:300;">
+                        Orchestrer des écosystèmes digitaux qui transcendent la simple utilité pour devenir des standards d'excellence souveraine.
+                    </p>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6" style="margin-bottom:6rem;">
+                    <div class="liquid-glass fade-up p-8 group">
+                        <div class="glass-reflection"></div>
+                        <i class="fas fa-gem text-primary text-2xl mb-6 block group-hover:scale-110 transition-transform"></i>
+                        <h3 style="font-family:var(--font-luxury);font-size:1.2rem;font-weight:700;color:#0F172A;margin-bottom:0.75rem;line-height:1.2;">ARCHITECTURE_<br>SOUVERAINE</h3>
+                        <p style="font-family:var(--font-body);color:#64748B;font-size:0.9rem;line-height:1.5;">Des structures pensées pour l'héritage et l'impact. La robustesse de l'orfèvrerie au service du futur.</p>
+                    </div>
+                    <div class="liquid-glass fade-up p-8 group" style="animation-delay:0.1s;">
+                        <div class="glass-reflection"></div>
+                        <i class="fas fa-wand-magic-sparkles text-accent text-2xl mb-6 block group-hover:scale-110 transition-transform"></i>
+                        <h3 style="font-family:var(--font-luxury);font-size:1.2rem;font-weight:700;color:#0F172A;margin-bottom:0.75rem;line-height:1.2;">INGÉNIERIE_<br>AGENTIQUE</h3>
+                        <p style="font-family:var(--font-body);color:#64748B;font-size:0.9rem;line-height:1.5;">L'intelligence artificielle orchestrée comme un instrument de précision radicale.</p>
+                    </div>
+                    <div class="liquid-glass fade-up p-8 group" style="animation-delay:0.2s;">
+                        <div class="glass-reflection"></div>
+                        <i class="fas fa-vial-circle-check text-primary text-2xl mb-6 block group-hover:scale-110 transition-transform"></i>
+                        <h3 style="font-family:var(--font-luxury);font-size:1.2rem;font-weight:700;color:#0F172A;margin-bottom:0.75rem;line-height:1.2;">ALCHIMIE_<br>ANALYTIQUE</h3>
+                        <p style="font-family:var(--font-body);color:#64748B;font-size:0.9rem;line-height:1.5;">Transformer le chaos des données en or décisionnel. Une clarté souveraine au cœur de la tempête.</p>
+                    </div>
+                    <div class="liquid-glass fade-up p-8 group" style="animation-delay:0.3s;">
+                        <div class="glass-reflection"></div>
+                        <i class="fas fa-stars text-accent text-2xl mb-6 block group-hover:scale-110 transition-transform"></i>
+                        <h3 style="font-family:var(--font-luxury);font-size:1.2rem;font-weight:700;color:#0F172A;margin-bottom:0.75rem;line-height:1.2;">RÉSONANCE_<br>IMMERSIVE</h3>
+                        <p style="font-family:var(--font-body);color:#64748B;font-size:0.9rem;line-height:1.5;">Des interfaces magnétiques qui capturent l'attention et imposent une émotion pure.</p>
+                    </div>
+                </div>
+
+                <!-- Deep Skills Arsenal -->
+                <div class="fade-up" style="margin-bottom:3rem;display:flex;align-items:center;gap:1.5rem;">
+                    <h2 style="font-family:var(--font-luxury);font-size:1.8rem;font-weight:700;color:var(--color-primary);margin:0;letter-spacing:0.05em;">PROTOCOL_STACK</h2>
+                    <div style="flex:1;height:1px;background:linear-gradient(90deg, var(--color-primary), transparent);"></div>
+                </div>
+
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                    <!-- Creative & Design -->
+                    <div class="terminal-card fade-up" aria-label="Expertise Details" style="padding:1.5rem;">
+                        <span class="tag-pill" style="margin-bottom:1rem;">ORCHESTRATION_VISUELLE</span>
+                        <div style="display:flex;flex-direction:column;gap:12px;">
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">ALGORITHMIC_ART</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Génération d'actifs visuels complexes.</p>
+                            </div>
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">FRONTEND_L3</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Interfaces de grade production.</p>
+                            </div>
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">THEME_FACTORY</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Systèmes de design dynamiques.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Agentic & Build -->
+                    <div class="terminal-card fade-up" aria-label="Expertise Details" style="padding:1.5rem; animation-delay:0.1s;">
+                        <span class="tag-pill" style="margin-bottom:1rem;">AGENTIC_BUILD</span>
+                        <div style="display:flex;flex-direction:column;gap:12px;">
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">MCP_BUILDER</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Développement de serveurs MCP.</p>
+                            </div>
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">SKILL_CREATOR</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Forge de capacités agentiques.</p>
+                            </div>
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">WEB_ARTIFACTS</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Composants web auto-générés.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Intel & Analytics -->
+                    <div class="terminal-card fade-up" aria-label="Expertise Details" style="padding:1.5rem; animation-delay:0.2s;">
+                        <span class="tag-pill" style="margin-bottom:1rem;">INTEL_&_ANALYTICS</span>
+                        <div style="display:flex;flex-direction:column;gap:12px;">
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">DATA_MINING_L3</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Analyse de données multi-sources.</p>
+                            </div>
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">XLSX_ENGINE</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Automatisation analytique Excel.</p>
+                            </div>
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">TREND_FLOW</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Veille technologique automatisée.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Enterprise Comms -->
+                    <div class="terminal-card fade-up" aria-label="Expertise Details" style="padding:1.5rem; animation-delay:0.3s;">
+                        <span class="tag-pill" style="margin-bottom:1rem;">ENTERPRISE_CORE</span>
+                        <div style="display:flex;flex-direction:column;gap:12px;">
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">BRAND_GUARDIAN</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Maintien de l'identité globale.</p>
+                            </div>
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">DOC_COAUTHORING</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Rédaction technique collaborative.</p>
+                            </div>
+                            <div>
+                                <h4 style="font-size:0.9rem;font-weight:700;color:#0F172A;">VIRTUAL_COLLAB</h4>
+                                <p style="font-size:0.75rem;color:#64748B;">Espaces de travail numériques.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <span class="section-number"
+                style="right:2rem;bottom:2rem;opacity:0.05;font-size:10rem;transform:none;color:var(--color-primary);">REPOSITORY</span>
+
+        </section>
+    </main>
+
+    <script src="./assets/js/nav.js"></script>
+    <script src="./assets/js/main.js"></script>
+</body>
+
+</html>

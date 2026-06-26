@@ -1,0 +1,1647 @@
+[
+  {
+    "id": "automating-browser-sessions",
+    "name": "automating-browser-sessions",
+    "source": "C:\\CodeIA\\.agent\\skills\\automating-browser-sessions\\SKILL.md",
+    "description": "Automates browser tasks using the `browser-use` CLI. Use when the user requests persistent browser automation, data extraction from complex web apps, or AI agent browser tasks. Supports persistent sessions, Python execution, and AI mode.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "api-auditor",
+    "name": "api-auditor",
+    "source": "C:\\CodeIA\\.agent\\skills\\basic-sample-api-auditor\\SKILL.md",
+    "description": "Expertise in auditing and testing API endpoints. Use when the user asks to",
+    "category": "Security"
+  },
+  {
+    "id": "performing-fastmcp-development",
+    "name": "performing-fastmcp-development",
+    "source": "C:\\CodeIA\\.agent\\skills\\performing-fastmcp-development\\SKILL.md",
+    "description": "Builds and manages MCP (Model Context Protocol) servers using FastMCP. Use when the user wants to create, debug, or deploy MCP tools, resources, or prompts as Python scripts.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "advanced-evaluation",
+    "name": "advanced-evaluation",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\advanced-evaluation\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"implement LLM-as-judge\", \"compare model outputs\", \"create evaluation rubrics\", \"mitigate evaluation bias\", or mentions direct scoring, pairwise comparison, position bias, evaluation pipelines, or automated quality assessment.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "algorithmic-art",
+    "name": "algorithmic-art",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\algorithmic-art\\SKILL.md",
+    "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "bdi-mental-states",
+    "name": "bdi-mental-states",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\bdi-mental-states\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"model agent mental states\", \"implement BDI architecture\", \"create belief-desire-intention models\", \"transform RDF to beliefs\", \"build cognitive agent\", or mentions BDI ontology, mental state modeling, rational agency, or neuro-symbolic AI integration.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "brainstorming",
+    "name": "brainstorming",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\brainstorming\\SKILL.md",
+    "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "brand-guidelines",
+    "name": "brand-guidelines",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\brand-guidelines\\SKILL.md",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "canvas-design",
+    "name": "canvas-design",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\canvas-design\\SKILL.md",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "claude-api",
+    "name": "claude-api",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\claude-api\\SKILL.md",
+    "description": "Build apps with the Claude API or Anthropic SDK. TRIGGER when: code imports `anthropic`/`@anthropic-ai/sdk`/`claude_agent_sdk`, or user asks to use Claude API, Anthropic SDKs, or Agent SDK. DO NOT TRIGGER when: code imports `openai`/other AI SDK, general programming, or ML/data-science tasks.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "vercel-composition-patterns",
+    "name": "vercel-composition-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\composition-patterns\\SKILL.md",
+    "description": "React composition patterns that scale. Use when refactoring components with",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "context-compression",
+    "name": "context-compression",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\context-compression\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"compress context\", \"summarize conversation history\", \"implement compaction\", \"reduce token usage\", or mentions context compression, structured summarization, tokens-per-task optimization, or long-running agent sessions exceeding context limits.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "context-degradation",
+    "name": "context-degradation",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\context-degradation\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"diagnose context problems\", \"fix lost-in-middle issues\", \"debug agent failures\", \"understand context poisoning\", or mentions context degradation, attention patterns, context clash, context confusion, or agent performance degradation. Provides patterns for recognizing and mitigating context failures.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "context-fundamentals",
+    "name": "context-fundamentals",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\context-fundamentals\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"understand context\", \"explain context windows\", \"design agent architecture\", \"debug context issues\", \"optimize context usage\", or discusses context components, attention mechanics, progressive disclosure, or context budgeting. Provides foundational understanding of context engineering for AI agent systems.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "context-optimization",
+    "name": "context-optimization",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\context-optimization\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"optimize context\", \"reduce token costs\", \"improve context efficiency\", \"implement KV-cache optimization\", \"partition context\", or mentions context limits, observation masking, context budgeting, or extending effective context capacity.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "defuddle",
+    "name": "defuddle",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\defuddle\\SKILL.md",
+    "description": "Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens. Use instead of WebFetch when the user provides a URL to read or analyze, for online documentation, articles, blog posts, or any standard web page.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\dispatching-parallel-agents\\SKILL.md",
+    "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "doc-coauthoring",
+    "name": "doc-coauthoring",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\doc-coauthoring\\SKILL.md",
+    "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+    "category": "Security"
+  },
+  {
+    "id": "docx",
+    "name": "docx",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\docx\\SKILL.md",
+    "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx files, inserting or replacing images in documents, performing find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a 'report', 'memo', 'letter', 'template', or similar deliverable as a Word or .docx file, use this skill. Do NOT use for PDFs, spreadsheets, Google Docs, or general coding tasks unrelated to document generation.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "evaluation",
+    "name": "evaluation",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\evaluation\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"evaluate agent performance\", \"build test framework\", \"measure agent quality\", \"create evaluation rubrics\", or mentions LLM-as-judge, multi-dimensional evaluation, agent testing, or quality gates for agent pipelines.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "executing-plans",
+    "name": "executing-plans",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\executing-plans\\SKILL.md",
+    "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "filesystem-context",
+    "name": "filesystem-context",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\filesystem-context\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"offload context to files\", \"implement dynamic context discovery\", \"use filesystem for agent memory\", \"reduce context window bloat\", or mentions file-based context management, tool output persistence, agent scratch pads, or just-in-time context loading.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "finishing-a-development-branch",
+    "name": "finishing-a-development-branch",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\finishing-a-development-branch\\SKILL.md",
+    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "frontend-design",
+    "name": "frontend-design",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\frontend-design\\SKILL.md",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "hosted-agents",
+    "name": "hosted-agents",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\hosted-agents\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"build background agent\", \"create hosted coding agent\", \"set up sandboxed execution\", \"implement multiplayer agent\", or mentions background agents, sandboxed VMs, agent infrastructure, Modal sandboxes, self-spawning agents, or remote coding environments.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "internal-comms",
+    "name": "internal-comms",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\internal-comms\\SKILL.md",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "category": "Security"
+  },
+  {
+    "id": "json-canvas",
+    "name": "json-canvas",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\json-canvas\\SKILL.md",
+    "description": "Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "mcp-builder",
+    "name": "mcp-builder",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\mcp-builder\\SKILL.md",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "memory-systems",
+    "name": "memory-systems",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\memory-systems\\SKILL.md",
+    "description": ">",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "multi-agent-patterns",
+    "name": "multi-agent-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\multi-agent-patterns\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"design multi-agent system\", \"implement supervisor pattern\", \"create swarm architecture\", \"coordinate multiple agents\", or mentions multi-agent patterns, context isolation, agent handoffs, sub-agents, or parallel agent execution.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "notebooklm",
+    "name": "notebooklm",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\notebooklm\\SKILL.md",
+    "description": "Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through document-only responses.",
+    "category": "Security"
+  },
+  {
+    "id": "obsidian-bases",
+    "name": "obsidian-bases",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\obsidian-bases\\SKILL.md",
+    "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "obsidian-cli",
+    "name": "obsidian-cli",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\obsidian-cli\\SKILL.md",
+    "description": "Interact with Obsidian vaults using the Obsidian CLI to read, create, search, and manage notes, tasks, properties, and more. Also supports plugin and theme development with commands to reload plugins, run JavaScript, capture errors, take screenshots, and inspect the DOM. Use when the user asks to interact with their Obsidian vault, manage notes, search vault content, perform vault operations from the command line, or develop and debug Obsidian plugins and themes.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "obsidian-markdown",
+    "name": "obsidian-markdown",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\obsidian-markdown\\SKILL.md",
+    "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "pdf",
+    "name": "pdf",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\pdf\\SKILL.md",
+    "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "planning-with-files",
+    "name": "planning-with-files",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\planning-with-files\\SKILL.md",
+    "description": "Implements Manus-style file-based planning to organize and track progress on complex tasks. Creates task_plan.md, findings.md, and progress.md. Use when asked to plan out, break down, or organize a multi-step project, research task, or any work requiring >5 tool calls. Supports automatic session recovery after /clear.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "pptx",
+    "name": "pptx",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\pptx\\SKILL.md",
+    "description": "Use this skill any time a .pptx file is involved in any way — as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx file (even if the extracted content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining or splitting slide files; working with templates, layouts, speaker notes, or comments. Trigger whenever the user mentions \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" or references a .pptx filename, regardless of what they plan to do with the content afterward. If a .pptx file needs to be opened, created, or touched, use this skill.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "project-development",
+    "name": "project-development",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\project-development\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"start an LLM project\", \"design batch pipeline\", \"evaluate task-model fit\", \"structure agent project\", or mentions pipeline architecture, agent-assisted development, cost estimation, or choosing between LLM and traditional approaches.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "vercel-react-best-practices",
+    "name": "vercel-react-best-practices",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\react-best-practices\\SKILL.md",
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "vercel-react-native-skills",
+    "name": "vercel-react-native-skills",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\react-native-skills\\SKILL.md",
+    "description": "React Native and Expo best practices for building performant mobile apps. Use",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "receiving-code-review",
+    "name": "receiving-code-review",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\receiving-code-review\\SKILL.md",
+    "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "remotion-best-practices",
+    "name": "remotion-best-practices",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\remotion\\SKILL.md",
+    "description": "Best practices for Remotion - Video creation in React",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "requesting-code-review",
+    "name": "requesting-code-review",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\requesting-code-review\\SKILL.md",
+    "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "skill-creator",
+    "name": "skill-creator",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\skill-creator\\SKILL.md",
+    "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "slack-gif-creator",
+    "name": "slack-gif-creator",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\slack-gif-creator\\SKILL.md",
+    "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "subagent-driven-development",
+    "name": "subagent-driven-development",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\subagent-driven-development\\SKILL.md",
+    "description": "Use when executing implementation plans with independent tasks in the current session",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "supabase-postgres-best-practices",
+    "name": "supabase-postgres-best-practices",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\supabase-postgres-best-practices\\SKILL.md",
+    "description": "Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "systematic-debugging",
+    "name": "systematic-debugging",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\systematic-debugging\\SKILL.md",
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "test-driven-development",
+    "name": "test-driven-development",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\test-driven-development\\SKILL.md",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "theme-factory",
+    "name": "theme-factory",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\theme-factory\\SKILL.md",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "tool-design",
+    "name": "tool-design",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\tool-design\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"design agent tools\", \"create tool descriptions\", \"reduce tool complexity\", \"implement MCP tools\", or mentions tool consolidation, architectural reduction, tool naming conventions, or agent-tool interfaces.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ui-ux-pro-max",
+    "name": "ui-ux-pro-max",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\ui-ux-pro-max\\SKILL.md",
+    "description": "UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 8 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form, chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "using-git-worktrees",
+    "name": "using-git-worktrees",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\using-git-worktrees\\SKILL.md",
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "using-superpowers",
+    "name": "using-superpowers",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\using-superpowers\\SKILL.md",
+    "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "verification-before-completion",
+    "name": "verification-before-completion",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\verification-before-completion\\SKILL.md",
+    "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "web-artifacts-builder",
+    "name": "web-artifacts-builder",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\web-artifacts-builder\\SKILL.md",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "web-design-guidelines",
+    "name": "web-design-guidelines",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\web-design-guidelines\\SKILL.md",
+    "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
+    "category": "Security"
+  },
+  {
+    "id": "webapp-testing",
+    "name": "webapp-testing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\webapp-testing\\SKILL.md",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "writing-plans",
+    "name": "writing-plans",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\writing-plans\\SKILL.md",
+    "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "writing-skills",
+    "name": "writing-skills",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\writing-skills\\SKILL.md",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "xlsx",
+    "name": "xlsx",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\skills\\xlsx\\SKILL.md",
+    "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like \\\"the xlsx in my downloads\\\") — and wants something done to it or produced from it. Also trigger for cleaning or restructuring messy tabular data files (malformed rows, misplaced headers, junk data) into proper spreadsheets. The deliverable must be a spreadsheet file. Do NOT trigger when the primary deliverable is a Word document, HTML report, standalone Python script, database pipeline, or Google Sheets API integration, even if tabular data is involved.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "template-skill",
+    "name": "template-skill",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\guanyang\\template\\SKILL.md",
+    "description": "Replace with description of the skill and when Claude should use it.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "backend-patterns",
+    "name": "backend-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\backend-patterns\\SKILL.md",
+    "description": "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "clickhouse-io",
+    "name": "clickhouse-io",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\clickhouse-io\\SKILL.md",
+    "description": "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "coding-standards",
+    "name": "coding-standards",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\coding-standards\\SKILL.md",
+    "description": "Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "configure-ecc",
+    "name": "configure-ecc",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\configure-ecc\\SKILL.md",
+    "description": "Interactive installer for Everything Claude Code  -  guides users through selecting and installing skills and rules to user-level or project-level directories, verifies paths, and optionally optimizes installed files.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "continuous-learning",
+    "name": "continuous-learning",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\continuous-learning\\SKILL.md",
+    "description": "Automatically extract reusable patterns from Claude Code sessions and save them as learned skills for future use.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "continuous-learning-v2",
+    "name": "continuous-learning-v2",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\continuous-learning-v2\\SKILL.md",
+    "description": "Instinct-based learning system that observes sessions via hooks, creates atomic instincts with confidence scoring, and evolves them into skills/commands/agents.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "django-patterns",
+    "name": "django-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\django-patterns\\SKILL.md",
+    "description": "Django architecture patterns, REST API design with DRF, ORM best practices, caching, signals, middleware, and production-grade Django apps.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "django-security",
+    "name": "django-security",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\django-security\\SKILL.md",
+    "description": "Django security best practices, authentication, authorization, CSRF protection, SQL injection prevention, XSS prevention, and secure deployment configurations.",
+    "category": "Security"
+  },
+  {
+    "id": "django-tdd",
+    "name": "django-tdd",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\django-tdd\\SKILL.md",
+    "description": "Django testing strategies with pytest-django, TDD methodology, factory_boy, mocking, coverage, and testing Django REST Framework APIs.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "django-verification",
+    "name": "django-verification",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\django-verification\\SKILL.md",
+    "description": "Verification loop for Django projects: migrations, linting, tests with coverage, security scans, and deployment readiness checks before release or PR.",
+    "category": "Security"
+  },
+  {
+    "id": "eval-harness",
+    "name": "eval-harness",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\eval-harness\\SKILL.md",
+    "description": "Formal evaluation framework for Claude Code sessions implementing eval-driven development (EDD) principles",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "frontend-patterns",
+    "name": "frontend-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\frontend-patterns\\SKILL.md",
+    "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "golang-patterns",
+    "name": "golang-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\golang-patterns\\SKILL.md",
+    "description": "Idiomatic Go patterns, best practices, and conventions for building robust, efficient, and maintainable Go applications.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "golang-testing",
+    "name": "golang-testing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\golang-testing\\SKILL.md",
+    "description": "Go testing patterns including table-driven tests, subtests, benchmarks, fuzzing, and test coverage. Follows TDD methodology with idiomatic Go practices.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "iterative-retrieval",
+    "name": "iterative-retrieval",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\iterative-retrieval\\SKILL.md",
+    "description": "Pattern for progressively refining context retrieval to solve the subagent context problem",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "java-coding-standards",
+    "name": "java-coding-standards",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\java-coding-standards\\SKILL.md",
+    "description": "Java coding standards for Spring Boot services: naming, immutability, Optional usage, streams, exceptions, generics, and project layout.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "jpa-patterns",
+    "name": "jpa-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\jpa-patterns\\SKILL.md",
+    "description": "JPA/Hibernate patterns for entity design, relationships, query optimization, transactions, auditing, indexing, pagination, and pooling in Spring Boot.",
+    "category": "Security"
+  },
+  {
+    "id": "nutrient-document-processing",
+    "name": "nutrient-document-processing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\nutrient-document-processing\\SKILL.md",
+    "description": "Process, convert, OCR, extract, redact, sign, and fill documents using the Nutrient DWS API. Works with PDFs, DOCX, XLSX, PPTX, HTML, and images.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "postgres-patterns",
+    "name": "postgres-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\postgres-patterns\\SKILL.md",
+    "description": "PostgreSQL database patterns for query optimization, schema design, indexing, and security. Based on Supabase best practices.",
+    "category": "Security"
+  },
+  {
+    "id": "skill",
+    "name": "SKILL",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\project-guidelines-example\\SKILL.md",
+    "description": "No description provided.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "python-patterns",
+    "name": "python-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\python-patterns\\SKILL.md",
+    "description": "Pythonic idioms, PEP 8 standards, type hints, and best practices for building robust, efficient, and maintainable Python applications.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "python-testing",
+    "name": "python-testing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\python-testing\\SKILL.md",
+    "description": "Python testing strategies using pytest, TDD methodology, fixtures, mocking, parametrization, and coverage requirements.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "security-review",
+    "name": "security-review",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\security-review\\SKILL.md",
+    "description": "Use this skill when adding authentication, handling user input, working with secrets, creating API endpoints, or implementing payment/sensitive features. Provides comprehensive security checklist and patterns.",
+    "category": "Security"
+  },
+  {
+    "id": "springboot-patterns",
+    "name": "springboot-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\springboot-patterns\\SKILL.md",
+    "description": "Spring Boot architecture patterns, REST API design, layered services, data access, caching, async processing, and logging. Use for Java Spring Boot backend work.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "springboot-security",
+    "name": "springboot-security",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\springboot-security\\SKILL.md",
+    "description": "Spring Security best practices for authn/authz, validation, CSRF, secrets, headers, rate limiting, and dependency security in Java Spring Boot services.",
+    "category": "Security"
+  },
+  {
+    "id": "springboot-tdd",
+    "name": "springboot-tdd",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\springboot-tdd\\SKILL.md",
+    "description": "Test-driven development for Spring Boot using JUnit 5, Mockito, MockMvc, Testcontainers, and JaCoCo. Use when adding features, fixing bugs, or refactoring.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "springboot-verification",
+    "name": "springboot-verification",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\springboot-verification\\SKILL.md",
+    "description": "Verification loop for Spring Boot projects: build, static analysis, tests with coverage, security scans, and diff review before release or PR.",
+    "category": "Security"
+  },
+  {
+    "id": "strategic-compact",
+    "name": "strategic-compact",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\strategic-compact\\SKILL.md",
+    "description": "Suggests manual context compaction at logical intervals to preserve context through task phases rather than arbitrary auto-compaction.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "tdd-workflow",
+    "name": "tdd-workflow",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\krishnakanthb13\\skills\\tdd-workflow\\SKILL.md",
+    "description": "Use this skill when writing new features, fixing bugs, or refactoring code. Enforces test-driven development with 80%+ coverage including unit, integration, and E2E tests.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "always-verify-gcp",
+    "name": "always-verify-gcp",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\rominirani\\gemini-cli-skills\\always-verify-gcp\\SKILL.md",
+    "description": "A workflow skill for all Google Cloud resource management tasks (create, delete, modify). This skill ensures that the correct CLI tool (`gcloud`, `bq`, `gsutil`) is chosen and that its commands are verified against the latest official documentation before execution.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "adk-tool-scaffold",
+    "name": "adk-tool-scaffold",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\rominirani\\skills_tutorial\\adk-tool-scaffold\\SKILL.md",
+    "description": "Scaffolds a new custom Tool class for the Agent Development Kit (ADK).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "database-schema-validator",
+    "name": "database-schema-validator",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\rominirani\\skills_tutorial\\database-schema-validator\\SKILL.md",
+    "description": "Validates SQL schema files for compliance with internal safety and naming policies.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "git-commit-formatter",
+    "name": "git-commit-formatter",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\rominirani\\skills_tutorial\\git-commit-formatter\\SKILL.md",
+    "description": "Formats git commit messages according to Conventional Commits specification. Use this when the user asks to commit changes or write a commit message.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "json-to-pydantic",
+    "name": "json-to-pydantic",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\rominirani\\skills_tutorial\\json-to-pydantic\\SKILL.md",
+    "description": "Converts JSON data snippets into Python Pydantic data models.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "license-header-adder",
+    "name": "license-header-adder",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\rominirani\\skills_tutorial\\license-header-adder\\SKILL.md",
+    "description": "Adds the standard open-source license header to new source files. Use involves creating new code files that require copyright attribution.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "component-common-domain-detection",
+    "name": "component-common-domain-detection",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\component-common-domain-detection\\SKILL.md",
+    "description": "Finds duplicate business logic spread across multiple components and suggests consolidation. Use when asking \"where is this logic duplicated?\", \"find common code between services\", \"what can be consolidated?\", \"detect shared domain logic\", or analyzing component overlap before refactoring. Do NOT use for code-level duplication detection (use linters) or dependency analysis (use coupling-analysis).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "component-flattening-analysis",
+    "name": "component-flattening-analysis",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\component-flattening-analysis\\SKILL.md",
+    "description": "Detects misplaced classes and fixes component hierarchy problems — finds code that should belong inside a component but sits at the root level. Use when asking \"clean up component structure\", \"find orphaned classes\", \"fix module hierarchy\", \"flatten nested components\", or analyzing why namespaces have misplaced code. Do NOT use for dependency analysis (use coupling-analysis) or domain grouping (use domain-identification-grouping).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "component-identification-sizing",
+    "name": "component-identification-sizing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\component-identification-sizing\\SKILL.md",
+    "description": "Maps architectural components in a codebase and measures their size to identify what should be extracted first. Use when asking \"how big is each module?\", \"what components do I have?\", \"which service is too large?\", \"analyze codebase structure\", \"size my monolith\", or planning where to start decomposing. Do NOT use for runtime performance sizing or infrastructure capacity planning.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "coupling-analysis",
+    "name": "coupling-analysis",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\coupling-analysis\\SKILL.md",
+    "description": "Analyzes coupling between modules using the three-dimensional model (strength, distance, volatility) from \"Balancing Coupling in Software Design\". Use when asking \"are these modules too coupled?\", \"show me dependencies\", \"analyze integration quality\", \"which modules should I decouple?\", \"coupling report\", or evaluating architectural health. Do NOT use for domain boundary analysis (use domain-analysis) or component sizing (use component-identification-sizing).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "decomposition-planning-roadmap",
+    "name": "decomposition-planning-roadmap",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\decomposition-planning-roadmap\\SKILL.md",
+    "description": "Creates step-by-step decomposition plans and migration roadmaps for breaking apart monolithic applications. Use when asking \"what order should I extract services?\", \"plan my migration\", \"create a decomposition roadmap\", \"prioritize what to split\", \"monolith to microservices strategy\", or tracking decomposition progress. Do NOT use for domain analysis (use domain-analysis) or component sizing (use component-identification-sizing).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "domain-analysis",
+    "name": "domain-analysis",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\domain-analysis\\SKILL.md",
+    "description": "Maps business domains and suggests service boundaries in any codebase using DDD Strategic Design. Use when asking \"what are the domains in this codebase?\", \"where should I draw service boundaries?\", \"identify bounded contexts\", \"classify subdomains\", \"DDD analysis\", or analyzing domain cohesion. Do NOT use for grouping existing components into domains (use domain-identification-grouping) or dependency analysis (use coupling-analysis).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "domain-identification-grouping",
+    "name": "domain-identification-grouping",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\domain-identification-grouping\\SKILL.md",
+    "description": "Groups existing components into logical business domains to plan service-based architecture. Use when asking \"which components belong together?\", \"group these into services\", \"organize by domain\", \"component-to-domain mapping\", or planning service extraction from an existing codebase. Do NOT use for identifying new domains from scratch (use domain-analysis) or analyzing coupling (use coupling-analysis).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "frontend-blueprint",
+    "name": "frontend-blueprint",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\frontend-blueprint\\SKILL.md",
+    "description": "AI frontend specialist and design consultant that guides users through a structured discovery process before generating any code. Collects visual references, design tokens, typography, icons, layout preferences, and brand guidelines to ensure the final output matches the user's vision with high fidelity. Use when the user asks to build, design, create, or improve any frontend interface — websites, landing pages, dashboards, components, apps, emails, forms, modals, or any UI element. Also triggers on \"build me a UI\", \"design a page\", \"create a component\", \"improve this layout\", \"make this look better\", \"frontend\", \"interface\", \"redesign\", or when the user provides mockups, screenshots, or design references. Do NOT use for backend logic, API design, database schemas, or non-visual code tasks.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "legacy-migration-planner",
+    "name": "legacy-migration-planner",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\legacy-migration-planner\\SKILL.md",
+    "description": "Use when planning legacy system migrations, codebase modernization, monolith decomposition, microservices consolidation, cross-language rewrites, or framework upgrades. Invoke for strangler fig pattern, incremental migration strategy, or refactoring roadmaps. Do NOT use for domain analysis (use domain-analysis), component sizing (use component-identification-sizing), or step-by-step decomposition plans (use decomposition-planning-roadmap).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "react-composition-patterns",
+    "name": "react-composition-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(architecture)\\react-composition-patterns\\SKILL.md",
+    "description": "React composition patterns that scale. Use when refactoring components with boolean prop proliferation, building flexible component libraries, or designing reusable APIs. Triggers on tasks involving compound components, render props, context providers, or component architecture. Includes React 19 API changes. Do NOT use for React/Next.js performance optimization (use react-best-practices instead).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "aws-advisor",
+    "name": "aws-advisor",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(cloud)\\aws-advisor\\SKILL.md",
+    "description": "Expert AWS Cloud Advisor for architecture design, security review, and implementation guidance. Leverages AWS MCP tools for accurate, documentation-backed answers. Use when user asks about AWS architecture, security, service selection, migrations, troubleshooting, or learning AWS. Triggers on AWS, Lambda, S3, EC2, ECS, EKS, DynamoDB, RDS, CloudFormation, CDK, Terraform, Serverless, SAM, IAM, VPC, API Gateway, or any AWS service. Do NOT use for non-AWS cloud providers or general infrastructure without AWS context.",
+    "category": "Security"
+  },
+  {
+    "id": "cloudflare-deploy",
+    "name": "cloudflare-deploy",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(cloud)\\cloudflare-deploy\\SKILL.md",
+    "description": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the user asks to deploy, host, publish, or set up a project on Cloudflare. Do NOT use for deploying to Vercel, Netlify, or Render (use their respective skills).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "netlify-deploy",
+    "name": "netlify-deploy",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(cloud)\\netlify-deploy\\SKILL.md",
+    "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys. Do NOT use for deploying to Vercel, Cloudflare, or Render (use their respective skills).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "render-deploy",
+    "name": "render-deploy",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(cloud)\\render-deploy\\SKILL.md",
+    "description": "Deploy applications to Render by analyzing codebases, generating render.yaml Blueprints, and providing Dashboard deeplinks. Use when the user wants to deploy, host, publish, or set up their application on Render's cloud platform. Do NOT use for deploying to Vercel, Netlify, or Cloudflare (use their respective skills).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "vercel-deploy",
+    "name": "vercel-deploy",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(cloud)\\vercel-deploy\\SKILL.md",
+    "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\". Do NOT use for deploying to Netlify, Cloudflare, or Render (use their respective skills).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "create-adr",
+    "name": "create-adr",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(creation)\\create-adr\\SKILL.md",
+    "description": "Creates Architecture Decision Records (ADRs) to document significant architectural choices and their rationale for future team members. Use when the user says \"write an ADR\", \"document this decision\", \"record why we chose X\", \"add an architecture decision record\", \"create an ADR for\", or wants to capture the reasoning behind a technical choice so the team understands it later. Do NOT use when the decision hasn't been made yet (use create-rfc instead), for implementation planning (use technical-design-doc-creator), or for general documentation.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "create-rfc",
+    "name": "create-rfc",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(creation)\\create-rfc\\SKILL.md",
+    "description": "Creates structured Request for Comments (RFC) documents for proposing and deciding on significant changes. Use when the user says \"write an RFC\", \"create a proposal\", \"I need to propose a change\", \"draft an RFC\", \"document a decision\", or needs stakeholder alignment before making a major technical or process decision. Do NOT use for TDDs/implementation docs (use technical-design-doc-creator instead), README files, or general documentation.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "technical-design-doc-creator",
+    "name": "technical-design-doc-creator",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(creation)\\create-technical-design-doc\\SKILL.md",
+    "description": "Creates comprehensive Technical Design Documents (TDD) with mandatory and optional sections through interactive discovery. Use when user asks to \"write a design doc\", \"create a TDD\", \"technical spec\", \"architecture document\", \"RFC\", \"design proposal\", or needs to document a technical decision before implementation. Do NOT use for README files, API docs, or general documentation (use docs-writer instead).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "cursor-subagent-creator",
+    "name": "cursor-subagent-creator",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(creation)\\cursor-subagent-creator\\SKILL.md",
+    "description": "Creates Cursor-specific AI subagents with isolated context for complex multi-step workflows. Use when creating subagents for Cursor editor specifically, following Cursor's patterns and directories (.cursor/agents/). Triggers on \"cursor subagent\", \"cursor agent\". Do NOT use for generic subagent creation outside Cursor (use subagent-creator instead).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "skill-architect",
+    "name": "skill-architect",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(creation)\\skill-architect\\SKILL.md",
+    "description": "Expert guide for designing and building high-quality skills from scratch through structured conversation. Use when someone wants to create a new skill, build a skill, design a skill, or asks for help making Agents do something consistently. Also use when someone says \"turn this into a skill\", \"I want to automate this workflow\", \"how do I teach my Agent to do X\", or mentions creating SKILL.md files. Covers standalone skills and MCP-enhanced workflows. Do NOT use for creating subagents (use subagent-creator) or technical design documents (use create-technical-design-doc).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "subagent-creator",
+    "name": "subagent-creator",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(creation)\\subagent-creator\\SKILL.md",
+    "description": "Guide for creating AI subagents with isolated context for complex multi-step workflows. Use when users want to create a subagent, specialized agent, verifier, debugger, or orchestrator that requires isolated context and deep specialization. Works with any agent that supports subagent delegation. Triggers on \"create subagent\", \"new agent\", \"specialized assistant\", \"create verifier\". Do NOT use for Cursor-specific subagents (use cursor-subagent-creator instead).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "the-fool",
+    "name": "the-fool",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(decision-making)\\the-fool\\SKILL.md",
+    "description": "Use when challenging ideas, plans, decisions, or proposals. Invoke to play devil's advocate, run a pre-mortem, red team, stress test assumptions, audit evidence quality, or find blind spots before committing. Do NOT use for building plans, making decisions, or generating solutions — this skill only challenges and critiques.",
+    "category": "Security"
+  },
+  {
+    "id": "figma",
+    "name": "figma",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(design)\\figma\\SKILL.md",
+    "description": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Use when a task involves Figma URLs, node IDs, design-to-code implementation, or Figma MCP setup and troubleshooting. Covers general Figma data fetching and exploration. Do NOT use when the goal is specifically pixel-perfect code implementation from a Figma design (use figma-implement-design instead).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "figma-implement-design",
+    "name": "figma-implement-design",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(design)\\figma-implement-design\\SKILL.md",
+    "description": "Translate Figma nodes into production-ready code with 1:1 visual fidelity using the Figma MCP workflow (design context, screenshots, assets, and project-convention translation). Use when the user provides Figma URLs or node IDs and asks to implement designs or components that must match Figma specs. Requires a working Figma MCP server connection. Do NOT use for general Figma data fetching, variable exploration, or MCP troubleshooting (use figma instead).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "codenavi",
+    "name": "codenavi",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\codenavi\\SKILL.md",
+    "description": "Your pathfinder for navigating unknown codebases. Investigates with precision, implements surgically, and never assumes — if it doesn't know, it says so. Maintains a .notebook/ knowledge base that grows across sessions, turning every discovery into lasting intelligence. Summons available skills, MCPs, and docs when the mission demands. Use when fixing bugs, implementing features, refactoring, investigating flows, or any development task in unfamiliar territory. Triggers on \"fix this\", \"implement this\", \"how does this work\", \"investigate this flow\", \"help me with this code\". Do NOT use for greenfield scaffolding, CI/CD, or infrastructure provisioning.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "coding-guidelines",
+    "name": "coding-guidelines",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\coding-guidelines\\SKILL.md",
+    "description": "Behavioral guidelines to reduce common LLM coding mistakes. Use when writing, modifying, or reviewing code — implementation tasks, code changes, refactoring, bug fixes, or feature development. Do NOT use for architecture design, documentation, or non-code tasks.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "confluence-assistant",
+    "name": "confluence-assistant",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\confluence-assistant\\SKILL.md",
+    "description": "Expert in Confluence operations using Atlassian MCP. Use when the user says \"search Confluence\", \"create a Confluence page\", \"update a page\", \"find documentation in Confluence\", \"list spaces\", or \"add a comment to a page\". Do NOT use for Jira issues, general web search, or local file creation.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "docs-writer",
+    "name": "docs-writer",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\docs-writer\\SKILL.md",
+    "description": "Write, review, and edit documentation files with consistent structure, tone, and technical accuracy. Use when creating docs, reviewing markdown files, writing READMEs, updating `/docs` directories, or when user says \"write documentation\", \"review this doc\", \"improve this README\", \"create a guide\", or \"edit markdown\". Do NOT use for code comments, inline JSDoc, or API reference generation.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "gh-address-comments",
+    "name": "gh-address-comments",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\gh-address-comments\\SKILL.md",
+    "description": "Address review and issue comments on the open GitHub PR for the current branch using gh CLI. Use when user says \"address PR comments\", \"fix review feedback\", \"respond to PR review\", or \"handle PR comments\". Verifies gh auth first and prompts to authenticate if not logged in. Do NOT use for creating PRs, CI debugging (use gh-fix-ci), or general Git operations.",
+    "category": "Security"
+  },
+  {
+    "id": "jira-assistant",
+    "name": "jira-assistant",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\jira-assistant\\SKILL.md",
+    "description": "Manage Jira issues via Atlassian MCP — search, create, update, transition status, and handle sprint tasks. Auto-detects workspace configuration. Use when user says \"create a Jira ticket\", \"update my sprint\", \"check Jira status\", \"transition this issue\", \"search Jira\", or \"move ticket to done\". Do NOT use for Confluence pages (use confluence-assistant).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "nestjs-modular-monolith",
+    "name": "nestjs-modular-monolith",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\nestjs-modular-monolith\\SKILL.md",
+    "description": "Specialist in designing and implementing scalable modular monolith architectures using NestJS with DDD, Clean Architecture, and CQRS patterns. Use when building modular monolith backends, designing bounded contexts, creating domain modules, implementing event-driven module communication, or when user mentions \"modular monolith\", \"bounded contexts\", \"module boundaries\", \"DDD\", \"CQRS\", \"clean architecture NestJS\", or \"monolith to microservices\". Do NOT use for simple CRUD APIs, frontend work, or general NestJS questions without architectural context.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "react-native-expert",
+    "name": "react-native-expert",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\react-native-expert\\SKILL.md",
+    "description": "Senior React Native and Expo engineer for building production-ready cross-platform mobile apps. Use when building React Native components, implementing navigation with Expo Router, optimizing list and scroll performance, working with animations via Reanimated, handling platform-specific code (iOS/Android), integrating native modules, or structuring Expo projects. Triggers on React Native, Expo, mobile app, iOS app, Android app, cross-platform, native module, FlatList, FlashList, LegendList, Reanimated, Expo Router, mobile performance, app store. Do NOT use for Flutter, web-only React, or backend Node.js tasks.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "shopify-developer",
+    "name": "shopify-developer",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\shopify-developer\\SKILL.md",
+    "description": "Complete Shopify development reference covering Liquid templating, OS 2.0 themes, GraphQL APIs, Hydrogen, Functions, and performance optimization (API v2026-01). Use when working with .liquid files, building Shopify themes or apps, writing GraphQL queries for Shopify, debugging Liquid errors, creating app extensions, migrating from Scripts to Functions, or building headless storefronts. Triggers on \"Shopify\", \"Liquid template\", \"Hydrogen\", \"Storefront API\", \"theme development\", \"Shopify Functions\", \"Polaris\". Do NOT use for non-Shopify e-commerce platforms.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "tlc-spec-driven",
+    "name": "tlc-spec-driven",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(development)\\tlc-spec-driven\\SKILL.md",
+    "description": "Project and feature planning with 4 adaptive phases - Specify, Design, Tasks, Execute. Auto-sizes depth by complexity. Creates atomic tasks with verification criteria, atomic git commits, requirement traceability, and persistent memory across sessions. Stack-agnostic. Use when (1) Starting new projects (initialize vision, goals, roadmap), (2) Working with existing codebases (map stack, architecture, conventions), (3) Planning features (requirements, design, task breakdown), (4) Implementing with verification and atomic commits, (5) Quick ad-hoc tasks (bug fixes, config changes), (6) Tracking decisions/blockers/deferred ideas across sessions, (7) Pausing/resuming work. Triggers on \"initialize project\", \"map codebase\", \"specify feature\", \"discuss feature\", \"design\", \"tasks\", \"implement\", \"validate\", \"verify work\", \"UAT\", \"quick fix\", \"quick task\", \"pause work\", \"resume work\". Do NOT use for architecture decomposition analysis (use architecture skills) or technical design docs (use create-technical-design-doc).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ai-cold-outreach",
+    "name": "ai-cold-outreach",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\ai-cold-outreach\\SKILL.md",
+    "description": "When the user wants to build an AI-powered outreach system, write cold emails, improve deliverability, or scale personalized outreach. Also use when the user mentions 'cold email,' 'cold outreach,' 'outreach automation,' 'Instantly,' 'Smartlead,' 'Clay,' 'email sequences,' 'deliverability,' 'personalization at scale,' 'reply rate,' or 'outreach stack.' This skill covers the complete AI cold outreach system from signal detection through conversion. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ai-pricing",
+    "name": "ai-pricing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\ai-pricing\\SKILL.md",
+    "description": "When the user wants to price an AI product, choose a charge metric, design pricing tiers, or optimize margins. Also use when the user mentions 'AI pricing,' 'usage-based pricing,' 'consumption pricing,' 'outcome pricing,' 'BYOK,' 'bring your own key,' 'per-seat pricing,' 'pricing tiers,' 'AI margins,' 'cost per token,' or 'pricing model.' This skill covers pricing strategy, packaging, and margin management for AI-native products. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ai-sdr",
+    "name": "ai-sdr",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\ai-sdr\\SKILL.md",
+    "description": "When the user wants to deploy AI sales development reps, automate sales qualification, build signal-to-action routing, or design AI agent architecture for sales. Also use when the user mentions 'AI SDR,' 'AI sales agent,' 'automated qualification,' 'signal routing,' 'sales automation,' '11x,' 'Artisan,' 'AiSDR,' 'AI BDR,' or 'autonomous sales.' This skill covers AI SDR deployment, qualification automation, and agent architecture for sales development. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ai-seo",
+    "name": "ai-seo",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\ai-seo\\SKILL.md",
+    "description": "When the user wants to build programmatic SEO with AI, create competitor alternative pages, optimize for AI Overviews, or scale content production. Also use when the user mentions 'SEO,' 'programmatic SEO,' 'AI content,' 'competitor alternative pages,' 'AI Overviews,' 'search optimization,' 'DataForSEO,' 'content at scale,' 'keyword strategy,' or 'organic traffic.' This skill covers AI-powered SEO strategy from keyword research through programmatic page generation. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ai-ugc-ads",
+    "name": "ai-ugc-ads",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\ai-ugc-ads\\SKILL.md",
+    "description": "When the user wants to create UGC ad campaigns, recruit UGC creators, generate AI UGC content, or scale with user-generated content. Also use when the user mentions 'UGC,' 'user-generated content,' 'creator ads,' 'Spark Ads,' 'whitelisting,' 'AI UGC,' 'Arcads,' 'Creatify,' 'creator brief,' or 'UGC testing.' This skill covers the UGC growth framework from creator recruitment through AI-powered scaling. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "content-to-pipeline",
+    "name": "content-to-pipeline",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\content-to-pipeline\\SKILL.md",
+    "description": "When the user wants to turn content into revenue, build a content-led GTM motion, reverse engineer distribution, or repurpose content across platforms. Also use when the user mentions 'content marketing,' 'content-led growth,' 'content to pipeline,' 'distribution,' 'content repurposing,' 'content strategy,' 'thought leadership,' 'newsletter,' 'content flywheel,' 'organic growth.' This skill covers content-to-revenue systems from creation through pipeline attribution. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "expansion-retention",
+    "name": "expansion-retention",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\expansion-retention\\SKILL.md",
+    "description": "When the user wants to reduce churn, build expansion revenue, automate customer success, or optimize net revenue retention. Also use when the user mentions 'churn,' 'retention,' 'expansion revenue,' 'upsell,' 'NRR,' 'net revenue retention,' 'customer success,' 'land and expand,' 'closed-lost,' or 'renewal.' This skill covers expansion and retention systems from usage triggers through automated customer success. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "gtm-engineering",
+    "name": "gtm-engineering",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\gtm-engineering\\SKILL.md",
+    "description": "When the user wants to build GTM automation with code, design workflow architectures, use AI agents for GTM tasks, or implement the 'architecture over tools' principle. Also use when the user mentions 'GTM engineering,' 'GTM automation,' 'n8n,' 'Make,' 'Zapier,' 'workflow automation,' 'Clay API,' 'instruction stacks,' 'AI agents for GTM,' or 'revenue automation.' This skill covers technical GTM infrastructure from workflow design through agent orchestration. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "gtm-metrics",
+    "name": "gtm-metrics",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\gtm-metrics\\SKILL.md",
+    "description": "When the user wants to define GTM metrics, build a metrics dashboard, measure pipeline efficiency, or track AI product performance. Also use when the user mentions 'GTM metrics,' 'revenue latency,' 'pipeline metrics,' 'TTFV,' 'time-to-first-value,' 'data health,' 'attribution,' 'conversion rate,' 'CAC,' 'LTV,' 'NRR,' 'GTM dashboard,' 'magic number,' 'pipeline velocity,' or 'funnel metrics.' This skill covers GTM measurement from metric selection through dashboard design, including AI-specific cost metrics, attribution models, and weekly review cadences. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "lead-enrichment",
+    "name": "lead-enrichment",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\lead-enrichment\\SKILL.md",
+    "description": "When the user wants to build data enrichment workflows, score leads against ICP, set up Clay waterfalls, or improve contact data quality. Also use when the user mentions 'enrichment,' 'data enrichment,' 'Clay,' 'waterfall enrichment,' 'ICP scoring,' 'lead scoring,' 'intent data,' 'contact verification,' 'Apollo,' 'ZoomInfo,' or 'data quality.' This skill covers lead enrichment waterfalls, ICP scoring frameworks, and contact verification systems. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "multi-platform-launch",
+    "name": "multi-platform-launch",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\multi-platform-launch\\SKILL.md",
+    "description": "When the user wants to launch a product across multiple platforms, plan a Product Hunt launch, build a waitlist, or execute a multi-channel launch strategy. Also use when the user mentions 'product launch,' 'Product Hunt,' 'launch strategy,' 'waitlist,' 'beta launch,' 'BetaList,' 'Hacker News,' 'launch day,' 'AppSumo,' 'multi-channel launch.' This skill covers multi-platform launch execution from pre-launch through post-launch optimization. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "paid-creative-ai",
+    "name": "paid-creative-ai",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\paid-creative-ai\\SKILL.md",
+    "description": "When the user wants to create AI-generated ad creative, test performance creative, manage creative fatigue, or optimize paid media with AI tools. Also use when the user mentions 'ad creative,' 'performance creative,' 'creative testing,' 'creative fatigue,' 'Meta ads,' 'Google ads,' 'TikTok ads,' 'AI ads,' 'ad budget,' 'ROAS,' 'Advantage+,' or 'Performance Max.' This skill covers AI-powered paid creative from generation through performance optimization. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "partner-affiliate",
+    "name": "partner-affiliate",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\partner-affiliate\\SKILL.md",
+    "description": "When the user wants to build a partner program, launch an affiliate program, design integration partnerships, or create distribution partnerships. Also use when the user mentions 'partnerships,' 'affiliate program,' 'referral program,' 'partner ecosystem,' 'integration partner,' 'reseller,' 'co-marketing,' 'PartnerStack,' or 'revenue share.' This skill covers partner and affiliate program design from recruitment through performance optimization. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "positioning-icp",
+    "name": "positioning-icp",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\positioning-icp\\SKILL.md",
+    "description": "When the user wants to define their ideal customer profile, position an AI product, build messaging architecture, or validate product-market fit. Also use when the user mentions 'ICP,' 'ideal customer profile,' 'positioning,' 'PMF,' 'product-market fit,' 'messaging,' 'buyer persona,' 'enrichment signals,' 'market positioning,' or 'competitive positioning.' This skill covers market positioning, ICP definition, messaging architecture, and PMF validation for AI-native products. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "sales-motion-design",
+    "name": "sales-motion-design",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\sales-motion-design\\SKILL.md",
+    "description": "When the user wants to choose between PLG and sales-led, design a sales motion, optimize time-to-first-value, or build a value-before-purchase experience. Also use when the user mentions 'PLG,' 'product-led growth,' 'sales-led,' 'sales motion,' 'free trial,' 'freemium,' 'self-serve,' 'demo-first,' 'time-to-first-value,' 'TTFV,' or 'agent-led sales.' This skill covers sales motion selection, value delivery design, and go-to-market motion architecture. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "social-selling",
+    "name": "social-selling",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\social-selling\\SKILL.md",
+    "description": "When the user wants to sell through social media, optimize LinkedIn for sales, build DM sequences, or convert content engagement into pipeline. Also use when the user mentions 'social selling,' 'LinkedIn selling,' 'LinkedIn DMs,' 'social prospecting,' 'LinkedIn Sales Navigator,' 'DM sequences,' 'LinkedIn outreach,' 'social pipeline,' or 'LinkedIn optimization.' This skill covers social selling strategy from profile optimization through DM-to-deal conversion. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "solo-founder-gtm",
+    "name": "solo-founder-gtm",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\solo-founder-gtm\\SKILL.md",
+    "description": "When the user is a solo founder building their GTM motion, wants to scale without hiring, or needs to design an AI agent team for go-to-market. Also use when the user mentions 'solo founder,' 'one-person startup,' 'solopreneur,' 'bootstrapped,' 'no team,' 'AI agents as team,' 'scaling without hiring,' 'founder-led sales,' 'lean GTM,' 'one-person company,' or 'no employees.' This skill covers the complete solo founder GTM playbook from stack selection through agent team design, revenue-stage transitions, time allocation, and when to finally hire. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "video-outreach",
+    "name": "video-outreach",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(gtm)\\video-outreach\\SKILL.md",
+    "description": "When the user wants to build video-first cold outreach, create personalized video at scale, implement async selling, or use AI demo generation for prospecting. Also use when the user mentions 'video outreach,' 'personalized video,' 'video prospecting,' 'Tavus,' 'Sendspark,' 'HeyGen,' 'video email,' 'async selling,' 'video demo,' or 'made this for you.' This skill covers video-first outreach systems from personalization through conversion optimization. Do NOT use for technical implementation, code review, or software architecture.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "learning-opportunities",
+    "name": "learning-opportunities",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(learning)\\learning-opportunities\\SKILL.md",
+    "description": "Facilitates deliberate skill development during AI-assisted coding. Offers interactive learning exercises after architectural work (new files, schema changes, refactors). Use when completing features, making design decisions, or when user asks to understand code better. Triggers on \"learning exercise\", \"help me understand\", \"teach me\", \"why does this work\", or after creating new files/modules. Do NOT use for urgent debugging, quick fixes, or when user says \"just ship it\".",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "sentry",
+    "name": "sentry",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(monitoring)\\sentry\\SKILL.md",
+    "description": "Inspect Sentry issues, summarize production errors, and pull health data via the Sentry API (read-only). Use when user says \"check Sentry\", \"what errors in production?\", \"summarize Sentry issues\", \"recent crashes\", or \"production error report\". Requires SENTRY_AUTH_TOKEN. Do NOT use for setting up Sentry SDK, configuring alerts, or non-Sentry error monitoring.",
+    "category": "Security"
+  },
+  {
+    "id": "core-web-vitals",
+    "name": "core-web-vitals",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(performance)\\core-web-vitals\\SKILL.md",
+    "description": "Optimize Core Web Vitals (LCP, INP, CLS) for better page experience and search ranking. Use when asked to \"improve Core Web Vitals\", \"fix LCP\", \"reduce CLS\", \"optimize INP\", \"page experience optimization\", or \"fix layout shifts\". Focuses specifically on the three Core Web Vitals metrics. Do NOT use for general web performance (use perf-web-optimization), Lighthouse audits (use perf-lighthouse), or Astro-specific optimization (use perf-astro).",
+    "category": "Security"
+  },
+  {
+    "id": "perf-astro",
+    "name": "perf-astro",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(performance)\\perf-astro\\SKILL.md",
+    "description": "Astro-specific performance optimizations for 95+ Lighthouse scores. Covers critical CSS inlining, compression, font loading, and LCP optimization. Use when optimizing Astro site performance, improving Astro Lighthouse scores, or configuring astro-critters. Do NOT use for non-Astro sites (use perf-web-optimization or core-web-vitals) or running Lighthouse audits (use perf-lighthouse).",
+    "category": "Security"
+  },
+  {
+    "id": "perf-lighthouse",
+    "name": "perf-lighthouse",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(performance)\\perf-lighthouse\\SKILL.md",
+    "description": "Run Lighthouse audits locally via CLI or Node API, parse and interpret reports, and set performance budgets. Use when measuring site performance, understanding Lighthouse scores, setting up budgets, or integrating audits into CI. Triggers on: lighthouse, run lighthouse, lighthouse score, performance audit, performance budget. Do NOT use for fixing specific performance issues (use perf-web-optimization or core-web-vitals) or Astro-specific optimization (use perf-astro).",
+    "category": "Security"
+  },
+  {
+    "id": "perf-web-optimization",
+    "name": "perf-web-optimization",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(performance)\\perf-web-optimization\\SKILL.md",
+    "description": "Optimize web performance: bundle size, images, caching, lazy loading, and overall page speed. Use when site is slow, reducing bundle size, fixing layout shifts, improving Time to Interactive, or optimizing for Lighthouse scores. Triggers on: web performance, bundle size, page speed, slow site, lazy loading. Do NOT use for Core Web Vitals-specific fixes (use core-web-vitals), running Lighthouse audits (use perf-lighthouse), or Astro-specific optimization (use perf-astro).",
+    "category": "Security"
+  },
+  {
+    "id": "react-best-practices",
+    "name": "react-best-practices",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(quality)\\react-best-practices\\SKILL.md",
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. Use when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements. Do NOT use for component API architecture or composition patterns (use react-composition-patterns instead).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "seo",
+    "name": "seo",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(quality)\\seo\\SKILL.md",
+    "description": "Optimize for search engine visibility and ranking. Use when asked to \"improve SEO\", \"optimize for search\", \"fix meta tags\", \"add structured data\", \"sitemap optimization\", or \"search engine optimization\". Do NOT use for accessibility (use web-accessibility), performance (use core-web-vitals), or comprehensive site audits covering multiple areas (use web-quality-audit).",
+    "category": "Security"
+  },
+  {
+    "id": "accessibility",
+    "name": "accessibility",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(quality)\\web-accessibility\\SKILL.md",
+    "description": "Audit and improve web accessibility following WCAG 2.1 guidelines. Use when asked to \"improve accessibility\", \"a11y audit\", \"WCAG compliance\", \"screen reader support\", \"keyboard navigation\", or \"make accessible\". Do NOT use for SEO (use seo), performance (use core-web-vitals), or comprehensive site audits covering multiple areas (use web-quality-audit).",
+    "category": "Security"
+  },
+  {
+    "id": "best-practices",
+    "name": "best-practices",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(quality)\\web-best-practices\\SKILL.md",
+    "description": "Apply modern web development best practices for security, compatibility, and code quality. Use when asked to \"apply best practices\", \"security audit\", \"modernize code\", \"code quality review\", or \"check for vulnerabilities\". Do NOT use for accessibility (use web-accessibility), SEO (use seo), performance (use core-web-vitals), or comprehensive multi-area audits (use web-quality-audit).",
+    "category": "Security"
+  },
+  {
+    "id": "web-quality-audit",
+    "name": "web-quality-audit",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(quality)\\web-quality-audit\\SKILL.md",
+    "description": "Comprehensive web quality audit covering performance, accessibility, SEO, and best practices in a single review. Use when asked to \"audit my site\", \"review web quality\", \"run lighthouse audit\", \"check page quality\", or \"optimize my website\" across multiple areas at once. Orchestrates specialized skills for depth. Do NOT use for single-area audits — prefer core-web-vitals, web-accessibility, seo, or web-best-practices for focused work.",
+    "category": "Security"
+  },
+  {
+    "id": "security-best-practices",
+    "name": "security-best-practices",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(security)\\security-best-practices\\SKILL.md",
+    "description": "Perform language and framework specific security best-practice reviews and suggest improvements. Use when the user explicitly requests security best practices guidance, a security review or report, or secure-by-default coding help. Supports Python, JavaScript/TypeScript, and Go. Do NOT use for general code review, debugging, threat modeling (use security-threat-model), or non-security tasks.",
+    "category": "Security"
+  },
+  {
+    "id": "security-ownership-map",
+    "name": "security-ownership-map",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(security)\\security-ownership-map\\SKILL.md",
+    "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Use when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do NOT use for general maintainer lists, non-security ownership questions, or threat modeling (use security-threat-model).",
+    "category": "Security"
+  },
+  {
+    "id": "security-threat-model",
+    "name": "security-threat-model",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(security)\\security-threat-model\\SKILL.md",
+    "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Use when the user asks to threat model a codebase or path, enumerate threats or abuse paths, or perform AppSec threat modeling. Do NOT use for general architecture summaries, code review, security best practices (use security-best-practices), or non-security design work.",
+    "category": "Security"
+  },
+  {
+    "id": "chrome-devtools",
+    "name": "chrome-devtools",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(tooling)\\chrome-devtools\\SKILL.md",
+    "description": "Browser debugging, performance profiling, and automation via Chrome DevTools MCP. Use when user says \"debug this page\", \"take a screenshot\", \"check network requests\", \"profile performance\", \"inspect console errors\", or \"analyze page load\". Do NOT use for full E2E test suites (use playwright-skill) or non-browser debugging.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "excalidraw-studio",
+    "name": "excalidraw-studio",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(tooling)\\excalidraw-studio\\SKILL.md",
+    "description": "Generate Excalidraw diagrams from natural language descriptions. Outputs .excalidraw JSON files openable in Excalidraw. Use when asked to \"create a diagram\", \"make a flowchart\", \"visualize a process\", \"draw a system architecture\", \"create a mind map\", \"generate an Excalidraw file\", \"draw an ER diagram\", \"create a sequence diagram\", or \"make a class diagram\". Supports flowcharts, relationship diagrams, mind maps, architecture, DFD, swimlane, class, sequence, and ER diagrams. Can use icon libraries (AWS, GCP, etc.) when set up. Do NOT use for code architecture analysis (use the architecture skills), Mermaid diagram rendering (use mermaid-studio), or non-visual documentation (use docs-writer).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "gh-fix-ci",
+    "name": "gh-fix-ci",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(tooling)\\gh-fix-ci\\SKILL.md",
+    "description": "Use when a user asks to debug or fix failing GitHub PR checks that run in GitHub Actions. Uses `gh` to inspect checks and logs, summarize failure context, draft a fix plan, and implement only after explicit approval. Treats external providers (for example Buildkite) as out of scope and reports only the details URL. Do NOT use for addressing PR review comments (use gh-address-comments) or general CI outside GitHub Actions.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "mermaid-studio",
+    "name": "mermaid-studio",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(tooling)\\mermaid-studio\\SKILL.md",
+    "description": "Expert Mermaid diagram creation, validation, and rendering with dual-engine output (SVG/PNG/ASCII). Supports all 20+ diagram types including C4 architecture, AWS architecture-beta with service icons, flowcharts, sequence, ERD, state, class, mindmap, timeline, git graph, sankey, and more. Features code-to-diagram analysis, batch rendering, 15+ themes, and syntax validation. Use when users ask to create diagrams, visualize architecture, render mermaid files, generate ASCII diagrams, document system flows, model databases, draw AWS infrastructure, analyze code structure, or anything involving \"mermaid\", \"diagram\", \"flowchart\", \"architecture diagram\", \"sequence diagram\", \"ERD\", \"C4\", \"ASCII diagram\". Do NOT use for non-Mermaid image generation, data plotting with chart libraries, or general documentation writing.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "nx-ci-monitor",
+    "name": "nx-ci-monitor",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(tooling)\\nx-ci-monitor\\SKILL.md",
+    "description": "Monitor Nx Cloud CI pipeline status and handle self-healing fixes automatically. Use when user says \"watch CI\", \"monitor pipeline\", \"check CI status\", \"fix CI failures\", or \"self-heal CI\". Requires Nx Cloud connection. Do NOT use for local task execution (use nx-run-tasks) or general CI debugging outside Nx Cloud.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "nx-generate",
+    "name": "nx-generate",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(tooling)\\nx-generate\\SKILL.md",
+    "description": "Generate code using Nx generators — scaffold projects, libraries, features, or run workspace-specific generators with proper discovery, validation, and verification. Use when user says \"create a new library\", \"scaffold a component\", \"generate code with Nx\", \"run a generator\", \"nx generate\", or any code scaffolding task in a monorepo. Prefers local workspace-plugin generators over external plugins. Do NOT use for running build/test/lint tasks (use nx-run-tasks) or workspace configuration (use nx-workspace).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "nx-run-tasks",
+    "name": "nx-run-tasks",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(tooling)\\nx-run-tasks\\SKILL.md",
+    "description": "Execute build, test, lint, serve, and other tasks in an Nx workspace using single runs, run-many, and affected commands. Use when user says \"run tests\", \"build my app\", \"lint affected\", \"serve the project\", \"run all tasks\", or \"nx affected\". Do NOT use for code generation (use nx-generate) or workspace configuration (use nx-workspace).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "nx-workspace",
+    "name": "nx-workspace",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(tooling)\\nx-workspace\\SKILL.md",
+    "description": "Configure, explore, and optimize Nx monorepo workspaces. Use when setting up Nx, exploring workspace structure, configuring project boundaries, analyzing affected projects, optimizing build caching, or implementing CI/CD with affected commands. Keywords — nx, monorepo, workspace, projects, targets, affected. Do NOT use for running tasks (use nx-run-tasks) or code generation with generators (use nx-generate).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "playwright-skill",
+    "name": "playwright-skill",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\tech-leads-club\\packages\\skills-catalog\\skills\\(web-automation)\\playwright-skill\\SKILL.md",
+    "description": "Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check responsive design, validate UX, test login flows, check links, automate any browser task. Use when user wants to test websites, automate browser interactions, validate web functionality, or perform any browser-based testing. Do NOT use for quick page debugging or network inspection (use chrome-devtools instead).",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ckm-banner-design",
+    "name": "ckm:banner-design",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\ui-ux-pro-max\\.claude\\skills\\banner-design\\SKILL.md",
+    "description": "Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direction options with AI-generated visuals. Actions: design, create, generate banner. Platforms: Facebook, Twitter/X, LinkedIn, YouTube, Instagram, Google Display, website hero, print. Styles: minimalist, gradient, bold typography, photo-based, illustrated, geometric, retro, glassmorphism, 3D, neon, duotone, editorial, collage. Uses ui-ux-pro-max, frontend-design, ai-artist, ai-multimodal skills.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ckm-brand",
+    "name": "ckm:brand",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\ui-ux-pro-max\\.claude\\skills\\brand\\SKILL.md",
+    "description": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate for branded content, tone of voice, marketing assets, brand compliance, style guides.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ckm-design",
+    "name": "ckm:design",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\ui-ux-pro-max\\.claude\\skills\\design\\SKILL.md",
+    "description": "Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, Gemini AI), corporate identity program (50 deliverables, CIP mockups), HTML presentations (Chart.js), banner design (22 styles, social/ads/web/print), icon design (15 styles, SVG, Gemini 3.1 Pro), social photos (HTML→screenshot, multi-platform). Actions: design logo, create CIP, generate mockups, build slides, design banner, generate icon, create social photos, social media images, brand identity, design system. Platforms: Facebook, Twitter, LinkedIn, YouTube, Instagram, Pinterest, TikTok, Threads, Google Ads.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ckm-design-system",
+    "name": "ckm:design-system",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\ui-ux-pro-max\\.claude\\skills\\design-system\\SKILL.md",
+    "description": "Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation. Use for design tokens, systematic design, brand-compliant presentations.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ckm-slides",
+    "name": "ckm:slides",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\ui-ux-pro-max\\.claude\\skills\\slides\\SKILL.md",
+    "description": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ckm-ui-styling",
+    "name": "ckm:ui-styling",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch2\\ui-ux-pro-max\\.claude\\skills\\ui-styling\\SKILL.md",
+    "description": "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive layouts, adding accessible components (dialogs, dropdowns, forms, tables), customizing themes and colors, implementing dark mode, generating visual designs and posters, or establishing consistent styling patterns across applications.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "bridge",
+    "name": "bridge",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\Antigravity-Architect\\src\\antigravity_architect\\resources\\templates\\skills\\bridge\\SKILL.md",
+    "description": "Multi-repo context sharing and project handoff utilities.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "env-context",
+    "name": "env_context",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\Antigravity-Architect\\src\\antigravity_architect\\resources\\templates\\skills\\env_context\\SKILL.md",
+    "description": "Detects the current OS, python environment, and Docker status.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "git-automation",
+    "name": "git_automation",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\Antigravity-Architect\\src\\antigravity_architect\\resources\\templates\\skills\\git_automation\\SKILL.md",
+    "description": "Safe git operations.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "secrets-manager",
+    "name": "secrets_manager",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\Antigravity-Architect\\src\\antigravity_architect\\resources\\templates\\skills\\secrets_manager\\SKILL.md",
+    "description": "Handle API keys.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "backend-agent",
+    "name": "backend-agent",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\backend-agent\\SKILL.md",
+    "description": "Backend specialist for APIs, databases, authentication using FastAPI with clean architecture (Repository/Service/Router pattern)",
+    "category": "Security"
+  },
+  {
+    "id": "commit",
+    "name": "commit",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\commit\\SKILL.md",
+    "description": "Create git commits following Conventional Commits specification with project-specific branch naming rules",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "debug-agent",
+    "name": "debug-agent",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\debug-agent\\SKILL.md",
+    "description": "Bug diagnosis and fixing specialist - analyzes errors, identifies root causes, provides fixes, and writes regression tests",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "frontend-agent",
+    "name": "frontend-agent",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\frontend-agent\\SKILL.md",
+    "description": "Frontend specialist for React, Next.js, TypeScript with FSD-lite architecture, shadcn/ui, and design system alignment",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "mobile-agent",
+    "name": "mobile-agent",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\mobile-agent\\SKILL.md",
+    "description": "Mobile specialist for Flutter, React Native, and cross-platform mobile development",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "orchestrator",
+    "name": "orchestrator",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\orchestrator\\SKILL.md",
+    "description": "Automated multi-agent orchestrator that spawns CLI subagents in parallel, coordinates via MCP Memory, and monitors progress",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "pm-agent",
+    "name": "pm-agent",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\pm-agent\\SKILL.md",
+    "description": "Product manager that decomposes requirements into actionable tasks with priorities and dependencies",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "qa-agent",
+    "name": "qa-agent",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\qa-agent\\SKILL.md",
+    "description": "Quality assurance specialist for security, performance, accessibility, and comprehensive testing",
+    "category": "Security"
+  },
+  {
+    "id": "multi-agent-workflow",
+    "name": "multi-agent-workflow",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\AntiGravity-Launchpad\\.agent\\skills\\workflow-guide\\SKILL.md",
+    "description": "Guide for coordinating PM, Frontend, Backend, Mobile, and QA agents on complex projects via CLI",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "design-system-architect",
+    "name": "design-system-architect",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills\\.agents\\skills\\design-system-architect\\SKILL.md",
+    "description": "Sets up and maintains a world-class Design System infrastructure using Storybook, focusing on documentation, token integration, and accessibility standards.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "ab-test-setup",
+    "name": "ab-test-setup",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\ab-test-setup\\SKILL.md",
+    "description": "Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "agent-tool-builder",
+    "name": "agent-tool-builder",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\agent-tool-builder\\SKILL.md",
+    "description": "Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary.  This skill covers tool design from schema to error handling. JSON Schema best practices, description writing that actually helps the LLM, validation, and the emerging MCP standard that's becoming the lingua franca for AI tools.  Key insight: Tool descriptions are more important than tool implementa",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "analytics-tracking",
+    "name": "analytics-tracking",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\analytics-tracking\\SKILL.md",
+    "description": ">",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "bash-linux",
+    "name": "bash-linux",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\bash-linux\\SKILL.md",
+    "description": "Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "browser-automation",
+    "name": "browser-automation",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\browser-automation\\SKILL.md",
+    "description": "Browser automation powers web testing, scraping, and AI agent interactions. The difference between a flaky script and a reliable system comes down to understanding selectors, waiting strategies, and anti-detection patterns.  This skill covers Playwright (recommended) and Puppeteer, with patterns for testing, scraping, and agentic browser control. Key insight: Playwright won the framework war. Unless you need Puppeteer's stealth ecosystem or are Chrome-only, Playwright is the better choice in 202",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "clean-code",
+    "name": "clean-code",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\clean-code\\SKILL.md",
+    "description": "Pragmatic coding standards - concise, direct, no over-engineering, no unnecessary comments",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "code-review-checklist",
+    "name": "code-review-checklist",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\code-review-checklist\\SKILL.md",
+    "description": "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability",
+    "category": "Security"
+  },
+  {
+    "id": "competitor-alternatives",
+    "name": "competitor-alternatives",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\competitor-alternatives\\SKILL.md",
+    "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' or 'competitive landing pages.' Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. Emphasizes deep research, modular content architecture, and varied section types beyond feature tables.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "concise-planning",
+    "name": "concise-planning",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\concise-planning\\SKILL.md",
+    "description": "Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "content-creator",
+    "name": "content-creator",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\content-creator\\SKILL.md",
+    "description": "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creating social media content, analyzing brand voice, optimizing SEO, planning content calendars, or when user mentions content creation, brand voice, SEO optimization, social media marketing, or content strategy.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "copy-editing",
+    "name": "copy-editing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\copy-editing\\SKILL.md",
+    "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' or 'copy sweep.' This skill provides a systematic approach to editing marketing copy through multiple focused passes.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "copywriting",
+    "name": "copywriting",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\copywriting\\SKILL.md",
+    "description": ">",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "deployment-procedures",
+    "name": "deployment-procedures",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\deployment-procedures\\SKILL.md",
+    "description": "Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "design-document",
+    "name": "design-document",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\design-document\\SKILL.md",
+    "description": "Create comprehensive design documents that establish shared vision for eLearning projects. Use when moving from discovery to design, creating course architecture, defining instructional approach, or building detailed design specifications.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "discovery-workshop",
+    "name": "discovery-workshop",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\discovery-workshop\\SKILL.md",
+    "description": "Guide synthesis of Action Mapping workshop outputs into structured discovery documents. Use when processing workshop notes, creating needs analysis, building learner personas, summarizing discovery sessions, or preparing design briefs from stakeholder meetings.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "docker-expert",
+    "name": "docker-expert",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\docker-expert\\SKILL.md",
+    "description": "Docker containerization expert with deep knowledge of multi-stage builds, image optimization, container security, Docker Compose orchestration, and production deployment patterns. Use PROACTIVELY for Dockerfile optimization, container issues, image size problems, security hardening, networking, and orchestration challenges.",
+    "category": "Security"
+  },
+  {
+    "id": "documentation-templates",
+    "name": "documentation-templates",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\documentation-templates\\SKILL.md",
+    "description": "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "email-sequence",
+    "name": "email-sequence",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\email-sequence\\SKILL.md",
+    "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campaign,\" \"nurture sequence,\" \"onboarding emails,\" \"welcome sequence,\" \"re-engagement emails,\" \"email automation,\" or \"lifecycle emails.\" For in-app onboarding, see onboarding-cro.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "excalidraw",
+    "name": "excalidraw",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\excalidraw\\SKILL.md",
+    "description": "Use when working with *.excalidraw or *.excalidraw.json files, user mentions diagrams/flowcharts, or requests architecture visualization - delegates all Excalidraw operations to subagents to prevent context exhaustion from verbose JSON (single files: 4k-22k tokens, can exceed read limits)",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "form-cro",
+    "name": "form-cro",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\form-cro\\SKILL.md",
+    "description": ">",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "game-changing-features",
+    "name": "game-changing-features",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\game-changing-features\\SKILL.md",
+    "description": "Find 10x product opportunities and high-leverage improvements. Use when user wants strategic product thinking, mentions '10x', wants to find high-impact features, or says 'what would make this 10x better', 'product strategy', or 'what should we build next'.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "git-pushing",
+    "name": "git-pushing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\git-pushing\\SKILL.md",
+    "description": "Stage, commit, and push git changes with conventional commit messages. Use when user wants to commit and push changes, mentions pushing to remote, or asks to save and push their work. Also activates when user says \"push changes\", \"commit and push\", \"push this\", \"push to github\", or similar git workflow requests.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "humanizer",
+    "name": "humanizer",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\humanizer\\SKILL.md",
+    "description": "|",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "i18n-localization",
+    "name": "i18n-localization",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\i18n-localization\\SKILL.md",
+    "description": "Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support.",
+    "category": "Security"
+  },
+  {
+    "id": "kaizen",
+    "name": "kaizen",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\kaizen\\SKILL.md",
+    "description": "Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "marp-slide",
+    "name": "marp-slide",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\marp-slide\\SKILL.md",
+    "description": "Create professional Marp presentation slides with 7 beautiful themes (default, minimal, colorful, dark, gradient, tech, business). Use when users request slide creation, presentations, or Marp documents. Supports custom themes, image layouts, and \"make it look good\" requests with automatic quality improvements.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "mermaid-diagrams",
+    "name": "mermaid-diagrams",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\mermaid-diagrams\\SKILL.md",
+    "description": "Comprehensive guide for creating software diagrams using Mermaid syntax. Use when users need to create, visualize, or document software through diagrams including class diagrams (domain modeling, object-oriented design), sequence diagrams (application flows, API interactions, code execution), flowcharts (processes, algorithms, user journeys), entity relationship diagrams (database schemas), C4 architecture diagrams (system context, containers, components), state diagrams, git graphs, pie charts, gantt charts, or any other diagram type. Triggers include requests to \"diagram\", \"visualize\", \"model\", \"map out\", \"show the flow\", or when explaining system architecture, database design, code structure, or user/application flows.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "moodle-external-api-development",
+    "name": "moodle-external-api-development",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\moodle-external-api-development\\SKILL.md",
+    "description": "Create custom external web service APIs for Moodle LMS. Use when implementing web services for course management, user tracking, quiz operations, or custom plugin functionality. Covers parameter validation, database operations, error handling, service registration, and Moodle coding standards.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "pricing-strategy",
+    "name": "pricing-strategy",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\pricing-strategy\\SKILL.md",
+    "description": "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "prompt-engineering",
+    "name": "prompt-engineering",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\prompt-engineering\\SKILL.md",
+    "description": "Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies, or debug agent behavior.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "seo-audit",
+    "name": "seo-audit",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\seo-audit\\SKILL.md",
+    "description": ">",
+    "category": "Security"
+  },
+  {
+    "id": "seo-fundamentals",
+    "name": "seo-fundamentals",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\seo-fundamentals\\SKILL.md",
+    "description": ">",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "server-management",
+    "name": "server-management",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\server-management\\SKILL.md",
+    "description": "Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "session-handoff",
+    "name": "session-handoff",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\session-handoff\\SKILL.md",
+    "description": "Creates comprehensive handoff documents for seamless AI agent session transfers. Triggered when: (1) user requests handoff/memory/context save, (2) context window approaches capacity, (3) major task milestone completed, (4) work session ending, (5) user says 'save state', 'create handoff', 'I need to pause', 'context is getting full', (6) resuming work with 'load handoff', 'resume from', 'continue where we left off'. Proactively suggests handoffs after substantial work (multiple file edits, complex debugging, architecture decisions). Solves long-running agent context exhaustion by enabling fresh agents to continue with zero ambiguity.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "skill-judge",
+    "name": "skill-judge",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\skill-judge\\SKILL.md",
+    "description": "Evaluate Agent Skill design quality against official specifications and best practices. Use when reviewing, auditing, or improving SKILL.md files and skill packages. Provides multi-dimensional scoring and actionable improvement suggestions.",
+    "category": "Security"
+  },
+  {
+    "id": "storyboard-builder",
+    "name": "storyboard-builder",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\storyboard-builder\\SKILL.md",
+    "description": "Generate detailed storyboards for eLearning courses from design documents or content outlines. Use when creating storyboards for Articulate Rise, Articulate Storyline, screen-by-screen specifications, or preparing content for development.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "stripe-integration",
+    "name": "stripe-integration",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\stripe-integration\\SKILL.md",
+    "description": "Get paid from day one. Payments, subscriptions, billing portal, webhooks, metered billing, Stripe Connect. The complete guide to implementing Stripe correctly, including all the edge cases that will bite you at 3am.  This isn't just API calls - it's the full payment system: handling failures, managing subscriptions, dealing with dunning, and keeping revenue flowing. Use when: stripe, payments, subscription, billing, checkout.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "web-performance-optimization",
+    "name": "web-performance-optimization",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\web-performance-optimization\\SKILL.md",
+    "description": "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "wordpress-penetration-testing",
+    "name": "WordPress Penetration Testing",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\wordpress-penetration-testing\\SKILL.md",
+    "description": "This skill should be used when the user asks to \"pentest WordPress sites\", \"scan WordPress for vulnerabilities\", \"enumerate WordPress users, themes, or plugins\", \"exploit WordPress vulnerabilities\", or \"use WPScan\". It provides comprehensive WordPress security assessment methodologies.",
+    "category": "Security"
+  },
+  {
+    "id": "workflow-automation",
+    "name": "workflow-automation",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\workflow-automation\\SKILL.md",
+    "description": "Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost money and angry customers. With it, workflows resume exactly where they left off.  This skill covers the platforms (n8n, Temporal, Inngest) and patterns (sequential, parallel, orchestrator-worker) that turn brittle scripts into production-grade automation.  Key insight: The platforms make different tradeoffs. n8n optimizes for accessibility",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "zapier-make-patterns",
+    "name": "zapier-make-patterns",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\antigravity-skills-workflows\\.agent\\skills\\zapier-make-patterns\\SKILL.md",
+    "description": "No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code. But no-code doesn't mean no-complexity - these platforms have their own patterns, pitfalls, and breaking points.  This skill covers when to use which platform, how to build reliable automations, and when to graduate to code-based solutions. Key insight: Zapier optimizes for simplicity and integrations (7000+ apps), Make optimizes for power",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "installing-brand-design-skills",
+    "name": "installing-brand-design-skills",
+    "source": "C:\\CodeIA\\.agent\\skills\\temp_skills_batch3\\design-like\\SKILL.md",
+    "description": "Helps Claude install and use brand-specific design skills for popular product brands (Apple, Linear, Stripe, Shopify, Notion, Figma, Spotify, Slack, Discord, IBM, Salesforce) by running the design-like CLI to generate Agent Skills and IDE configuration so code and UI match the chosen brand’s design language.",
+    "category": "AI/LLM"
+  },
+  {
+    "id": "vvveb-cms",
+    "name": "vvveb-cms",
+    "source": "C:\\CodeIA\\.agent\\skills\\vvveb-cms\\SKILL.md",
+    "description": "Expert en développement, déploiement et intégration du CMS Vvveb — un CMS PHP open-source avec page builder drag & drop, API GraphQL/REST, e-commerce natif et support headless. Utiliser quand l'agent doit créer, configurer, étendre ou connecter Vvveb à un frontend React/Vue.",
+    "category": "AI/LLM"
+  }
+]

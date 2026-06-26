@@ -1,0 +1,4241 @@
+[
+  {
+    "id": "academic",
+    "title": "📚 Academic & Research Databases",
+    "sections": [
+      {
+        "title": "General Academic Search",
+        "resources": [
+          {
+            "name": "Google Scholar",
+            "url": "https://scholar.google.com/",
+            "description": "Academic literature search"
+          },
+          {
+            "name": "Semantic Scholar",
+            "url": "https://www.semanticscholar.org/",
+            "description": "AI-powered academic research engine"
+          },
+          {
+            "name": "BASE",
+            "url": "https://www.base-search.net/",
+            "description": "Bielefeld Academic Search Engine for scholarly documents"
+          },
+          {
+            "name": "CORE",
+            "url": "https://core.ac.uk/",
+            "description": "Global aggregator of open access research papers"
+          },
+          {
+            "name": "WorldCat",
+            "url": "https://search.worldcat.org/",
+            "description": "Global library catalog"
+          }
+        ]
+      },
+      {
+        "title": "Scientific & Technical",
+        "resources": [
+          {
+            "name": "PubMed",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/",
+            "description": "Biomedical and life sciences literature"
+          },
+          {
+            "name": "arXiv",
+            "url": "https://arxiv.org/",
+            "description": "Open-access preprints in science, math, and computer science"
+          },
+          {
+            "name": "IEEE Xplore",
+            "url": "https://ieeexplore.ieee.org/Xplore/home.jsp",
+            "description": "Technical literature in engineering and computer science"
+          },
+          {
+            "name": "ScienceDirect",
+            "url": "https://www.sciencedirect.com/",
+            "description": "Scientific publications and journals (commercial)"
+          },
+          {
+            "name": "SpringerLink",
+            "url": "https://link.springer.com/?",
+            "description": "Academic books and journals (commercial/freemium)"
+          }
+        ]
+      },
+      {
+        "title": "Research Tools",
+        "resources": [
+          {
+            "name": "Litmaps",
+            "url": "https://app.litmaps.com/",
+            "description": "Visualize citation networks"
+          },
+          {
+            "name": "ResearchGate",
+            "url": "https://www.researchgate.net/",
+            "description": "Academic social network and research sharing"
+          },
+          {
+            "name": "Academia.edu",
+            "url": "https://www.academia.edu/",
+            "description": "Platform for academic paper sharing"
+          },
+          {
+            "name": "OpenAIRE",
+            "url": "https://www.openaire.eu/",
+            "description": "Open access research aggregator"
+          },
+          {
+            "name": "Directory of Open Access Journals (DOAJ)",
+            "url": "https://doaj.org/",
+            "description": "Index of peer-reviewed open-access journals"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ai-osint",
+    "title": "🧠 AI & OSINT Assistance",
+    "sections": [
+      {
+        "title": "AI Search and Analysis",
+        "resources": [
+          {
+            "name": "Perplexity",
+            "url": "https://www.perplexity.ai/",
+            "description": "AI-powered search engine with cited sources"
+          },
+          {
+            "name": "Andi Search",
+            "url": "https://andisearch.com/",
+            "description": "Conversational search engine with AI answers"
+          },
+          {
+            "name": "Phind",
+            "url": "https://www.phind.com/",
+            "description": "AI search engine specialized in technical topics"
+          }
+        ]
+      },
+      {
+        "title": "AI for Media and Verification",
+        "resources": [
+          {
+            "name": "Sensity AI",
+            "url": "https://sensity.ai/",
+            "description": "Detect deepfakes and manipulated visual media"
+          },
+          {
+            "name": "Hugging Face Spaces",
+            "url": "https://huggingface.co/spaces",
+            "description": "Community-driven AI models for NLP, vision, and OSINT tasks"
+          }
+        ]
+      },
+      {
+        "title": "AI Agents and Automation",
+        "resources": [
+          {
+            "name": "AI Agent Tools",
+            "url": "https://github.com/cporter202/ai-agent-tools",
+            "description": "A curated collection of AI tools, utilities, and resources for developers and creators"
+          },
+          {
+            "name": "Designer Skills",
+            "url": "https://github.com/julianoczkowski/designer-skills",
+            "description": "A collection of agent skills encoding the design process for AI coding tools"
+          },
+          {
+            "name": "HexStrike AI",
+            "url": "https://github.com/0x4m4/hexstrike-ai",
+            "description": "MCP server that lets AI agents autonomously run 150+ cybersecurity and OSINT tools"
+          },
+          {
+            "name": "awesome-osint-mcp-servers",
+            "url": "https://github.com/soxoj/awesome-osint-mcp-servers",
+            "description": "A curated list of OSINT MCP servers. Pull requests are welcomed!"
+          },
+          {
+            "name": "Omnigent",
+            "url": "https://github.com/omnigent-ai/omnigent",
+            "description": "An open-source AI agent framework and meta-harness to orchestrate, govern, and collaborate across multiple AI agents (by Databricks)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "archiving-caching",
+    "title": "🗄 Website Archiving & Caching",
+    "sections": [
+      {
+        "title": "Web Archives",
+        "resources": [
+          {
+            "name": "Wayback Machine",
+            "url": "https://archive.org",
+            "description": "The largest web archive for historic snapshots"
+          },
+          {
+            "name": "Archive.today",
+            "url": "https://archive.today/",
+            "description": "On-demand webpage snapshots, bypasses paywalls"
+          },
+          {
+            "name": "Ghostarchive",
+            "url": "https://ghostarchive.org/",
+            "description": "Archive YouTube and social media posts"
+          },
+          {
+            "name": "Perma.cc",
+            "url": "https://perma.cc/",
+            "description": "Permanent archiving for academic and legal citations"
+          },
+          {
+            "name": "WebCite",
+            "url": "https://www.webcitation.org/",
+            "description": "Citeable web archiving service (legacy, limited availability)"
+          }
+        ]
+      },
+      {
+        "title": "Cached Pages and Mirrors",
+        "resources": [
+          {
+            "name": "CachedView",
+            "url": "http://cachedview.com/",
+            "description": "View cached versions from Google and Wayback"
+          },
+          {
+            "name": "CoralCDN Web Cache",
+            "url": "http://www.coralcdn.org/",
+            "description": "Access cached copies of popular websites"
+          },
+          {
+            "name": "Google Cache",
+            "url": "https://www.google.com/",
+            "description": "View cached versions of web pages (via “cache:” operator)"
+          },
+          {
+            "name": "Bing Cache",
+            "url": "https://www.bing.com/",
+            "description": "Cached pages accessible via search results"
+          }
+        ]
+      },
+      {
+        "title": "Social Media and Multimedia Archiving",
+        "resources": [
+          {
+            "name": "SavePageNow (Wayback)",
+            "url": "https://web.archive.org/save",
+            "description": "Force snapshot into Wayback Machine"
+          },
+          {
+            "name": "yt-dlp",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "description": "Download and archive YouTube videos"
+          },
+          {
+            "name": "archivebox",
+            "url": "https://github.com/ArchiveBox/ArchiveBox",
+            "description": "Self-hosted webpage archiving solution"
+          },
+          {
+            "name": "SingleFile",
+            "url": "https://github.com/gildas-lormeau/SingleFile",
+            "description": "Browser extension to save complete pages as a single HTML"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "automation-recon",
+    "title": "🤖 Automation & Recon Frameworks",
+    "sections": [
+      {
+        "title": "Recon Frameworks",
+        "resources": [
+          {
+            "name": "SpiderFoot",
+            "url": "https://github.com/smicallef/spiderfoot",
+            "description": "Automated reconnaissance with 200+ modules"
+          },
+          {
+            "name": "Recon-ng",
+            "url": "https://github.com/lanmaster53/recon-ng",
+            "description": "Open-source recon framework"
+          },
+          {
+            "name": "Maltego",
+            "url": "https://www.maltego.com/",
+            "description": "Link analysis and visualization platform"
+          },
+          {
+            "name": "theHarvester",
+            "url": "https://github.com/laramies/theHarvester",
+            "description": "Harvest emails, hosts, subdomains"
+          },
+          {
+            "name": "datasploit",
+            "url": "https://github.com/DataSploit/datasploit",
+            "description": "OSINT automation toolset"
+          }
+        ]
+      },
+      {
+        "title": "Browser Extensions and Utilities",
+        "resources": [
+          {
+            "name": "Mitaka",
+            "url": "https://github.com/ninoseki/mitaka",
+            "description": "IOC investigation from the browser"
+          },
+          {
+            "name": "Wayback Machine",
+            "url": "https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak",
+            "description": "Official extension for on-demand page archiving and historical snapshot viewing"
+          },
+          {
+            "name": "Search By Image",
+            "url": "https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci",
+            "description": "Reverse image search supporting Google, Bing, Yandex, TinEye, Baidu, and more"
+          },
+          {
+            "name": "Exif Viewer",
+            "url": "https://chromewebstore.google.com/detail/exif-viewer/kbnpbnmjmgabkfemdehelbgdppngihhg",
+            "description": "Extracts and displays EXIF metadata (GPS, camera details) from images"
+          },
+          {
+            "name": "Bellingcat Filename Finder",
+            "url": "https://chromewebstore.google.com/detail/empty-title/fdhodjpkigpaachejkipcghppfnnfdmp",
+            "description": "Extracts original filenames of images uploaded to Google Maps (deprecated)"
+          },
+          {
+            "name": "Shodan Plugin",
+            "url": "https://chromewebstore.google.com/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap",
+            "description": "Shodan search extension to inspect open ports and hosting details of the website"
+          },
+          {
+            "name": "IP Address and Domain Information",
+            "url": "https://chromewebstore.google.com/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa",
+            "description": "Displays detailed hosting, DNS, and IP info for the active tab"
+          },
+          {
+            "name": "Sputnik",
+            "url": "https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd",
+            "description": "Context menu integration to search IPs, domains, URLs, and hashes on OSINT sites"
+          },
+          {
+            "name": "Wappalyzer Extension",
+            "url": "https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg",
+            "description": "Identifies web technologies (CMS, frameworks, analytics) used on websites"
+          },
+          {
+            "name": "Hunter",
+            "url": "https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj",
+            "description": "Email finder extension to discover corporate email addresses associated with visited websites"
+          },
+          {
+            "name": "Instant Data Scraper",
+            "url": "https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah",
+            "description": "Automated web scraper that detects data lists/tables and exports them to CSV/Excel"
+          },
+          {
+            "name": "Fireshot",
+            "url": "https://chromewebstore.google.com/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg",
+            "description": "Captures, edits, and saves full webpage screenshots as PDF, JPEG, or PNG"
+          },
+          {
+            "name": "Hive AI Detector",
+            "url": "https://chromewebstore.google.com/detail/hive-ai-detector/cmeikcgfecnhojcbfapbmpbjgllklcbi",
+            "description": "Detects AI-generated text and images directly from the browser"
+          },
+          {
+            "name": "CopyFish",
+            "url": "https://chromewebstore.google.com/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj",
+            "description": "Extracts text from images, videos, and PDFs directly in your browser using OCR"
+          },
+          {
+            "name": "Simple Translate",
+            "url": "https://chromewebstore.google.com/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace",
+            "description": "Quickly translates selected text on web pages using Google Translate"
+          },
+          {
+            "name": "User-Agent Switcher",
+            "url": "https://chromewebstore.google.com/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg",
+            "description": "Switch between different user-agents to test rendering or evade basic user-agent blocks"
+          },
+          {
+            "name": "Privacy Badger",
+            "url": "https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp",
+            "description": "Blocks invisible trackers and spying ads to protect privacy during investigations"
+          },
+          {
+            "name": "Ghostery",
+            "url": "https://chromewebstore.google.com/detail/ghostery-adblocker-for-pr/mlomiejdfkolichcflejclcbmpeaniij",
+            "description": "Privacy extension that blocks ads, stops trackers, and speeds up websites"
+          },
+          {
+            "name": "Vortimo OSINT Tool",
+            "url": "https://chromewebstore.google.com/detail/vortimo-osint-tool/mnakbpdnkedaegeiaoakkjafhoidklnf",
+            "description": "Web curation and visual intelligence tool that records, translates, and graphs web pages visited"
+          },
+          {
+            "name": "awesome-osint-chrome-extensions",
+            "url": "https://github.com/ubikron/awesome-osint-chrome-extensions",
+            "description": "A curated list of Chrome extensions for OSINT and investigations"
+          }
+        ]
+      },
+      {
+        "title": "Emulators Android",
+        "resources": [
+          {
+            "name": "Amiduos",
+            "url": "https://android-emulators.com/amiduos",
+            "description": "Android Emulator for Windows"
+          },
+          {
+            "name": "Android x86",
+            "url": "https://www.linuxvmimages.com/images/android-x86",
+            "description": "Repo of Android VDI-images"
+          },
+          {
+            "name": "Bluestacks",
+            "url": "https://bluestacks.com",
+            "description": "Android App player for Windows & Mac"
+          },
+          {
+            "name": "BigNox",
+            "url": "https://bignox.com",
+            "description": "Another Android Emulator, lots of options"
+          },
+          {
+            "name": "Genymotion",
+            "url": "https://genymotion.com",
+            "description": "Cloud bases Android devices"
+          }
+        ]
+      },
+      {
+        "title": "Metadata and Document Analysis",
+        "resources": [
+          {
+            "name": "Metagoofil",
+            "url": "https://github.com/laramies/metagoofil",
+            "description": "Metadata extraction from public documents"
+          },
+          {
+            "name": "FOCA",
+            "url": "https://github.com/ElevenPaths/FOCA",
+            "description": "Document metadata collection and analysis"
+          },
+          {
+            "name": "Bulk Extractor",
+            "url": "https://github.com/simsong/bulk_extractor",
+            "description": "Forensic tool for extracting digital artifacts"
+          }
+        ]
+      },
+      {
+        "title": "Self-hosted and Modular Platforms",
+        "resources": [
+          {
+            "name": "Cortex",
+            "url": "https://github.com/TheHive-Project/Cortex",
+            "description": "Observable analysis and enrichment framework"
+          },
+          {
+            "name": "OpenCTI",
+            "url": "https://filigran.io/platforms/opencti/",
+            "description": "Threat intelligence platform with enrichment modules"
+          },
+          {
+            "name": "IntelOwl",
+            "url": "https://github.com/intelowlproject/IntelOwl",
+            "description": "API-driven threat intel and OSINT automation"
+          },
+          {
+            "name": "Kali Linux",
+            "url": "https://www.kali.org/",
+            "description": "Linux distribution with OSINT and recon tools included"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aviation",
+    "title": "✈️ Aviation Movements & Flight Tracking",
+    "sections": [
+      {
+        "title": "Live Tracking",
+        "resources": [
+          {
+            "name": "ADS-B Exchange",
+            "url": "https://www.adsbexchange.com/",
+            "description": "Largest unfiltered flight data coop"
+          },
+          {
+            "name": "Flightradar24",
+            "url": "https://www.flightradar24.com/",
+            "description": "Real-time flight tracking"
+          },
+          {
+            "name": "FlightAware",
+            "url": "https://flightaware.com",
+            "description": "Live flight data and analytics"
+          },
+          {
+            "name": "LiveATC",
+            "url": "https://liveatc.net/",
+            "description": "Listen to live air traffic control"
+          }
+        ]
+      },
+      {
+        "title": "Historical Flight Data",
+        "resources": [
+          {
+            "name": "ADS-B Exchange Historical",
+            "url": "https://flight-data.adsbexchange.com",
+            "description": "Archived flight data"
+          },
+          {
+            "name": "GVA Dictator Alert",
+            "url": "https://github.com/lefranz/geneva-dictators",
+            "description": "Track dictator aircraft in Geneva"
+          },
+          {
+            "name": "Planespotters",
+            "url": "https://www.planespotters.net/",
+            "description": "Civil aviation spotting and aircraft registry"
+          },
+          {
+            "name": "Airfighters",
+            "url": "https://www.airfighters.com/",
+            "description": "Military aircraft database with photos"
+          },
+          {
+            "name": "LocalizaTodo",
+            "url": "https://www.localizatodo.com/html5/",
+            "description": "Real-time vessel and aircraft tracking"
+          },
+          {
+            "name": "FlightConnections",
+            "url": "https://www.flightconnections.com",
+            "description": "Interactive airline route maps"
+          },
+          {
+            "name": "NATO/US Military Tracker",
+            "url": "http://www.planeflighttracker.com/2014/04/united-states-military-aircraft-in.html",
+            "description": "Military aircraft tracker"
+          }
+        ]
+      },
+      {
+        "title": "Aircraft Databases",
+        "resources": [
+          {
+            "name": "OpenSky Aircraft DB",
+            "url": "https://opensky-network.org/datasets/#metadata/",
+            "description": "Registered aircraft database (samples)"
+          },
+          {
+            "name": "JetPhotos",
+            "url": "https://www.jetphotos.com/",
+            "description": "Aircraft spotter photos and database"
+          }
+        ]
+      },
+      {
+        "title": "Extra Flight Tracking & Data",
+        "resources": [
+          {
+            "name": "ADS-B Exchange Global Radar",
+            "url": "https://global.adsbexchange.com/VirtualRadar/desktop.html",
+            "description": "Unfiltered cooperative flight radar"
+          },
+          {
+            "name": "RadarBox24",
+            "url": "https://www.radarbox24.com/",
+            "description": "Real-time flight tracking and analytics"
+          },
+          {
+            "name": "Casper Flights",
+            "url": "https://casperflights.com",
+            "description": "Historical and live flight tracking"
+          },
+          {
+            "name": "FlightStats",
+            "url": "https://www.flightstats.com",
+            "description": "Global flight status and airport information"
+          },
+          {
+            "name": "FlightView",
+            "url": "https://www.flightview.com",
+            "description": "Flight tracking and airport delays"
+          },
+          {
+            "name": "FlightWise",
+            "url": "https://flightwise.com",
+            "description": "Flight tracking and planning service"
+          },
+          {
+            "name": "FlightArrivals",
+            "url": "https://www.flightarrivals.com",
+            "description": "Arrival and departure information"
+          },
+          {
+            "name": "Flightradar.live",
+            "url": "https://flightradar.live/en/flight-tracker",
+            "description": "Live flight tracker alternative"
+          }
+        ]
+      },
+      {
+        "title": "Extra Aircraft & Aviation Databases",
+        "resources": [
+          {
+            "name": "Airframes.org",
+            "url": "https://www.airframes.org",
+            "description": "Aircraft registration and ownership info"
+          },
+          {
+            "name": "AirlineCodes",
+            "url": "https://www.airlinecodes.info/",
+            "description": "Airline and airport codes reference"
+          },
+          {
+            "name": "Airliners.net",
+            "url": "https://www.airliners.net",
+            "description": "Aviation photo archive and community"
+          },
+          {
+            "name": "AirNav Airports",
+            "url": "https://www.airnav.com/airports",
+            "description": "Detailed information on airports"
+          },
+          {
+            "name": "Aviation Edge Airport Database",
+            "url": "https://aviation-edge.com/airport-database-api",
+            "description": "API for global airport and airline data"
+          },
+          {
+            "name": "Aviation StackExchange",
+            "url": "https://aviation.stackexchange.com",
+            "description": "Q&A community for aviation"
+          },
+          {
+            "name": "Aviation Safety Network",
+            "url": "https://aviation-safety.net",
+            "description": "Global aviation safety database"
+          },
+          {
+            "name": "Aviation Safety Drone Incidents",
+            "url": "https://aviation-safety.net/database/issue/drones.php",
+            "description": "Drone incident and safety reports"
+          },
+          {
+            "name": "Wikipedia Aircraft Registration Prefixes",
+            "url": "https://en.wikipedia.org/wiki/List_of_aircraft_registration_prefixes",
+            "description": "List of aircraft registration country prefixes"
+          }
+        ]
+      },
+      {
+        "title": "Cargo & Drone Research",
+        "resources": [
+          {
+            "name": "CargoTracking Utopiax",
+            "url": "https://cargotracking.utopiax.org",
+            "description": "Cargo and flight tracking"
+          },
+          {
+            "name": "Drone Center Database",
+            "url": "https://dronecenter.bard.edu/the-drone-database",
+            "description": "Bard Center drone database"
+          },
+          {
+            "name": "CNAS Drone Project",
+            "url": "https://drones.cnas.org/drones",
+            "description": "Drone wars and policy project"
+          },
+          {
+            "name": "UAS Vision",
+            "url": "https://www.uasvision.com/about",
+            "description": "News and resources on unmanned aerial systems"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "business-intel",
+    "title": "💼 Business & Company Intelligence",
+    "sections": [
+      {
+        "title": "Company Databases",
+        "resources": [
+          {
+            "name": "CB Insights",
+            "url": "https://www.cbinsights.com/",
+            "description": "Market intelligence and company data (commercial)"
+          },
+          {
+            "name": "Craft.co",
+            "url": "https://craft.co/",
+            "description": "Company profiles and org intelligence"
+          },
+          {
+            "name": "Crunchbase",
+            "url": "https://www.crunchbase.com/",
+            "description": "Business and startup intelligence (freemium)"
+          },
+          {
+            "name": "OpenCorporates",
+            "url": "https://opencorporates.com/",
+            "description": "Global database of company registrations"
+          },
+          {
+            "name": "PitchBook",
+            "url": "https://pitchbook.com/",
+            "description": "Private equity and venture capital database (commercial)"
+          },
+          {
+            "name": "PrivCo",
+            "url": "https://www.privco.com/",
+            "description": "Private company financial intelligence (commercial)"
+          }
+        ]
+      },
+      {
+        "title": "Registries and Filings",
+        "resources": [
+          {
+            "name": "Australian Business Register",
+            "url": "https://abr.business.gov.au/",
+            "description": "Australian business records"
+          },
+          {
+            "name": "Canadian Corporations",
+            "url": "https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/home",
+            "description": "Canadian business registry"
+          },
+          {
+            "name": "Companies House",
+            "url": "https://www.gov.uk/government/organisations/companies-house",
+            "description": "UK company registry"
+          },
+          {
+            "name": "European Business Register",
+            "url": "https://www.ebr.org/",
+            "description": "European cross-border company data"
+          },
+          {
+            "name": "SEC EDGAR",
+            "url": "https://www.sec.gov/edgar.shtml",
+            "description": "US public company filings"
+          }
+        ]
+      },
+      {
+        "title": "European National Business Registers",
+        "resources": [
+          {
+            "name": "Albania",
+            "url": "https://aida.gov.al/en/",
+            "description": "National Business Center"
+          },
+          {
+            "name": "Andorra",
+            "url": "http://www.ompa.ad/",
+            "description": "Oficina de Marques"
+          },
+          {
+            "name": "Austria",
+            "url": "https://www.justiz.gv.at/web2013/home/e-government/firmenbuch/die_firmenbuchdatenbank~2c9484852308c2a601240b693e1c0860.de.html",
+            "description": "Company Register (Firmenbuch)"
+          },
+          {
+            "name": "Belarus",
+            "url": "https://egr.gov.by/egrn/",
+            "description": "Unified State Register of Legal Entities"
+          },
+          {
+            "name": "Belgium",
+            "url": "https://economie.fgov.be/nl/themas/ondernemingen/kruispuntbank-van/diensten-voor-iedereen/raadpleging-en-opzoeking-van/kruispuntbank-van",
+            "description": "Crossroads Bank for Enterprises"
+          },
+          {
+            "name": "Belgium",
+            "url": "http://www.nbb.be/pub/03_00_00_00_00/03_01_01_00_00.htm?l=nl&t=ho",
+            "description": "Annual Accounts (National Bank of Belgium)"
+          },
+          {
+            "name": "Bosnia and Herzegovina",
+            "url": "http://www.kfbih.com/",
+            "description": "Financial Information Agency"
+          },
+          {
+            "name": "Bulgaria",
+            "url": "http://www.registryagency.bg/",
+            "description": "Commercial Register"
+          },
+          {
+            "name": "Croatia",
+            "url": "https://sudreg.pravosudje.hr/",
+            "description": "Trade Court Register"
+          },
+          {
+            "name": "Cyprus",
+            "url": "https://www.companies.gov.cy/en/",
+            "description": "Department of Registrar of Companies"
+          },
+          {
+            "name": "Czech Republic",
+            "url": "http://portal.justice.cz/",
+            "description": "Business Register"
+          },
+          {
+            "name": "Denmark",
+            "url": "https://datacvr.virk.dk/data",
+            "description": "Central Business Register (CVR)"
+          },
+          {
+            "name": "Estonia",
+            "url": "http://www.rik.ee/en",
+            "description": "Centre of Registers and Information Systems"
+          },
+          {
+            "name": "Faroe Islands",
+            "url": "http://www.skraseting.fo/?lang=uk",
+            "description": "Company Register"
+          },
+          {
+            "name": "Finland",
+            "url": "https://www.prh.fi/en/kaupparekisteri.html",
+            "description": "Trade Register"
+          },
+          {
+            "name": "France",
+            "url": "https://www.infogreffe.fr/societes/documents-officiels/demande-kbis.html",
+            "description": "Commercial Court Registry (Infogreffe)"
+          },
+          {
+            "name": "Germany",
+            "url": "https://www.handelsregister.de/",
+            "description": "Common Register Portal of the German Federal States"
+          },
+          {
+            "name": "Germany",
+            "url": "https://www.unternehmensregister.de/",
+            "description": "Company Register (Bundesanzeiger / Federal Gazette, includes annual reports)"
+          },
+          {
+            "name": "Gibraltar",
+            "url": "http://www.companieshouse.gi/",
+            "description": "Companies House Gibraltar"
+          },
+          {
+            "name": "Greece",
+            "url": "https://www.businessportal.gr/",
+            "description": "Business Portal (Athens Chamber)"
+          },
+          {
+            "name": "Greenland",
+            "url": "https://datacvr.virk.dk/?pk_vid=91d8bcabe5185c35165227212940f2b5",
+            "description": "Greenland Business Register"
+          },
+          {
+            "name": "Guernsey",
+            "url": "http://guernseyregistry.com/homepage",
+            "description": "Guernsey Registry"
+          },
+          {
+            "name": "Hungary",
+            "url": "http://www.e-cegjegyzek.hu/index.html",
+            "description": "Ministry of Justice, Business Information Service"
+          },
+          {
+            "name": "Iceland",
+            "url": "http://www.rsk.is/fyrirtaekjaskra/",
+            "description": "Company Register (Internal Revenue)"
+          },
+          {
+            "name": "Ireland",
+            "url": "http://www.cro.ie/",
+            "description": "Companies Registration Office"
+          },
+          {
+            "name": "Isle of Man",
+            "url": "http://www.gov.im/ded/companies/companiesregistry.xml",
+            "description": "Companies Registry"
+          },
+          {
+            "name": "Italy",
+            "url": "https://italianbusinessregister.it/en/home",
+            "description": "Italian Business Register"
+          },
+          {
+            "name": "Jersey",
+            "url": "http://www.jerseyfsc.org/registry/",
+            "description": "Companies Registry (Jersey FSC)"
+          },
+          {
+            "name": "Kosovo",
+            "url": "https://aleph.occrp.org/datasets/2747",
+            "description": "Company Register Dataset (OCCRP Aleph)"
+          },
+          {
+            "name": "Latvia",
+            "url": "http://www.ur.gov.lv/?v=en",
+            "description": "Register of Enterprises"
+          },
+          {
+            "name": "Liechtenstein",
+            "url": "https://www.oera.li/cr-portal/suche/suche.xhtml",
+            "description": "Commercial Register"
+          },
+          {
+            "name": "Lithuania",
+            "url": "http://www.registrucentras.lt/index_en.php",
+            "description": "Centre of Registers"
+          },
+          {
+            "name": "Luxembourg",
+            "url": "https://www.lbr.lu/mjrcs-lbr/",
+            "description": "Luxembourg Business Registers"
+          },
+          {
+            "name": "Malta",
+            "url": "https://mbr.mt/",
+            "description": "Malta Business Registry"
+          },
+          {
+            "name": "Moldova",
+            "url": "http://www.justice.gov.md/",
+            "description": "Ministry of Justice, State Register"
+          },
+          {
+            "name": "Monaco",
+            "url": "http://www.rci.gouv.mc/",
+            "description": "Trade and Industry Register"
+          },
+          {
+            "name": "Montenegro",
+            "url": "https://montenegro.eregulations.org/Contacts/15?l=en",
+            "description": "Company Register"
+          },
+          {
+            "name": "Netherlands",
+            "url": "https://www.kvk.nl/",
+            "description": "Kamer van Koophandel (KVK)"
+          },
+          {
+            "name": "North Macedonia",
+            "url": "http://www.crm.com.mk/",
+            "description": "Central Register"
+          },
+          {
+            "name": "Norway",
+            "url": "https://www.brreg.no/en/?nocache=1758036745589",
+            "description": "Brønnøysund Register Centre"
+          },
+          {
+            "name": "Poland",
+            "url": "https://prs.ms.gov.pl/",
+            "description": "National Court Register"
+          },
+          {
+            "name": "Portugal",
+            "url": "https://eportugal.gov.pt/en/espaco-empresa/empresa-online",
+            "description": "Empresa Online"
+          },
+          {
+            "name": "Romania",
+            "url": "http://www.onrc.ro/index.php/ro/",
+            "description": "National Trade Register Office"
+          },
+          {
+            "name": "Russia",
+            "url": "https://russianpartner.biz/",
+            "description": "Russian Business Register"
+          },
+          {
+            "name": "San Marino",
+            "url": "http://www.cc.sm/",
+            "description": "Chamber of Commerce"
+          },
+          {
+            "name": "Serbia",
+            "url": "https://ras.gov.rs/en/invest-in-serbia/start-a-business",
+            "description": "Business Register"
+          },
+          {
+            "name": "Slovakia",
+            "url": "http://www.orsr.sk/Default.asp?lan=en",
+            "description": "Ministry of Justice, Business Register"
+          },
+          {
+            "name": "Slovenia",
+            "url": "http://www.ajpes.eu/",
+            "description": "Agency for Public Legal Records and Related Services (AJPES)"
+          },
+          {
+            "name": "Spain",
+            "url": "http://www.rmc.es/Home.aspx?lang=en",
+            "description": "Central Mercantile Register"
+          },
+          {
+            "name": "Sweden",
+            "url": "https://snr4.bolagsverket.se/snrgate/startIn.do",
+            "description": "Swedish Companies Registration Office"
+          },
+          {
+            "name": "Switzerland",
+            "url": "http://www.zefix.ch/",
+            "description": "Federal Commercial Registry Office"
+          },
+          {
+            "name": "Turkey",
+            "url": "http://www.tobb.org.tr/Sayfalar/Eng/AnaSayfa.php",
+            "description": "Union of Chambers and Commodity Exchanges"
+          },
+          {
+            "name": "Ukraine",
+            "url": "https://reyestr.court.gov.ua/",
+            "description": "Unified State Register"
+          },
+          {
+            "name": "United Kingdom",
+            "url": "http://www.companieshouse.gov.uk/",
+            "description": "Companies House"
+          }
+        ]
+      },
+      {
+        "title": "Business Intelligence Platforms",
+        "resources": [
+          {
+            "name": "Craft.co",
+            "url": "https://craft.co/",
+            "description": "Company profiles and org intelligence"
+          },
+          {
+            "name": "D&B Hoovers",
+            "url": "https://www.dnb.com/",
+            "description": "Company intelligence and sales intelligence (commercial)"
+          },
+          {
+            "name": "Glassdoor",
+            "url": "https://www.glassdoor.com/",
+            "description": "Employee reviews and salary information"
+          },
+          {
+            "name": "Kompass",
+            "url": "https://www.kompass.com/",
+            "description": "Global B2B company directory"
+          },
+          {
+            "name": "Orbis (Bureau van Dijk)",
+            "url": "https://www.bvdinfo.com/en-gb/our-products/data/international/orbis",
+            "description": "Extensive global company data (commercial)"
+          }
+        ]
+      },
+      {
+        "title": "Corporate Risk and Compliance",
+        "resources": [
+          {
+            "name": "OpenSanctions",
+            "url": "https://www.opensanctions.org/",
+            "description": "Database of sanctions lists and persons of interest"
+          },
+          {
+            "name": "Sayari",
+            "url": "https://sayari.com/",
+            "description": "Global business risk intelligence platform (commercial)"
+          },
+          {
+            "name": "SEON",
+            "url": "https://seon.io/",
+            "description": "Fraud prevention and business risk detection (commercial/freemium)"
+          },
+          {
+            "name": "World-Check (Refinitiv)",
+            "url": "https://www.refinitiv.com/en/products/world-check-kyc-screening",
+            "description": "Commercial risk intelligence database"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "comms",
+    "title": "📻 Communications & SIGINT",
+    "sections": [
+      {
+        "title": "Utility & Number Station Resources",
+        "resources": [
+          {
+            "name": "Numbers Station Research & Archive",
+            "url": "https://priyom.org",
+            "description": "Database and live schedule of known number stations"
+          },
+          {
+            "name": "HF Underground",
+            "url": "https://www.hfunderground.com",
+            "description": "Logs of pirate, utility, and number station receptions"
+          },
+          {
+            "name": "Enigma 2000",
+            "url": "http://signalshed.com",
+            "description": "Community focused on identifying and cataloging mysterious radio signals"
+          },
+          {
+            "name": "Broadcastify",
+            "url": "https://www.broadcastify.com/listen",
+            "description": "Live police, fire, EMS, and aviation feeds worldwide"
+          },
+          {
+            "name": "LiveATC.net",
+            "url": "http://liveatc.net",
+            "description": "Global live streams of air traffic control communications"
+          },
+          {
+            "name": "MarineTraffic Radio (AIS Feeds)",
+            "url": "https://www.marinetraffic.com",
+            "description": "Marine AIS transponder data and related VHF radio info"
+          }
+        ]
+      },
+      {
+        "title": "🛰️ Satellite & Space Communications",
+        "resources": [
+          {
+            "name": "N2YO.com",
+            "url": "https://www.n2yo.com",
+            "description": "Live satellite tracking and radio frequency info"
+          },
+          {
+            "name": "SatNOGS Network",
+            "url": "https://network.satnogs.org",
+            "description": "Global open network of satellite ground stations"
+          },
+          {
+            "name": "Heavens-Above",
+            "url": "https://www.heavens-above.com",
+            "description": "Satellite pass predictions and amateur radio satellite data"
+          }
+        ]
+      },
+      {
+        "title": "📰 Databases, Logs & Communities",
+        "resources": [
+          {
+            "name": "Frequency Database",
+            "url": "https://www.radioreference.com",
+            "description": "Comprehensive global frequency listings and live feeds"
+          },
+          {
+            "name": "High Frequency Coordination Conference",
+            "url": "https://new.hfcc.org/index.php",
+            "description": "Official frequency schedules of shortwave broadcasters"
+          },
+          {
+            "name": "EiBi Shortwave Database",
+            "url": "http://eibispace.de",
+            "description": "Regularly updated international shortwave schedules"
+          }
+        ]
+      },
+      {
+        "title": "Communities & Research Hubs",
+        "resources": [
+          {
+            "name": "Reddit Shortwave",
+            "url": "https://www.reddit.com/r/shortwave",
+            "description": "Shortwave Reddit Thread"
+          },
+          {
+            "name": "HF Underground Forums",
+            "url": "https://www.hfunderground.com/board",
+            "description": "Underground radio forum"
+          },
+          {
+            "name": "Worldwide Radio Forum (WRTH)",
+            "url": "https://wrth.com",
+            "description": "Radio Forum"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "darkweb-leaks",
+    "title": "🕳 Dark Web & Leaks",
+    "sections": [
+      {
+        "title": "Onion Search Engines",
+        "resources": [
+          {
+            "name": "Ahmia",
+            "url": "https://ahmia.fi",
+            "description": "Hidden service search"
+          },
+          {
+            "name": "Haystak",
+            "url": "http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/",
+            "description": "Full-text darknet search (premium)"
+          },
+          {
+            "name": "Tor66",
+            "url": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/",
+            "description": "Search and find onion sites"
+          },
+          {
+            "name": "Torch",
+            "url": "http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/",
+            "description": "One of the oldest onion search engines"
+          },
+          {
+            "name": "Kilos",
+            "url": "http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/captcha",
+            "description": "Darknet market and forum search"
+          },
+          {
+            "name": "Phobos",
+            "url": "http://phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion/",
+            "description": "Darknet search"
+          },
+          {
+            "name": "TORMAX",
+            "url": "http://o2yumlw2lxbwdtz6ph5beve7celspvf4suqmb3wf5thfjsn7d47wz6ad.onion/",
+            "description": "Onion search engine"
+          },
+          {
+            "name": "GDARK",
+            "url": "http://zb2jtkhnbvhkya3d46twv3g7lkobi4s62tjffqmafjibixk6pmq75did.onion/gdark/search.php",
+            "description": "Darknet search index"
+          },
+          {
+            "name": "Google Onion Mirror",
+            "url": "http://ggonijhjnpgo5z7xaudbor2ivpycaq3kecrjggav4svftbycu3fkawyd.onion/",
+            "description": "Google hidden service"
+          }
+        ]
+      },
+      {
+        "title": "Service & Directory Lists",
+        "resources": [
+          {
+            "name": "The Hidden Wiki",
+            "url": "http://paavlaytlfsqyvkg3yqj7hflfg5jw2jdg2fgkza5ruf6lplwseeqtvyd.onion/",
+            "description": "Onion directory"
+          },
+          {
+            "name": "TheHiddenWiki.org",
+            "url": "https://thehiddenwiki.org/",
+            "description": "Clearnet mirror of Hidden Wiki"
+          },
+          {
+            "name": "OnionLinks",
+            "url": "http://s4k4ceiapwwgcm3mkb6e4diqecpo7kvdnfr5gg7sph7jjppqkvwwqtyd.onion/",
+            "description": "Curated onion links"
+          },
+          {
+            "name": "Onion.Live",
+            "url": "https://onion.live/",
+            "description": "Status of darknet sites"
+          },
+          {
+            "name": "Dark.fail",
+            "url": "http://darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion/",
+            "description": "Monitor uptime of onion markets/forums"
+          },
+          {
+            "name": "Tor.Taxi",
+            "url": "http://tortaxi7axhn2fv4j475a6blv7vwjtpieokolfnojwvkhsnj7sgctkqd.onion/",
+            "description": "Directory/portal for onion services"
+          }
+        ]
+      },
+      {
+        "title": "Leak Sites & Forums",
+        "resources": [
+          {
+            "name": "IntelligenceX",
+            "url": "https://intelx.io",
+            "description": "Leaks & darknet indexing"
+          },
+          {
+            "name": "OCCRP Aleph",
+            "url": "https://data.occrp.org",
+            "description": "Public leaks & investigations"
+          }
+        ]
+      },
+      {
+        "title": "General Dark Web Search & Tools",
+        "resources": [
+          {
+            "name": "IACA Dark Web Tools",
+            "url": "https://iaca-darkweb-tools.com",
+            "description": "Toolkit for investigators"
+          },
+          {
+            "name": "Napalm FTP",
+            "url": "https://www.searchftps.net",
+            "description": "Search open FTP servers"
+          },
+          {
+            "name": "Archive.org",
+            "url": "https://archive.org",
+            "description": "Historical archiving (sometimes mirrors darknet material)"
+          },
+          {
+            "name": "Google CSE Utopia",
+            "url": "https://start.me/p/EL84Km/cse-utopia",
+            "description": "Custom Google engines for onion search"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "document-file",
+    "title": "📑 Document & File Search",
+    "sections": [
+      {
+        "title": "Document & Slide Search",
+        "resources": [
+          {
+            "name": "Find-pdf-doc",
+            "url": "http://www.findpdfdoc.com/",
+            "description": "Search engine for PDF and DOC files"
+          },
+          {
+            "name": "SlideShare",
+            "url": "https://www.slideshare.net/",
+            "description": "Slides and presentations search"
+          },
+          {
+            "name": "Scribd",
+            "url": "https://www.scribd.com/",
+            "description": "Books, documents, and academic resources"
+          }
+        ]
+      },
+      {
+        "title": "File & Open Directory Search",
+        "resources": [
+          {
+            "name": "Eyedex",
+            "url": "http://eyedex.org/",
+            "description": "Open directory file search"
+          },
+          {
+            "name": "FilePursuit",
+            "url": "https://filepursuit.com/",
+            "description": "File and open directory search engine"
+          },
+          {
+            "name": "Filesec.io",
+            "url": "https://filesec.io/",
+            "description": "File and directory search focused on infosec content"
+          },
+          {
+            "name": "Meawfy",
+            "url": "https://meawfy.com/",
+            "description": "Mega.nz file search"
+          }
+        ]
+      },
+      {
+        "title": "Paste & Text Storage",
+        "resources": [
+          {
+            "name": "0bin",
+            "url": "https://0bin.net/",
+            "description": "Encrypted pastebin"
+          },
+          {
+            "name": "Defuse",
+            "url": "https://defuse.ca/pastebin.htm",
+            "description": "Pastebin with encryption options"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "geospatial-mapping",
+    "title": "🛰 Geospatial & Mapping OSINT",
+    "sections": [
+      {
+        "title": "Satellite Imagery",
+        "resources": [
+          {
+            "name": "Google Earth",
+            "url": "https://earth.google.com/",
+            "description": "Global 3D imagery and satellite data"
+          },
+          {
+            "name": "Google Earth Pro",
+            "url": "https://www.google.com/earth/versions/",
+            "description": "Desktop version with advanced tools"
+          },
+          {
+            "name": "Sentinel Hub",
+            "url": "https://www.sentinel-hub.com/",
+            "description": "Access free Sentinel satellite imagery"
+          },
+          {
+            "name": "Sentinel Playground",
+            "url": "http://apps.sentinel-hub.com/sentinel-playground",
+            "description": "Explore Sentinel imagery interactively"
+          },
+          {
+            "name": "EO Browser",
+            "url": "https://www.sentinel-hub.com/explore/eobrowser/",
+            "description": "Browser-based access to Sentinel imagery"
+          },
+          {
+            "name": "NASA Worldview",
+            "url": "https://worldview.earthdata.nasa.gov/",
+            "description": "Daily global satellite data"
+          },
+          {
+            "name": "USGS EarthExplorer",
+            "url": "https://earthexplorer.usgs.gov/",
+            "description": "Access historical satellite imagery"
+          },
+          {
+            "name": "ESA Copernicus Open Access",
+            "url": "https://dataspace.copernicus.eu/explore-data",
+            "description": "Sentinel mission data access"
+          },
+          {
+            "name": "NOAA Satellite Data",
+            "url": "https://www.nesdis.noaa.gov/",
+            "description": "US environmental satellite imagery"
+          },
+          {
+            "name": "Satellites.pro",
+            "url": "https://satellites.pro/",
+            "description": "Online satellite maps viewer"
+          },
+          {
+            "name": "Mapbox Near-Time Imagery",
+            "url": "https://www.mapbox.com/",
+            "description": "Near real-time satellite maps"
+          },
+          {
+            "name": "GIS Geography: 25 Satellite Maps",
+            "url": "https://gisgeography.com/satellite-maps/",
+            "description": "Guide to alternative satellite maps"
+          },
+          {
+            "name": "Wayback Imagery",
+            "url": "http://livingatlas.arcgis.com/wayback/",
+            "description": "Historic satellite imagery archive"
+          },
+          {
+            "name": "Maxar Discovery",
+            "url": "https://xpress.maxar.com",
+            "description": "High-resolution imagery archive"
+          },
+          {
+            "name": "Soar.Earth",
+            "url": "https://soar.earth/",
+            "description": "User-uploaded and satellite imagery platform"
+          }
+        ]
+      },
+      {
+        "title": "Mapping and Street-level",
+        "resources": [
+          {
+            "name": "Apple Maps",
+            "url": "https://maps.apple.com/",
+            "description": "Map service by Apple"
+          },
+          {
+            "name": "Baidu Maps",
+            "url": "https://map.baidu.com/",
+            "description": "Map service by Baidu"
+          },
+          {
+            "name": "Bing Maps",
+            "url": "https://www.bing.com/maps",
+            "description": "Microsoft’s mapping solution"
+          },
+          {
+            "name": "GoKML",
+            "url": "http://gokml.net/maps",
+            "description": "Online KML maps"
+          },
+          {
+            "name": "Google Maps",
+            "url": "https://maps.google.com/",
+            "description": "Standard mapping and geolocation platform"
+          },
+          {
+            "name": "Google Street View",
+            "url": "https://www.google.com/streetview/",
+            "description": "Ground-level panoramas worldwide"
+          },
+          {
+            "name": "Instant Streetview",
+            "url": "https://instantstreetview.com",
+            "description": "Instant Google Street View"
+          },
+          {
+            "name": "Mapillary",
+            "url": "https://www.mapillary.com/",
+            "description": "Crowdsourced street-level imagery"
+          },
+          {
+            "name": "NearToilets",
+            "url": "https://neartoilets.com/map",
+            "description": "Find clean public toilets"
+          },
+          {
+            "name": "OpenSeaMap",
+            "url": "https://www.openseamap.org/",
+            "description": "The Open Sea Map"
+          },
+          {
+            "name": "OpenStreetMap",
+            "url": "https://www.openstreetmap.org/",
+            "description": "Community-driven world map"
+          },
+          {
+            "name": "Open Infra Map",
+            "url": "https://openinframap.org/",
+            "description": "View of the world's infrastructure mapped in OSM"
+          },
+          {
+            "name": "HERE WeGo",
+            "url": "https://wego.here.com/",
+            "description": "Mapping and routing platform"
+          },
+          {
+            "name": "Wikimapia",
+            "url": "http://wikimapia.org/",
+            "description": "Collaborative map with user-added info"
+          },
+          {
+            "name": "Yandex Maps",
+            "url": "https://yandex.com/maps/",
+            "description": "Map service by Yandex"
+          }
+        ]
+      },
+      {
+        "title": "Location Estimation",
+        "resources": [
+          {
+            "name": "GeoSpy.ai",
+            "url": "https://geospy.ai",
+            "description": "Locates images through AI pixel analysis. Not publicly available"
+          },
+          {
+            "name": "Picarta",
+            "url": "https://picarta.ai",
+            "description": "Locates images through AI EXIF data / algorithms"
+          },
+          {
+            "name": "TIB Labs",
+            "url": "https://labs.tib.eu/geoestimation/",
+            "description": "Uses deep learning / scene classification to determine country/location"
+          },
+          {
+            "name": "Findthatspot",
+            "url": "https://www.findthatspot.io/",
+            "description": "Using OSM to locate features for Geolocation"
+          },
+          {
+            "name": "PeakFinder",
+            "url": "https://www.peakfinder.org/",
+            "description": "Identify mountains and terrain from coordinates"
+          },
+          {
+            "name": "PeakVisor",
+            "url": "https://peakvisor.com/",
+            "description": "same as above"
+          }
+        ]
+      },
+      {
+        "title": "Satellite and Aerial Tracking",
+        "resources": [
+          {
+            "name": "Space-Track.org",
+            "url": "https://www.space-track.org/",
+            "description": "US Space Command satellite data"
+          },
+          {
+            "name": "N2YO",
+            "url": "https://www.n2yo.com/",
+            "description": "Real-time satellite tracking"
+          },
+          {
+            "name": "Heavens Above",
+            "url": "https://heavens-above.com/",
+            "description": "Satellite, ISS, and astronomy tracking"
+          },
+          {
+            "name": "SatNOGS",
+            "url": "https://satnogs.org/",
+            "description": "Open-source satellite ground station network"
+          },
+          {
+            "name": "Celestrak",
+            "url": "https://celestrak.org/",
+            "description": "Orbital data for satellites and debris"
+          },
+          {
+            "name": "In-The-Sky Satellite Maps",
+            "url": "https://in-the-sky.org/satmap_worldmap.php",
+            "description": "Interactive orbital maps"
+          }
+        ]
+      },
+      {
+        "title": "Sun vs. Shadow",
+        "resources": [
+          {
+            "name": "ShadeMap",
+            "url": "https://shademap.app/",
+            "description": "Sunlight simulation on OSM instance"
+          },
+          {
+            "name": "ShadowMap",
+            "url": "https://app.shadowmap.org/",
+            "description": "Sunlight simulation on 3d map"
+          },
+          {
+            "name": "SunCalc",
+            "url": "https://suncalc.org/",
+            "description": "Calculate sun position and shadows for a given time"
+          },
+          {
+            "name": "SunEarthTools",
+            "url": "https://www.sunearthtools.com/dp/tools/pos_sun.php",
+            "description": "Sun position tracking"
+          },
+          {
+            "name": "BellingCat Shadowfinder",
+            "url": "https://github.com/bellingcat/ShadowFinder?tab=readme-ov-file",
+            "description": "Estimating the points on the Earth's surface where a shadow of a particular length could occur"
+          }
+        ]
+      },
+      {
+        "title": "Geospatial Analysis Tools",
+        "resources": [
+          {
+            "name": "QGIS",
+            "url": "https://qgis.org/",
+            "description": "Open-source desktop GIS application"
+          },
+          {
+            "name": "ArcGIS Online",
+            "url": "https://www.arcgis.com/",
+            "description": "Cloud-based mapping and spatial analysis"
+          },
+          {
+            "name": "Gephi",
+            "url": "https://gephi.org/",
+            "description": "Visualization and spatial network analysis"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gov-legal",
+    "title": "⚖️ Government & Legal Records",
+    "sections": [
+      {
+        "title": "Court and Legal Databases",
+        "resources": [
+          {
+            "name": "PACER",
+            "url": "https://pacer.uscourts.gov/",
+            "description": "US federal court records (paid access)"
+          },
+          {
+            "name": "CourtListener",
+            "url": "https://www.courtlistener.com/",
+            "description": "Free access to US legal opinions and filings"
+          },
+          {
+            "name": "Justia",
+            "url": "https://www.justia.com/",
+            "description": "US law and case database"
+          },
+          {
+            "name": "BAILII",
+            "url": "https://www.bailii.org/",
+            "description": "British and Irish legal information institute"
+          },
+          {
+            "name": "EUR-Lex",
+            "url": "https://eur-lex.europa.eu/",
+            "description": "Access to European Union law"
+          },
+          {
+            "name": "CanLII",
+            "url": "https://www.canlii.org/",
+            "description": "Canadian case law and statutes"
+          },
+          {
+            "name": "AustLII",
+            "url": "http://www.austlii.edu.au/",
+            "description": "Australian legal database"
+          }
+        ]
+      },
+      {
+        "title": "Government Records and Open Data",
+        "resources": [
+          {
+            "name": "Data.gov",
+            "url": "https://www.data.gov/",
+            "description": "US government open data portal"
+          },
+          {
+            "name": "EU Open Data Portal",
+            "url": "https://data.europa.eu/en",
+            "description": "European Union open datasets"
+          },
+          {
+            "name": "UK Data Service",
+            "url": "https://ukdataservice.ac.uk/",
+            "description": "UK government open data"
+          },
+          {
+            "name": "World Bank Data",
+            "url": "https://data.worldbank.org/",
+            "description": "Global development and economic datasets"
+          },
+          {
+            "name": "IMF Data",
+            "url": "https://www.imf.org/en/Data",
+            "description": "International Monetary Fund data portal"
+          }
+        ]
+      },
+      {
+        "title": "Official Registers",
+        "resources": [
+          {
+            "name": "UN Sanctions List",
+            "url": "https://www.opensanctions.org/datasets/un_sc_sanctions/",
+            "description": "Consolidated United Nations sanctions"
+          },
+          {
+            "name": "Interpol Red Notices",
+            "url": "https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices",
+            "description": "Wanted persons database"
+          },
+          {
+            "name": "OFAC Sanctions List",
+            "url": "https://sanctionssearch.ofac.treas.gov/",
+            "description": "US Treasury sanctions search"
+          },
+          {
+            "name": "FBI Most Wanted",
+            "url": "https://www.fbi.gov/wanted",
+            "description": "FBI wanted fugitives list"
+          },
+          {
+            "name": "EU Sanctions Map",
+            "url": "https://www.sanctionsmap.eu/",
+            "description": "Sanctions measures of the EU"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "image-reverse",
+    "title": "📷 Image & Reverse Search",
+    "sections": [
+      {
+        "title": "Reverse Image Search Engines",
+        "resources": [
+          {
+            "name": "Baidu Image",
+            "url": "https://image.baidu.com/",
+            "description": "Reverse image search and AI image creation by Baidu"
+          },
+          {
+            "name": "Bing Visual Search",
+            "url": "https://www.bing.com/visualsearch",
+            "description": "Reverse image search from Microsoft"
+          },
+          {
+            "name": "Google Images",
+            "url": "https://images.google.com/",
+            "description": "Reverse image search and visual similarity"
+          },
+          {
+            "name": "Yandex Images",
+            "url": "https://yandex.com/images/",
+            "description": "Powerful reverse search, especially for faces and objects"
+          },
+          {
+            "name": "TinEye",
+            "url": "https://tineye.com/",
+            "description": "Reverse image search with focus on older content"
+          },
+          {
+            "name": "Karma Decay",
+            "url": "https://karmadecay.com/",
+            "description": "Reverse search for Reddit images"
+          }
+        ]
+      },
+      {
+        "title": "Metadata Extraction",
+        "resources": [
+          {
+            "name": "ExifTool",
+            "url": "https://exiftool.org/",
+            "description": "Extract EXIF and metadata from images"
+          },
+          {
+            "name": "Jeffrey’s Exif Viewer",
+            "url": "http://exif.regex.info/exif.cgi",
+            "description": "Online EXIF metadata viewer"
+          }
+        ]
+      },
+      {
+        "title": "Image Forensics",
+        "resources": [
+          {
+            "name": "Forensically",
+            "url": "https://29a.ch/photo-forensics/",
+            "description": "Online forensic suite for images"
+          },
+          {
+            "name": "FotoForensics",
+            "url": "http://fotoforensics.com/",
+            "description": "Error Level Analysis and image authenticity tools"
+          },
+          {
+            "name": "Image Edited?",
+            "url": "https://imageedited.com/",
+            "description": "Quick analysis of digital image edits"
+          },
+          {
+            "name": "IZITRU",
+            "url": "http://www.izitru.com/",
+            "description": "Authenticate photo originality (legacy, limited availability)"
+          }
+        ]
+      },
+      {
+        "title": "Facial Recognition and Search",
+        "resources": [
+          {
+            "name": "PimEyes",
+            "url": "https://pimeyes.com/",
+            "description": "Face search engine (commercial)"
+          },
+          {
+            "name": "Betaface",
+            "url": "http://www.betaface.com/demo.html",
+            "description": "Face recognition demo"
+          },
+          {
+            "name": "FindClone",
+            "url": "https://findclone.ru/",
+            "description": "Russian facial recognition search engine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "infra-domains",
+    "title": "🌍 Domains, IPs & Infrastructure",
+    "sections": [
+      {
+        "title": "Registries and Whois",
+        "resources": [
+          {
+            "name": "Whois",
+            "url": "https://who.is",
+            "description": "Basic Whois lookup"
+          },
+          {
+            "name": "ICANN Whois",
+            "url": "https://whois.icann.org/en",
+            "description": "Official ICANN Whois"
+          },
+          {
+            "name": "ARIN",
+            "url": "https://arin.net",
+            "description": "North America IP registry"
+          },
+          {
+            "name": "RIPE",
+            "url": "https://ripe.net/",
+            "description": "Europe, Russia, Middle East IP registry"
+          },
+          {
+            "name": "APNIC",
+            "url": "https://apnic.net",
+            "description": "Asia-Pacific IP registry"
+          },
+          {
+            "name": "LACNIC",
+            "url": "https://lacnic.net",
+            "description": "Latin America and Caribbean IP registry"
+          },
+          {
+            "name": "AFRINIC",
+            "url": "https://afrinic.net",
+            "description": "Africa IP registry"
+          },
+          {
+            "name": "Apnic WhoWas",
+            "url": "https://www.apnic.net/static/whowas-ui/",
+            "description": "Historical Asia-Pacific domains"
+          },
+          {
+            "name": "SIDN",
+            "url": "https://sidn.nl",
+            "description": "Netherlands domain registry"
+          },
+          {
+            "name": "Eurid",
+            "url": "https://eurid.eu/en/",
+            "description": ".EU domain registry"
+          }
+        ]
+      },
+      {
+        "title": "Domain Intelligence",
+        "resources": [
+          {
+            "name": "DomainTools",
+            "url": "https://domaintools.com",
+            "description": "Domain research platform"
+          },
+          {
+            "name": "DomainIQ",
+            "url": "https://www.domainiq.com/",
+            "description": "Domain intelligence and history"
+          },
+          {
+            "name": "Completedns",
+            "url": "https://completedns.com/dns-history/",
+            "description": "DNS history database"
+          },
+          {
+            "name": "IPQS",
+            "url": "https://www.ipqualityscore.com/",
+            "description": "Toolbox for domain/IP intelligence"
+          },
+          {
+            "name": "WhoisRequest",
+            "url": "http://whoisrequest.com/history/",
+            "description": "Domain ownership history lookup"
+          },
+          {
+            "name": "SecurityTrails",
+            "url": "https://securitytrails.com/",
+            "description": "DNS and infrastructure data"
+          },
+          {
+            "name": "Robtex",
+            "url": "https://robtex.com/",
+            "description": "Infrastructure graph explorer"
+          },
+          {
+            "name": "Web-Check",
+            "url": "https://web-check.xyz/",
+            "description": "Website analysis tool"
+          }
+        ]
+      },
+      {
+        "title": "Certificates and DNS",
+        "resources": [
+          {
+            "name": "crt.sh",
+            "url": "https://crt.sh/",
+            "description": "Certificate Transparency logs"
+          },
+          {
+            "name": "PassiveDNS (Mnemonic)",
+            "url": "https://passivedns.mnemonic.no/",
+            "description": "Historical DNS resolution"
+          },
+          {
+            "name": "DNSDumpster",
+            "url": "https://dnsdumpster.com/",
+            "description": "DNS mapping and reconnaissance"
+          },
+          {
+            "name": "DNSlytics",
+            "url": "https://dnslytics.com",
+            "description": "DNS, IP, and ASN intelligence"
+          },
+          {
+            "name": "ViewDNS",
+            "url": "https://viewdns.info",
+            "description": "Multi-tool for DNS and Whois lookups"
+          }
+        ]
+      },
+      {
+        "title": "Technology Fingerprinting",
+        "resources": [
+          {
+            "name": "BuiltWith",
+            "url": "https://builtwith.com/",
+            "description": "Website technology profiler"
+          },
+          {
+            "name": "Wappalyzer",
+            "url": "https://www.wappalyzer.com/",
+            "description": "Detect CMS, frameworks, and technologies"
+          },
+          {
+            "name": "Netcraft",
+            "url": "https://toolbar.netcraft.com/site_report",
+            "description": "Site reports and hosting analysis"
+          },
+          {
+            "name": "Online Nikto scanner",
+            "url": "https://nikto.online/",
+            "description": "Identifying Potential Vulnerabilities and Misconfigurations (Active & OSINT)"
+          },
+          {
+            "name": "SpyOnWeb",
+            "url": "https://spyonweb.net/",
+            "description": "Shared analytics and advertising IDs"
+          },
+          {
+            "name": "VisualSiteMapper",
+            "url": "http://www.visualsitemapper.com",
+            "description": "Website relation mapping"
+          }
+        ]
+      },
+      {
+        "title": "IP Tools",
+        "resources": [
+          {
+            "name": "IPVoid",
+            "url": "https://www.ipvoid.com/",
+            "description": "IP lookup and blacklist checks"
+          },
+          {
+            "name": "IP Location",
+            "url": "https://iplocation.net/",
+            "description": "Approximate IP geolocation"
+          },
+          {
+            "name": "Maxmind",
+            "url": "https://maxmind.com/",
+            "description": "Geo IP tool"
+          },
+          {
+            "name": "CentralOps",
+            "url": "https://centralops.net",
+            "description": "Network lookup toolkit"
+          },
+          {
+            "name": "Network-Tools",
+            "url": "https://network-tools.com",
+            "description": "Classic network OSINT (legacy)"
+          },
+          {
+            "name": "Online Port scanner",
+            "url": "https://portscanner.online",
+            "description": "Check Open Ports (Active Scanning & OSINT) for Target Host"
+          },
+          {
+            "name": "I Know What You Download",
+            "url": "https://iknowwhatyoudownload.com/en/peer/",
+            "description": "Torrent history by IP"
+          }
+        ]
+      },
+      {
+        "title": "Domain Age and History",
+        "resources": [
+          {
+            "name": "CarbonDate",
+            "url": "https://carbondate.cs.odu.edu/",
+            "description": "Estimate when a domain was created"
+          },
+          {
+            "name": "Whois EasyCounter",
+            "url": "https://whois.easycounter.com/",
+            "description": "Historical Whois and ownership details"
+          },
+          {
+            "name": "WhyNoHTTPS",
+            "url": "https://whynohttps.com/",
+            "description": "Database of sites without HTTPS"
+          },
+          {
+            "name": "URL Dater",
+            "url": "https://github.com/nixintel/urldater",
+            "description": "Nifty tool to check age of website"
+          }
+        ]
+      },
+      {
+        "title": "Website Relationship & Similarity",
+        "resources": [
+          {
+            "name": "SimilarSites",
+            "url": "https://www.similarsites.com/",
+            "description": "Find websites similar to a given domain"
+          },
+          {
+            "name": "SitesLike",
+            "url": "https://www.siteslike.com/",
+            "description": "Discover alternative sites and competitors"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "intel-feeds",
+    "title": "📡 Intelligence Feeds",
+    "sections": [
+      {
+        "title": "Community Threat Feeds",
+        "resources": [
+          {
+            "name": "ThreatFox",
+            "url": "https://threatfox.abuse.ch/",
+            "description": "Community-driven IOC feed"
+          },
+          {
+            "name": "URLhaus",
+            "url": "https://urlhaus.abuse.ch/",
+            "description": "Malicious URL tracker"
+          },
+          {
+            "name": "Feodo Tracker",
+            "url": "https://feodotracker.abuse.ch/",
+            "description": "Banking trojan command and control trackers"
+          },
+          {
+            "name": "MalwareBazaar",
+            "url": "https://bazaar.abuse.ch/",
+            "description": "Malware sample and hash sharing platform"
+          },
+          {
+            "name": "AlienVault OTX",
+            "url": "https://otx.alienvault.com/",
+            "description": "Open threat exchange community"
+          }
+        ]
+      },
+      {
+        "title": "Commercial and Specialized Feeds",
+        "resources": [
+          {
+            "name": "Spamhaus",
+            "url": "https://www.spamhaus.org/",
+            "description": "Blocklists for IPs, domains, and spam sources"
+          },
+          {
+            "name": "AbuseIPDB",
+            "url": "https://www.abuseipdb.com/",
+            "description": "Community-reported IP abuse database"
+          },
+          {
+            "name": "CIRCL OSINT Feeds",
+            "url": "https://www.circl.lu/services/osint/",
+            "description": "Public OSINT-based threat feeds from Luxembourg"
+          },
+          {
+            "name": "Abuse.ch SSLBL",
+            "url": "https://sslbl.abuse.ch/",
+            "description": "SSL certificate blocklist for malicious infrastructure"
+          },
+          {
+            "name": "PhishTank",
+            "url": "https://phishtank.org/",
+            "description": "Community phishing URL repository (overlaps phishing but also feed source)"
+          },
+          {
+            "name": "OpenPhish",
+            "url": "https://openphish.com/",
+            "description": "Automated phishing intelligence feed"
+          }
+        ]
+      },
+      {
+        "title": "Attack Surface and Internet Scanning",
+        "resources": [
+          {
+            "name": "GreyNoise",
+            "url": "https://www.greynoise.io/",
+            "description": "Contextual intelligence for internet scanners"
+          },
+          {
+            "name": "Shodan Alerts",
+            "url": "https://www.shodan.io/alerts",
+            "description": "Monitor exposure of internet-connected assets"
+          },
+          {
+            "name": "Censys Search and Data",
+            "url": "https://censys.io/",
+            "description": "Enriched dataset of hosts and certificates"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "learning",
+    "title": "📚 Learning Resources",
+    "sections": [
+      {
+        "title": "Guides and Books",
+        "resources": [
+          {
+            "name": "Open Source Intelligence Techniques (Michael Bazzell)",
+            "url": "https://inteltechniques.com/",
+            "description": "Comprehensive OSINT book and toolkit"
+          },
+          {
+            "name": "Bellingcat OSINT Guides",
+            "url": "https://www.bellingcat.com/resources/",
+            "description": "Investigative journalism and OSINT techniques"
+          },
+          {
+            "name": "OSINT Techniques (Sector035’s Curated Lists)",
+            "url": "https://sector035.nl/",
+            "description": "Weekly curated OSINT links and guides"
+          },
+          {
+            "name": "Handbook of Collective Intelligence",
+            "url": "https://collective-intelligence.github.io/",
+            "description": "Research and methodology (academic)"
+          }
+        ]
+      },
+      {
+        "title": "Training and Communities",
+        "resources": [
+          {
+            "name": "DataExpert",
+            "url": "https://dataexpert.eu",
+            "description": "Great European based academy on OSINT, Cybercrime and Cryptocurrency investigations"
+          },
+          {
+            "name": "OSINT Dojo",
+            "url": "https://www.osintdojo.com/",
+            "description": "Free structured learning path for OSINT"
+          },
+          {
+            "name": "OSINT Curious",
+            "url": "https://www.osintcurio.us/",
+            "description": "Blog, podcast, and tutorials (archived but valuable)"
+          },
+          {
+            "name": "Trace Labs OSINT VM & CTFs",
+            "url": "https://www.tracelabs.org/",
+            "description": "Virtual machines and OSINT competitions"
+          },
+          {
+            "name": "Quiztime",
+            "url": "https://twitter.com/quiztime",
+            "description": "Daily OSINT challenges on Twitter/X"
+          },
+          {
+            "name": "I-Intelligence",
+            "url": "https://i-intelligence.eu/",
+            "description": "Great European Based Academy on OSINT, Analysis and more"
+          },
+          {
+            "name": "Bellingcat Workshops",
+            "url": "https://www.bellingcat.com/workshops/",
+            "description": "Paid training on open source investigations"
+          },
+          {
+            "name": "Kase Scenarios",
+            "url": "https://kasescenarios.com/",
+            "description": "Immersive free and paid OSINT scenarios to learn and train skills"
+          }
+        ]
+      },
+      {
+        "title": "Blogs",
+        "resources": [
+          {
+            "name": "SecJuice",
+            "url": "https://www.secjuice.com/",
+            "description": "Articles on OSINT, infosec, and cyber investigations"
+          },
+          {
+            "name": "NoHat",
+            "url": "https://www.nohat.cc/",
+            "description": "OSINT and cybersecurity research blog"
+          },
+          {
+            "name": "SANS OSINT Blog",
+            "url": "https://www.sans.org/blog/osint/",
+            "description": "Professional OSINT articles"
+          }
+        ]
+      },
+      {
+        "title": "Other Resources",
+        "resources": [
+          {
+            "name": "OSINTrack",
+            "url": "https://osintrack.com/",
+            "description": "Another resource directory, but with fancy graphics!"
+          },
+          {
+            "name": "Awesome Cyber Security (okhosting)",
+            "url": "https://github.com/okhosting/awesome-cyber-security",
+            "description": "A curated collection of cybersecurity resources, tools, and libraries"
+          },
+          {
+            "name": "Awesome Microservices",
+            "url": "https://github.com/mfornos/awesome-microservices",
+            "description": "A curated list of microservice architecture resources"
+          },
+          {
+            "name": "Free Certifications",
+            "url": "https://github.com/ArslanYM/Free-certifications",
+            "description": "A curated list of free courses and certifications"
+          }
+        ]
+      },
+      {
+        "title": "Podcasts CTI",
+        "resources": [
+          {
+            "name": "CyberWire Daily",
+            "url": "https://thecyberwire.com/podcasts/daily-podcast",
+            "description": "Cybersecurity news and OSINT-adjacent podcast"
+          },
+          {
+            "name": "Microsoft Threat Intelligence Podcast",
+            "url": "https://thecyberwire.com/podcasts/microsoft-threat-intelligence",
+            "description": "Podcast by Microsoft about threat intelligence, APTs, malware, and actor tradecraft"
+          },
+          {
+            "name": "Adversary Universe",
+            "url": "https://www.crowdstrike.com/en-us/resources/adversary-universe-podcast/",
+            "description": "Podcast by CrowdStrike exploring global threat actors and intrusion operations"
+          },
+          {
+            "name": "Intel 471 Podcasts",
+            "url": "https://www.intel471.com/resources/podcasts",
+            "description": "Podcast by Intel 471 covering threat actor profiling, cybercrime intelligence, and dark web insights"
+          },
+          {
+            "name": "Talking Threat Intelligence",
+            "url": "https://podcasts.apple.com/us/podcast/talking-threat-intelligence/id1596117790",
+            "description": "Podcast by Recorded Future about building and using cyber threat intelligence programs"
+          },
+          {
+            "name": "CTG’s Threat Intelligence Podcast",
+            "url": "https://podcasts.apple.com/us/podcast/ctgs-threat-intelligence-podcast/id1560877905",
+            "description": "Podcast by The Counterterrorism Group discussing CTI, terrorism, and global risks"
+          },
+          {
+            "name": "Cyber Threat Intelligence Podcast",
+            "url": "https://podcasts.apple.com/us/podcast/cyber-threat-intelligence-podcast/id1799885212",
+            "description": "Independent podcast discussing modern CTI frameworks, detection, and mitigation"
+          },
+          {
+            "name": "Darknet Diaries",
+            "url": "https://darknetdiaries.com/",
+            "description": "Podcast by Jack Rhysider featuring true stories from the dark side of the internet and cyber operations"
+          },
+          {
+            "name": "Beers with Talos",
+            "url": "https://talosintelligence.com/podcasts",
+            "description": "Podcast by Cisco Talos discussing incident response, threat research, and security trends"
+          }
+        ]
+      },
+      {
+        "title": "Podcasts OSINT",
+        "resources": [
+          {
+            "name": "From The Source",
+            "url": "https://blackdotsolutions.com/podcast",
+            "description": "OSINT podcast interviewing professionals by BlackDot Solutions"
+          },
+          {
+            "name": "The Pivot",
+            "url": "https://www.maltego.com/categories/the-pivot-podcast/",
+            "description": "OSINT podcast interviewing professionals by Maltego"
+          },
+          {
+            "name": "NeedleStack",
+            "url": "https://www.authentic8.com/needlestack",
+            "description": "Podcast by Authentic8 about OSINT techniques, online investigations, and research tools"
+          },
+          {
+            "name": "Open Secret",
+            "url": "https://www.osintcombine.com/podcast",
+            "description": "Podcast by OSINT Combine covering open source investigations, intelligence ethics, and analysis workflows"
+          },
+          {
+            "name": "The OSINTion Podcast",
+            "url": "https://open.spotify.com/show/4AoEyXRpfQ3hzzcw8idd2p",
+            "description": "Podcast by The OSINTion focusing on OSINT tradecraft, investigations, and analyst development"
+          },
+          {
+            "name": "OSINT with ShadowDragon",
+            "url": "https://podcast.shadowdragon.io/",
+            "description": "Podcast by ShadowDragon about OSINT tooling, digital footprints, and real-world investigations"
+          },
+          {
+            "name": "The World of Intelligence",
+            "url": "https://open.spotify.com/show/00YnC7VESPyjXWUDafDnvP",
+            "description": "Podcast by Janes about open-source intelligence, defense analysis, and global security trends"
+          },
+          {
+            "name": "Cloak & Dagger",
+            "url": "https://podcasts.apple.com/be/podcast/cloak-and-dagger-an-osint-podcast/id1685681095",
+            "description": "Independent OSINT podcast analyzing conflicts, disinformation, and investigative methods"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "malware-cti",
+    "title": "🦠 Malware Analysis & CTI",
+    "sections": [
+      {
+        "title": "Malware Analysis Platforms",
+        "resources": [
+          {
+            "name": "VirusTotal",
+            "url": "https://www.virustotal.com/",
+            "description": "Multi-engine malware scanner with IOC and sandbox integrations"
+          },
+          {
+            "name": "Hybrid Analysis",
+            "url": "https://www.hybrid-analysis.com/",
+            "description": "Dynamic malware analysis platform showing behavior and network calls"
+          },
+          {
+            "name": "ANY.RUN",
+            "url": "https://any.run/",
+            "description": "Interactive sandbox for live malware execution and observation"
+          },
+          {
+            "name": "Cuckoo Sandbox",
+            "url": "https://cuckoosandbox.org/",
+            "description": "Open-source automated malware analysis system"
+          },
+          {
+            "name": "Intezer Analyze",
+            "url": "https://analyze.intezer.com/",
+            "description": "Code-reuse and malware lineage analysis"
+          },
+          {
+            "name": "Joe Sandbox",
+            "url": "https://www.joesecurity.org/",
+            "description": "Advanced commercial sandbox environment"
+          },
+          {
+            "name": "MalwareBazaar",
+            "url": "https://bazaar.abuse.ch/",
+            "description": "Repository of malware samples and hashes"
+          }
+        ]
+      },
+      {
+        "title": "Malware Analysis Tools",
+        "resources": [
+          {
+            "name": "Remnux",
+            "url": "https://remnux.org/",
+            "description": "Linux distribution for reverse engineering and malware analysis"
+          },
+          {
+            "name": "YARA",
+            "url": "https://virustotal.github.io/yara/",
+            "description": "Pattern-matching engine for malware detection and classification"
+          },
+          {
+            "name": "PEStudio",
+            "url": "https://www.winitor.com/",
+            "description": "Windows executable analyzer for metadata and indicators"
+          },
+          {
+            "name": "Capa",
+            "url": "https://github.com/mandiant/capa",
+            "description": "Detects capabilities and functionality in executable files"
+          },
+          {
+            "name": "Die (Detect It Easy)",
+            "url": "https://github.com/horsicq/DIE-engine",
+            "description": "PE analysis tool for structure, entropy, and packers"
+          }
+        ]
+      },
+      {
+        "title": "Reverse Engineering & Disassembly",
+        "resources": [
+          {
+            "name": "Ghidra",
+            "url": "https://ghidra-sre.org/",
+            "description": "Open-source reverse engineering suite developed by the NSA"
+          },
+          {
+            "name": "IDA Free",
+            "url": "https://hex-rays.com/ida-free/",
+            "description": "Disassembler and debugger with visual graph analysis"
+          },
+          {
+            "name": "Binary Ninja",
+            "url": "https://binary.ninja/",
+            "description": "Modern and scriptable reverse engineering platform"
+          },
+          {
+            "name": "x64dbg",
+            "url": "https://x64dbg.com/",
+            "description": "Open-source Windows debugger for malware analysis"
+          }
+        ]
+      },
+      {
+        "title": "Network & Behavior Analysis",
+        "resources": [
+          {
+            "name": "Wireshark",
+            "url": "https://www.wireshark.org/",
+            "description": "Network packet capture and protocol analyzer"
+          },
+          {
+            "name": "Procmon",
+            "url": "https://learn.microsoft.com/en-us/sysinternals/downloads/procmon",
+            "description": "Real-time monitoring of file, registry, and process activity"
+          },
+          {
+            "name": "ApateDNS",
+            "url": "https://www.fireeye.com/services/freeware/apatedns.html",
+            "description": "DNS redirection tool for malware network simulation"
+          },
+          {
+            "name": "FakeNet-NG",
+            "url": "https://github.com/mandiant/flare-fakenet-ng",
+            "description": "Network emulation tool for capturing malware traffic"
+          }
+        ]
+      },
+      {
+        "title": "Malware Feeds & Repositories",
+        "resources": [
+          {
+            "name": "Malpedia",
+            "url": "https://malpedia.caad.fkie.fraunhofer.de/",
+            "description": "Structured database of malware families and samples"
+          },
+          {
+            "name": "VX Underground",
+            "url": "https://vx-underground.org/",
+            "description": "Archive of malware source code and research papers"
+          },
+          {
+            "name": "URLhaus",
+            "url": "https://urlhaus.abuse.ch/",
+            "description": "Database of malicious URLs submitted by the community"
+          },
+          {
+            "name": "Feodo Tracker",
+            "url": "https://feodotracker.abuse.ch/",
+            "description": "C2 tracking for banking trojans and botnets"
+          },
+          {
+            "name": "MalShare",
+            "url": "https://malshare.com/",
+            "description": "Public malware repository with daily sample updates"
+          }
+        ]
+      },
+      {
+        "title": "Threat Intelligence Platforms",
+        "resources": [
+          {
+            "name": "MISP",
+            "url": "https://www.misp-project.org/",
+            "description": "Open-source platform for sharing threat intelligence and IOCs"
+          },
+          {
+            "name": "OpenCTI",
+            "url": "https://www.opencti.io/en/",
+            "description": "Knowledge graph for cyber threat intelligence management"
+          },
+          {
+            "name": "YETI",
+            "url": "https://yeti-platform.github.io/",
+            "description": "Framework for storing and correlating threat data"
+          },
+          {
+            "name": "ThreatConnect",
+            "url": "https://threatconnect.com/",
+            "description": "Commercial CTI platform with automation and analytics"
+          },
+          {
+            "name": "EclecticIQ Platform",
+            "url": "https://www.eclecticiq.com/platform",
+            "description": "Enterprise-grade CTI management and analysis platform"
+          },
+          {
+            "name": "AboutIntel",
+            "url": "https://www.aboutintel.com/",
+            "description": "Freemium TI and AS monitor to deliver relevant, actionable security insights. Without the noise."
+          }
+        ]
+      },
+      {
+        "title": "IOC Enrichment & Internet Scanners",
+        "resources": [
+          {
+            "name": "SilentPush",
+            "url": "https://silentpush.com",
+            "description": "Track, monitor and counteract global threat activity."
+          },
+          {
+            "name": "Validin",
+            "url": "https://validin.com",
+            "description": "Explore and track threats across key attributes for public infrastructure tracking"
+          },
+          {
+            "name": "ThreatMiner",
+            "url": "https://www.threatminer.org/",
+            "description": "Data mining for IOCs, malware, SSL, and related artifacts"
+          },
+          {
+            "name": "Abuse.ch",
+            "url": "https://abuse.ch/",
+            "description": "Home to ThreatFox, Feodo Tracker, URLhaus, and SSLBL projects"
+          },
+          {
+            "name": "GreyNoise",
+            "url": "https://www.greynoise.io/",
+            "description": "Contextual intelligence on internet-scanning IPs"
+          },
+          {
+            "name": "AlienVault OTX",
+            "url": "https://otx.alienvault.com/",
+            "description": "Community threat intelligence sharing platform"
+          },
+          {
+            "name": "Maltiverse",
+            "url": "https://maltiverse.com/",
+            "description": "IOC enrichment with threat classification and context"
+          },
+          {
+            "name": "Shodan",
+            "url": "https://www.shodan.io/",
+            "description": "Internet-wide search engine for exposed systems"
+          },
+          {
+            "name": "Censys",
+            "url": "https://censys.io/",
+            "description": "Search engine for internet infrastructure and certificates"
+          },
+          {
+            "name": "BinaryEdge",
+            "url": "https://www.binaryedge.io/",
+            "description": "Real-time internet scanning and asset discovery for threat analysis"
+          },
+          {
+            "name": "CriminalIP",
+            "url": "https://www.criminalip.io/",
+            "description": "Attack surface and exposure analysis platform"
+          },
+          {
+            "name": "FOFA",
+            "url": "https://fofa.so/",
+            "description": "Cyber asset search engine widely used in China for exposure research"
+          },
+          {
+            "name": "Censys Workshop",
+            "url": "https://workshop.censys.io/",
+            "description": "Research environment showcasing Censys experimental tools"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maritime",
+    "title": "🚢 Maritime OSINT",
+    "sections": [
+      {
+        "title": "Vessel Ownership & ID Records",
+        "resources": [
+          {
+            "name": "Equasis",
+            "url": "http://www.equasis.org/EquasisWeb/public/HomePage",
+            "description": "Vessel ownership and identification records"
+          },
+          {
+            "name": "Maritime Database",
+            "url": "https://www.maritime-database.com",
+            "description": "Ship database and ownership info"
+          }
+        ]
+      },
+      {
+        "title": "Global Ship Tracking & AIS",
+        "resources": [
+          {
+            "name": "MarineTraffic",
+            "url": "https://www.marinetraffic.com",
+            "description": "Global ship tracking intelligence (AIS)"
+          },
+          {
+            "name": "VesselFinder",
+            "url": "https://www.vesselfinder.com",
+            "description": "Ship positions and real-time AIS data"
+          },
+          {
+            "name": "VesselTracker",
+            "url": "https://www.vesseltracker.com",
+            "description": "Vessel and port tracking service"
+          },
+          {
+            "name": "MyShipTracking",
+            "url": "https://www.myshiptracking.com",
+            "description": "Live AIS vessel tracker"
+          },
+          {
+            "name": "ShipAIS",
+            "url": "http://www.shipais.com",
+            "description": "AIS ship tracking"
+          },
+          {
+            "name": "ShipFinder",
+            "url": "http://www.shipfinder.com",
+            "description": "Vessel tracking"
+          },
+          {
+            "name": "ShipFinder.co",
+            "url": "http://shipfinder.co",
+            "description": "Alternative ship tracking site"
+          },
+          {
+            "name": "Shipping Explorer",
+            "url": "http://www.shippingexplorer.net",
+            "description": "Vessel positions and port data"
+          },
+          {
+            "name": "ShipSpotting",
+            "url": "http://www.shipspotting.com",
+            "description": "Vessel photography and community"
+          },
+          {
+            "name": "CruiseMapper",
+            "url": "http://www.cruisemapper.com",
+            "description": "Cruise ship tracker and itineraries"
+          },
+          {
+            "name": "Cruisin.me Tracker",
+            "url": "http://www.cruisin.me/cruise-ship-tracker",
+            "description": "Cruise ship tracking tool"
+          }
+        ]
+      },
+      {
+        "title": "Specialized AIS & Regional Tools",
+        "resources": [
+          {
+            "name": "BoatNerd AIS",
+            "url": "http://ais.boatnerd.com",
+            "description": "AIS tracking (Great Lakes focus)"
+          },
+          {
+            "name": "AIS SK2HG",
+            "url": "http://ais.sk2hg.se",
+            "description": "AIS tracking site"
+          },
+          {
+            "name": "Digimap Guernsey AIS",
+            "url": "http://www.digimap.gg/marine/ais",
+            "description": "AIS Explorer for Guernsey waters"
+          },
+          {
+            "name": "HELCOM AIS Explorer",
+            "url": "http://maps.helcom.fi/website/AISexplorer",
+            "description": "Baltic Sea shipping traffic"
+          },
+          {
+            "name": "Marine Scotland AIS",
+            "url": "http://marine.gov.scot/information/ais-shipping-trafficselected-ports",
+            "description": "Scottish shipping AIS data"
+          },
+          {
+            "name": "AIS Tracker Russia",
+            "url": "http://en.aistracker.ru/map7.asp",
+            "description": "AIS tracker (Russia)"
+          },
+          {
+            "name": "Gloucester Harbour Trustees",
+            "url": "http://gloucesterharbourtrustees.org.uk/ship-positionsmarine-traffic",
+            "description": "Local ship positions"
+          }
+        ]
+      },
+      {
+        "title": "Cargo & Container Tracking",
+        "resources": [
+          {
+            "name": "CargoTracking Utopiax",
+            "url": "http://cargotracking.utopiax.org/containertracking.html",
+            "description": "Container tracking portal"
+          },
+          {
+            "name": "Container-Tracking.org",
+            "url": "http://container-tracking.org",
+            "description": "Container tracking across carriers"
+          },
+          {
+            "name": "ShipmentLink",
+            "url": "https://www.shipmentlink.com/servlet/TDB1_CargoTracking.do",
+            "description": "Carrier-specific cargo tracking"
+          },
+          {
+            "name": "ShipIt UK",
+            "url": "https://www.shipit.co.uk/container-tracking.htm",
+            "description": "Container tracking service"
+          }
+        ]
+      },
+      {
+        "title": "Fishing & Monitoring",
+        "resources": [
+          {
+            "name": "Global Fishing Watch",
+            "url": "https://globalfishingwatch.org/map",
+            "description": "Fishing vessel tracking and monitoring"
+          }
+        ]
+      },
+      {
+        "title": "Naval & Defense",
+        "resources": [
+          {
+            "name": "Naval Technology",
+            "url": "https://www.naval-technology.com",
+            "description": "Naval industry news and projects"
+          },
+          {
+            "name": "Janes",
+            "url": "https://www.janes.com",
+            "description": "Defence and security intelligence"
+          }
+        ]
+      },
+      {
+        "title": "Ports & Marine Info",
+        "resources": [
+          {
+            "name": "Ports.com",
+            "url": "http://ports.com",
+            "description": "Port information and distance calculator"
+          },
+          {
+            "name": "InfoMarine24",
+            "url": "http://www.infomarine24.com",
+            "description": "Shipping and marine news"
+          }
+        ]
+      },
+      {
+        "title": "Yachts & Luxury Vessels",
+        "resources": [
+          {
+            "name": "SuperYachts.com",
+            "url": "https://www.superyachts.com",
+            "description": "Superyacht news and database"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "news-media",
+    "title": "📰 News & Media Monitoring",
+    "sections": [
+      {
+        "title": "News Aggregators",
+        "resources": [
+          {
+            "name": "Google News",
+            "url": "https://news.google.com/",
+            "description": "Aggregated news across global sources"
+          },
+          {
+            "name": "Yahoo News",
+            "url": "https://news.yahoo.com/",
+            "description": "Mainstream news aggregation and coverage"
+          },
+          {
+            "name": "Euronews",
+            "url": "https://www.euronews.com/",
+            "description": "European and international news service"
+          },
+          {
+            "name": "AllSides",
+            "url": "https://www.allsides.com/unbiased-balanced-news",
+            "description": "News aggregation with political bias rating"
+          },
+          {
+            "name": "NewsNow",
+            "url": "https://www.newsnow.co.uk/",
+            "description": "Breaking news aggregation by region and topic"
+          }
+        ]
+      },
+      {
+        "title": "Media Search Engines",
+        "resources": [
+          {
+            "name": "GDELT Project",
+            "url": "https://www.gdeltproject.org/",
+            "description": "Global database of events, language, and tone in news media"
+          },
+          {
+            "name": "Media Cloud",
+            "url": "https://mediacloud.org/",
+            "description": "Research tool for analyzing online news"
+          },
+          {
+            "name": "Event Registry",
+            "url": "https://eventregistry.org/",
+            "description": "AI-driven news aggregation and analysis"
+          },
+          {
+            "name": "Bloomberg",
+            "url": "https://www.bloomberg.com/",
+            "description": "Business and global news (commercial)"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/",
+            "description": "International newswire service"
+          }
+        ]
+      },
+      {
+        "title": "Adverse and Risk-focused Media",
+        "resources": [
+          {
+            "name": "Adverse Media Search",
+            "url": "https://www.no-nonsense-intel.com/adverse-media-search-tool",
+            "description": "Search for adverse media reports on entities"
+          },
+          {
+            "name": "Dow Jones Risk & Compliance",
+            "url": "https://professional.dowjones.com/risk-compliance/",
+            "description": "Adverse media and watchlists (commercial)"
+          },
+          {
+            "name": "LexisNexis Newsdesk",
+            "url": "https://www.lexisnexis.com/en-us/professional/solutions/newsdesk.page",
+            "description": "Professional news and risk intelligence platform"
+          }
+        ]
+      },
+      {
+        "title": "Broadcast and Live Monitoring",
+        "resources": [
+          {
+            "name": "LiveNewsNow",
+            "url": "https://www.livenewsnow.com/",
+            "description": "Live streaming of news channels"
+          },
+          {
+            "name": "EarthCam",
+            "url": "https://www.earthcam.com/",
+            "description": "Live webcams from around the world"
+          },
+          {
+            "name": "NewsLookUp",
+            "url": "https://newslookup.com/",
+            "description": "News search engine with live feeds and archive"
+          }
+        ]
+      },
+      {
+        "title": "Social Media & Trend Tracking",
+        "resources": [
+          {
+            "name": "BuzzSumo",
+            "url": "https://buzzsumo.com/",
+            "description": "Content monitoring and social trend analysis (freemium)"
+          },
+          {
+            "name": "Talkwalker Alerts",
+            "url": "https://www.talkwalker.com/alerts",
+            "description": "Google Alerts alternative for media and web mentions"
+          },
+          {
+            "name": "Mention",
+            "url": "https://mention.com/en/",
+            "description": "Monitor mentions across news and social media (freemium)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "osint-for-good",
+    "title": "🧑‍🤝‍🧑 OSINT for Good (NGOs & Initiatives)",
+    "sections": [
+      {
+        "title": "Child Protection and Exploitation Prevention",
+        "resources": [
+          {
+            "name": "NCMEC",
+            "url": "https://www.missingkids.org/home",
+            "description": "US National Center for Missing and Exploited Children"
+          },
+          {
+            "name": "Europol Trace an Object",
+            "url": "https://www.europol.europa.eu/stopchildabuse",
+            "description": "Crowdsource identification of child abuse materials"
+          },
+          {
+            "name": "NCPTF",
+            "url": "https://ncptf.org/",
+            "description": "National Child Protection Task Force"
+          },
+          {
+            "name": "FBI ECAP",
+            "url": "https://www.fbi.gov/wanted/ecap",
+            "description": "FBI Endangered Child Alert Program"
+          },
+          {
+            "name": "Trace Labs",
+            "url": "https://www.tracelabs.org/",
+            "description": "Crowdsourced OSINT for missing persons"
+          }
+        ]
+      },
+      {
+        "title": "Anti-Trafficking and Human Rights",
+        "resources": [
+          {
+            "name": "Innocent Lives Foundation",
+            "url": "https://www.innocentlivesfoundation.org/",
+            "description": "Identify perpetrators of child exploitation"
+          },
+          {
+            "name": "StopTheTraffik",
+            "url": "https://www.stopthetraffik.org/",
+            "description": "Global initiative to disrupt human trafficking"
+          },
+          {
+            "name": "ATII",
+            "url": "https://followmoneyfightslavery.org/",
+            "description": "Anti-Human Trafficking Intelligence Initiative"
+          },
+          {
+            "name": "Amnesty Citizen Evidence Lab",
+            "url": "https://citizenevidence.org/",
+            "description": "Tools and resources for human rights verification"
+          }
+        ]
+      },
+      {
+        "title": "Crisis Mapping and Volunteer Intel",
+        "resources": [
+          {
+            "name": "Humanity Road",
+            "url": "https://www.humanityroad.org/",
+            "description": "Crisis response and disaster mapping"
+          },
+          {
+            "name": "CrisisMapping Network",
+            "url": "http://crisismapping.ning.com/",
+            "description": "Community for humanitarian crisis mapping"
+          },
+          {
+            "name": "InformNapalm",
+            "url": "https://informnapalm.org/en/",
+            "description": "Volunteer intelligence about conflicts and disinformation"
+          },
+          {
+            "name": "Locate International",
+            "url": "https://locate.international/",
+            "description": "Cold case review and investigation through OSINT"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "people-social",
+    "title": "👤 People Search & Social Media",
+    "sections": [
+      {
+        "title": "BlueSky",
+        "resources": [
+          {
+            "name": "Clearsky",
+            "url": "https://Clearsky.app",
+            "description": "Search for accounts and shows top listed/blocked accounts last 24h"
+          },
+          {
+            "name": "DeckBlue",
+            "url": "https://Deck.blue",
+            "description": "Monitori BlueSky (like Tweetdeck)"
+          },
+          {
+            "name": "BlueSky Feed Creator",
+            "url": "https://blueskyfeedcreator.com/",
+            "description": "Creates your own Bluesky feed (what's in a name)"
+          },
+          {
+            "name": "Internect",
+            "url": "https://internect.info/",
+            "description": "Resolves a Bluesky handle and shows the did (ID), name history, server info and creation date"
+          },
+          {
+            "name": "BlueSky Insights",
+            "url": "https://bluesky-insights.dwagentai.com/",
+            "description": "Bluesky analytics for an account. Nothing more, nothing less."
+          },
+          {
+            "name": "BlueSky Directory",
+            "url": "https://blueskydirectory.com/",
+            "description": "Very large directory of starterpacks on who to follow on Bluesky for certain topics or communities."
+          }
+        ]
+      },
+      {
+        "title": "ClubHouse",
+        "resources": [
+          {
+            "name": "Clubhouse DB",
+            "url": "https://clubhousedb.com",
+            "description": "Clubhouse User database"
+          }
+        ]
+      },
+      {
+        "title": "Discord",
+        "resources": [
+          {
+            "name": "Disboard",
+            "url": "https://disboard.org/",
+            "description": "Server directory"
+          },
+          {
+            "name": "Discord Lookup",
+            "url": "https://discord.id/",
+            "description": "Lookup user IDs"
+          },
+          {
+            "name": "Snowsta",
+            "url": "https://snowsta.mp/",
+            "description": "Discord snowflake ID OSINT"
+          },
+          {
+            "name": "Guild.xyz",
+            "url": "https://guild.xyz/",
+            "description": "Explore Discord guilds & communities"
+          }
+        ]
+      },
+      {
+        "title": "Facebook",
+        "resources": [
+          {
+            "name": "StalkFace",
+            "url": "https://stalkface.com/en/",
+            "description": "Extract hidden profile info"
+          },
+          {
+            "name": "Lookup-ID",
+            "url": "https://lookup-id.com/",
+            "description": "Get Facebook IDs from URLs"
+          },
+          {
+            "name": "WhoPostedWhat",
+            "url": "https://whopostedwhat.com",
+            "description": "Graph tools for Facebook"
+          }
+        ]
+      },
+      {
+        "title": "GitHub",
+        "resources": [
+          {
+            "name": "React GitHub Notetaker",
+            "url": "https://githubnotes-47071.firebaseapp.com/",
+            "description": "GitHub Username Search"
+          },
+          {
+            "name": "GitHub Username Search Engine",
+            "url": "https://jonnygovish.github.io/Github-username-search-engine/",
+            "description": "Does what the name says"
+          },
+          {
+            "name": "GitHub Tending RSS",
+            "url": "https://mshibanami.github.io/GitHubTrendingRSS/",
+            "description": "RSS feed trending topics"
+          },
+          {
+            "name": "GitHub Dorking List",
+            "url": "https://github.com/techgaun/github-dorks",
+            "description": "List of useful GitHub dorks"
+          }
+        ]
+      },
+      {
+        "title": "Instagram",
+        "resources": [
+          {
+            "name": "Instaloader",
+            "url": "https://github.com/instaloader/instaloader",
+            "description": "Download posts, stories, metadata"
+          },
+          {
+            "name": "OSINTgram",
+            "url": "https://github.com/Datalux/Osintgram",
+            "description": "Command-line Instagram OSINT"
+          },
+          {
+            "name": "InstaLooter",
+            "url": "https://github.com/althonos/InstaLooter",
+            "description": "Download profile content"
+          },
+          {
+            "name": "Picuki",
+            "url": "https://www.picuki.com/",
+            "description": "Instagram web viewer/downloader"
+          },
+          {
+            "name": "InstaDP",
+            "url": "https://instastoriesviewer.com/instadp/",
+            "description": "View and download profile pictures"
+          },
+          {
+            "name": "ImgInn",
+            "url": "https://imginn.com/",
+            "description": "Story and photo viewer"
+          }
+        ]
+      },
+      {
+        "title": "LinkedIn",
+        "resources": [
+          {
+            "name": "RocketReach",
+            "url": "https://rocketreach.co/",
+            "description": "Email/profile enrichment (freemium)"
+          },
+          {
+            "name": "SignalHire",
+            "url": "https://www.signalhire.com/",
+            "description": "LinkedIn email extraction (freemium)"
+          },
+          {
+            "name": "Hunter.io",
+            "url": "https://hunter.io/",
+            "description": "Corporate email discovery"
+          },
+          {
+            "name": "PhantomBuster",
+            "url": "https://phantombuster.com/",
+            "description": "Automate LinkedIn scraping (freemium)"
+          },
+          {
+            "name": "SalesQL",
+            "url": "https://salesql.com/",
+            "description": "LinkedIn lead & contact extraction"
+          },
+          {
+            "name": "LinkdTime",
+            "url": "https://github.com/Lucksi/LinkdTime",
+            "description": "LinkedIn Timeline Generator"
+          }
+        ]
+      },
+      {
+        "title": "Reddit",
+        "resources": [
+          {
+            "name": "Reddit Insight",
+            "url": "https://reddit-insight.com/",
+            "description": "Analyze profiles & posting activity"
+          },
+          {
+            "name": "ReSavr",
+            "url": "https://www.resavr.com/",
+            "description": "Recover deleted comments"
+          },
+          {
+            "name": "Redective",
+            "url": "https://redective.com/",
+            "description": "The Reddit Search Detective"
+          },
+          {
+            "name": "SnooSnoop",
+            "url": "https://snoosnoop.com/",
+            "description": "Analyze Reddit user"
+          }
+        ]
+      },
+      {
+        "title": "Snapchat",
+        "resources": [
+          {
+            "name": "SnapChat Political Ads Database",
+            "url": "https://www.snap.com/political-ads",
+            "description": "Political Ads Database starting from 2018"
+          },
+          {
+            "name": "SnapChat Explore",
+            "url": "https://www.snapchat.com/discover",
+            "description": "Use search bar to search for usernames, tags f.e."
+          },
+          {
+            "name": "Snaplytics",
+            "url": "https://snaplytics.io/",
+            "description": "Several tools to download profile pictures, stories and videos"
+          }
+        ]
+      },
+      {
+        "title": "Telegram",
+        "resources": [
+          {
+            "name": "Telegago",
+            "url": "https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg",
+            "description": "Group/channel OSINT"
+          },
+          {
+            "name": "TgScan",
+            "url": "https://tgscan.xyz/",
+            "description": "Search public groups/channels"
+          },
+          {
+            "name": "TGDB",
+            "url": "https://www.tgdb.org/page/index",
+            "description": "Searchable Telegram database service"
+          },
+          {
+            "name": "Telemetr.io",
+            "url": "https://telemetr.io/en",
+            "description": "Telegram analytics suite"
+          },
+          {
+            "name": "IntelX - Telegram",
+            "url": "https://intelx.io/tools?tab=telegram",
+            "description": "IntelX Telegram Search"
+          },
+          {
+            "name": "Telepathy",
+            "url": "https://github.com/prose-intelligence-ltd/Telepathy-Community",
+            "description": "Extract account info via API"
+          },
+          {
+            "name": "Combot",
+            "url": "https://combot.org/top/telegram/groups",
+            "description": "Top Telegram groups/channels"
+          },
+          {
+            "name": "Telegram Channels",
+            "url": "https://tlgrm.eu/channels",
+            "description": "Search Telegram Channels"
+          },
+          {
+            "name": "Telemetry",
+            "url": "https://www.telemetryapp.io/",
+            "description": "Telegram analytics tool"
+          },
+          {
+            "name": "Tgstat",
+            "url": "https://tgstat.com/",
+            "description": "Russian-based Telegram analytics tool"
+          }
+        ]
+      },
+      {
+        "title": "TikTok",
+        "resources": [
+          {
+            "name": "TikTok-Scraper",
+            "url": "https://github.com/drawrowfly/tiktok-scraper",
+            "description": "Download videos, scrape metadata"
+          },
+          {
+            "name": "Urlebird",
+            "url": "https://urlebird.com/",
+            "description": "View TikTok profiles without login"
+          },
+          {
+            "name": "Exolyt",
+            "url": "https://exolyt.com/",
+            "description": "TikTok analytics & monitoring (freemium)"
+          }
+        ]
+      },
+      {
+        "title": "VKontakte (VK)",
+        "resources": [
+          {
+            "name": "VK Watch",
+            "url": "https://vk.watch/ru",
+            "description": "Search for profiles, posts, videos, and groups"
+          },
+          {
+            "name": "Bellingcat VK Scraper",
+            "url": "https://github.com/bellingcat/vk-url-scraper",
+            "description": "Python tool to scrape VK URLs"
+          },
+          {
+            "name": "VK ID Lookup",
+            "url": "https://regvk.com/id/",
+            "description": "Find a VK profile by numeric ID or slug"
+          },
+          {
+            "name": "vk_api (Python)",
+            "url": "https://github.com/python273/vk_api",
+            "description": "Unofficial Python library for VK API access"
+          },
+          {
+            "name": "Wayback Machine",
+            "url": "https://web.archive.org/web/*/vk.com/*",
+            "description": "View archived/removed VK content"
+          },
+          {
+            "name": "Search4Faces",
+            "url": "https://search4faces.com",
+            "description": "Reverse face search across VKontakte"
+          },
+          {
+            "name": "VK History Robot",
+            "url": "https://t.me/VKHistoryRobot",
+            "description": "Telegram bot to view VK profile history changes"
+          },
+          {
+            "name": "FindNameVk Bot",
+            "url": "https://t.me/FindNameVk_bot",
+            "description": "Telegram bot to search for VK profiles by name"
+          },
+          {
+            "name": "Дезертир",
+            "url": "https://t.me/deserteer",
+            "description": "Telegram tool for VK-related OSINT (Russian)"
+          },
+          {
+            "name": "Barkov.net",
+            "url": "https://barkov.net/",
+            "description": "VK user and community search engine"
+          },
+          {
+            "name": "VK Community Search",
+            "url": "https://vk.com/communities",
+            "description": "Discover VK groups and communities"
+          },
+          {
+            "name": "VK People Search",
+            "url": "https://vk.com/search/people",
+            "description": "Find VK users by various filters"
+          }
+        ]
+      },
+      {
+        "title": "YouTube",
+        "resources": [
+          {
+            "name": "YTCommentSearch",
+            "url": "https://polsy.org.uk/stuff/ytrestrict.cgi",
+            "description": "Search video comments"
+          },
+          {
+            "name": "Noxinfluencer",
+            "url": "https://www.noxinfluencer.com/",
+            "description": "YouTube channel analytics"
+          },
+          {
+            "name": "Channel Crawler",
+            "url": "https://channelcrawler.com/",
+            "description": "Find channels by keyword/topic"
+          },
+          {
+            "name": "Social Blade",
+            "url": "https://socialblade.com/",
+            "description": "Stats on YouTube/Twitch/Twitter accounts"
+          },
+          {
+            "name": "YouTube Metadata",
+            "url": "https://mattw.io/youtube-metadata/",
+            "description": "Grabs details about a video/uploader/playlist/creator/channel"
+          },
+          {
+            "name": "YoutTube Geolocation",
+            "url": "https://mattw.io/youtube-geofind/location",
+            "description": "Find videos based on geolocation"
+          },
+          {
+            "name": "YouTube Video Finder",
+            "url": "https://findyoutubevideo.thetechrobo.ca/",
+            "description": "Find (archived) YouTube videos"
+          }
+        ]
+      },
+      {
+        "title": "X (former Twitter)",
+        "resources": [
+          {
+            "name": "Twint",
+            "url": "https://github.com/twintproject/twint",
+            "description": "Scrape Twitter without API keys"
+          },
+          {
+            "name": "snscrape",
+            "url": "https://github.com/JustAnotherArchivist/snscrape",
+            "description": "Scrape tweets, profiles, hashtags"
+          },
+          {
+            "name": "Foller.me",
+            "url": "https://foller.me/",
+            "description": "Analyze Twitter account topics & activity"
+          },
+          {
+            "name": "BirdHunt",
+            "url": "https://birdhunt.huntintel.io/",
+            "description": "Historical tweet search"
+          },
+          {
+            "name": "Twitonomy",
+            "url": "https://www.twitonomy.com/",
+            "description": "Analytics on tweets, mentions, followers, lists"
+          },
+          {
+            "name": "Bot Sentinel",
+            "url": "https://botsentinel.com/",
+            "description": "Detect and analyze bot-like or inauthentic accounts"
+          },
+          {
+            "name": "Wayback Tweets",
+            "url": "https://waybacktweets.streamlit.app/",
+            "description": "Retrieve deleted or archived tweets"
+          },
+          {
+            "name": "Nitter",
+            "url": "https://nitter.net/",
+            "description": "Alternative Twitter front-end, useful for OSINT scraping"
+          }
+        ]
+      },
+      {
+        "title": "Cross-Platform",
+        "resources": [
+          {
+            "name": "Sherlock",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "description": "Username search across 350+ sites"
+          },
+          {
+            "name": "WhatsMyName",
+            "url": "https://whatsmyname.app/",
+            "description": "Fast username enumeration 500+ sites"
+          },
+          {
+            "name": "Epieos",
+            "url": "https://epieos.com",
+            "description": "Powerful searchtool for e-mail address / phonenumber to accounts"
+          },
+          {
+            "name": "Lolarchiver",
+            "url": "https://lolarchiver.com",
+            "description": "Great searchtool e-mail address / phonenumber to accounts and gamerelated usernames"
+          },
+          {
+            "name": "Maigret",
+            "url": "https://github.com/soxoj/maigret",
+            "description": "Collect profiles by username across 2000+ sites"
+          },
+          {
+            "name": "Holehe",
+            "url": "https://github.com/megadose/holehe",
+            "description": "Check if email is registered on platforms"
+          },
+          {
+            "name": "Blackbird",
+            "url": "https://github.com/p1ngul1n0/blackbird",
+            "description": "Alternative username search engine"
+          },
+          {
+            "name": "Namechk",
+            "url": "https://namechk.com/",
+            "description": "Username/domain availability"
+          },
+          {
+            "name": "Socialscan",
+            "url": "https://github.com/iojw/socialscan",
+            "description": "Check username/email across services"
+          },
+          {
+            "name": "UserSearch",
+            "url": "https://usersearch.org/",
+            "description": "Find usernames across forums, social, communities"
+          },
+          {
+            "name": "IDcrawl",
+            "url": "https://www.idcrawl.com/",
+            "description": "Meta search for people across multiple social networks"
+          },
+          {
+            "name": "PeekYou",
+            "url": "https://www.peekyou.com/",
+            "description": "Publicly available people search"
+          },
+          {
+            "name": "Pipl",
+            "url": "https://pipl.com/",
+            "description": "Commercial people search & enrichment"
+          }
+        ]
+      },
+      {
+        "title": "Other Platforms",
+        "resources": [
+          {
+            "name": "Flickr API",
+            "url": "https://www.flickr.com/services/api/",
+            "description": "Photo metadata"
+          },
+          {
+            "name": "Mastodon Instances",
+            "url": "https://instances.social/",
+            "description": "Fediverse OSINT"
+          }
+        ]
+      },
+      {
+        "title": "Social Media Monitoring & Analytics",
+        "resources": [
+          {
+            "name": "Hootsuite",
+            "url": "https://www.hootsuite.com/",
+            "description": "Social media management and monitoring platform"
+          },
+          {
+            "name": "Buffer",
+            "url": "https://buffer.com/",
+            "description": "Scheduling and monitoring of social media activity"
+          },
+          {
+            "name": "Brandwatch",
+            "url": "https://www.brandwatch.com/",
+            "description": "Social listening and analytics platform"
+          },
+          {
+            "name": "Audiense",
+            "url": "https://www.audiense.com/",
+            "description": "Audience segmentation and Twitter analytics"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "phishing-email",
+    "title": "🎣 Phishing & Email Investigation",
+    "sections": [
+      {
+        "title": "Email Breach and Reputation",
+        "resources": [
+          {
+            "name": "Have I Been Pwned",
+            "url": "https://haveibeenpwned.com/",
+            "description": "Search if an email appears in known data breaches"
+          },
+          {
+            "name": "DeHashed",
+            "url": "https://dehashed.com/",
+            "description": "Breach and credential search"
+          },
+          {
+            "name": "EmailRep.io",
+            "url": "https://emailrep.io/",
+            "description": "Email reputation and risk scoring"
+          },
+          {
+            "name": "Hunter.io",
+            "url": "https://hunter.io/",
+            "description": "Discover corporate email patterns and addresses"
+          }
+        ]
+      },
+      {
+        "title": "Email Analysis",
+        "resources": [
+          {
+            "name": "MX Toolbox",
+            "url": "https://mxtoolbox.com/EmailHeaders.aspx",
+            "description": "Email header analyzer and MX tools"
+          },
+          {
+            "name": "mailtester.com",
+            "url": "https://mailtester.com/en/",
+            "description": "Check if an email address is valid and deliverable"
+          },
+          {
+            "name": "VerifyEmail",
+            "url": "https://tools.emailhippo.com/",
+            "description": "Verify the validity of an email address"
+          }
+        ]
+      },
+      {
+        "title": "URL and Phishing Kit Analysis",
+        "resources": [
+          {
+            "name": "urlscan.io",
+            "url": "https://urlscan.io/",
+            "description": "Sandbox and visualize web requests from a URL"
+          },
+          {
+            "name": "URLquery",
+            "url": "https://urlquery.net/",
+            "description": "Analyze suspicious URLs and detect malicious behavior"
+          },
+          {
+            "name": "PhishTank",
+            "url": "https://phishtank.org/",
+            "description": "Community-driven phishing URL database"
+          },
+          {
+            "name": "OpenPhish",
+            "url": "https://openphish.com/",
+            "description": "Automated phishing feed"
+          },
+          {
+            "name": "StalkPhish",
+            "url": "https://github.com/t4d/StalkPhish",
+            "description": "Identify phishing kits and reused infrastructures"
+          }
+        ]
+      },
+      {
+        "title": "IOC and Threat Intelligence Integration",
+        "resources": [
+          {
+            "name": "Maltiverse",
+            "url": "https://maltiverse.com/search",
+            "description": "IOC enrichment and threat intelligence search"
+          },
+          {
+            "name": "ThreatMiner",
+            "url": "https://www.threatminer.org/",
+            "description": "IOC and malware sample data mining"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reporting-visualization",
+    "title": "📝 Reporting & Visualization",
+    "sections": [
+      {
+        "title": "Investigation Case Management",
+        "resources": [
+          {
+            "name": "Aleph (OCCRP)",
+            "url": "https://data.occrp.org/",
+            "description": "Investigative data and case management platform"
+          },
+          {
+            "name": "Maltego Basic",
+            "url": "https://www.maltego.com/pricing/",
+            "description": "Free spiritual successor of CaseFile, link analysis and case organization tool (freemium)"
+          },
+          {
+            "name": "Obsidian",
+            "url": "https://obsidian.md/",
+            "description": "Obsidian stores notes privately on your device, so you can access them quickly, even offline (freemium)"
+          }
+        ]
+      },
+      {
+        "title": "Capturing tools & Web Scraping",
+        "resources": [
+          {
+            "name": "Data Miner",
+            "url": "https://dataminer.io/",
+            "description": "Data Miner is a Chromium Extension that helps you crawl and scrape data from web pages and into a CSV file or Excel spreadsheet (freemium)"
+          },
+          {
+            "name": "Forensic OSINT",
+            "url": "https://www.forensicosint.com/",
+            "description": "OSINT web capture software (commercial)"
+          },
+          {
+            "name": "Hunchly",
+            "url": "https://hunch.ly/",
+            "description": "Web capture and investigation case management for OSINT (commercial)"
+          },
+          {
+            "name": "OctoParse",
+            "url": "https://www.octoparse.com/",
+            "description": "no-coding solution for web scraping to turn pages into structured data within clicks (commercial)"
+          },
+          {
+            "name": "Ubikron",
+            "url": "https://www.ubikron.com/",
+            "description": "Ubikron tracks, enriches, and connects every step of your research, using AI to reveal patterns and keep your investigation moving forward (freemium)"
+          }
+        ]
+      },
+      {
+        "title": "Network and Relationship Mapping",
+        "resources": [
+          {
+            "name": "BlackDot Videris",
+            "url": "https://blackdotsolutions.com/videris",
+            "description": "Intelligence platform for OSINT investigations (commercial)"
+          },
+          {
+            "name": "Gephi",
+            "url": "https://gephi.org/",
+            "description": "Open-source visualization for graphs and networks (free)"
+          },
+          {
+            "name": "i2 Analyst’s Notebook",
+            "url": "https://i2group.com/solutions/i2-analysts-notebook",
+            "description": "Commercial link and intelligence analysis (commercial)"
+          },
+          {
+            "name": "Kumu",
+            "url": "https://kumu.io/",
+            "description": "Relationship mapping and dynamic visualization platform (freemium)"
+          },
+          {
+            "name": "Maltego",
+            "url": "https://www.maltego.com",
+            "description": "OG - one of the best graphical link analysis platforms out there (commercial and free)"
+          },
+          {
+            "name": "Palantir Gotham",
+            "url": "https://www.palantir.com/platforms/gotham/",
+            "description": "Enterprise platform for investigations and intelligence (commercial)"
+          },
+          {
+            "name": "ShadowDragon",
+            "url": "https://shadowdragon.io",
+            "description": "OSINT Software Platform for investigation through PAI data collection, link analysis and monitoring (commercial)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "search-engines",
+    "title": "🔍 Search Engines",
+    "sections": [
+      {
+        "title": "General Search Engines",
+        "resources": [
+          {
+            "name": "Google",
+            "url": "https://www.google.com",
+            "description": "The most widely used web search engine"
+          },
+          {
+            "name": "Bing",
+            "url": "https://www.bing.com",
+            "description": "Microsoft’s search engine"
+          },
+          {
+            "name": "DuckDuckGo",
+            "url": "https://duckduckgo.com",
+            "description": "Privacy-focused search engine"
+          },
+          {
+            "name": "Startpage",
+            "url": "https://www.startpage.com",
+            "description": "Google results with enhanced privacy"
+          },
+          {
+            "name": "Yahoo Search",
+            "url": "https://search.yahoo.com",
+            "description": "Web search with integrated news and content"
+          },
+          {
+            "name": "Yandex",
+            "url": "https://yandex.com",
+            "description": "Russian search engine with strong image search"
+          },
+          {
+            "name": "Baidu",
+            "url": "https://www.baidu.com/",
+            "description": "Leading Chinese search engine"
+          },
+          {
+            "name": "Swisscows",
+            "url": "https://swisscows.com/en",
+            "description": "Family-friendly, privacy-based search"
+          },
+          {
+            "name": "Qwant",
+            "url": "https://www.qwant.com",
+            "description": "European privacy-focused engine"
+          },
+          {
+            "name": "Brave Search",
+            "url": "https://search.brave.com",
+            "description": "Independent index, privacy-first"
+          },
+          {
+            "name": "Mojeek",
+            "url": "https://www.mojeek.com",
+            "description": "Independent UK crawler-based search"
+          },
+          {
+            "name": "MetaGer",
+            "url": "https://metager.org/",
+            "description": "German metasearch engine with anonymization"
+          },
+          {
+            "name": "Ecosia",
+            "url": "https://www.ecosia.org",
+            "description": "Eco-friendly search engine that funds tree planting"
+          },
+          {
+            "name": "Marginalia",
+            "url": "https://marginalia-search.com/",
+            "description": "Alternative search engine for the “small web”"
+          },
+          {
+            "name": "Ask.com",
+            "url": "https://www.ask.com/",
+            "description": "General purpose search engine"
+          },
+          {
+            "name": "Lycos",
+            "url": "https://www.lycos.com/",
+            "description": "Legacy search and portal site"
+          },
+          {
+            "name": "Search.com",
+            "url": "https://search.com/",
+            "description": "Meta search across engines"
+          },
+          {
+            "name": "All-in-One Search",
+            "url": "https://all-io.net/",
+            "description": "Multi-engine meta search"
+          },
+          {
+            "name": "AllTheInternet",
+            "url": "https://www.alltheinternet.com/",
+            "description": "Web and multimedia search"
+          },
+          {
+            "name": "Etools",
+            "url": "https://www.etools.ch/",
+            "description": "Swiss metasearch engine"
+          },
+          {
+            "name": "FaganFinder",
+            "url": "https://www.faganfinder.com/",
+            "description": "Advanced metasearch utilities"
+          },
+          {
+            "name": "iZito",
+            "url": "https://www.izito.com/",
+            "description": "European metasearch engine"
+          },
+          {
+            "name": "MyAllSearch",
+            "url": "https://www.myallsearch.com/",
+            "description": "Multi-source meta search"
+          },
+          {
+            "name": "WebCleaner",
+            "url": "https://www.webcleaner.com/",
+            "description": "Search top internet search engines from one page"
+          }
+        ]
+      },
+      {
+        "title": "Academic and Research Search",
+        "resources": [
+          {
+            "name": "Google Scholar",
+            "url": "https://scholar.google.com.au/",
+            "description": "Search scholarly literature and academic papers"
+          },
+          {
+            "name": "Litmaps",
+            "url": "https://app.litmaps.com/",
+            "description": "Visual literature discovery and citation network"
+          },
+          {
+            "name": "Semantic Scholar",
+            "url": "https://www.semanticscholar.org/",
+            "description": "AI-powered academic search"
+          },
+          {
+            "name": "BASE",
+            "url": "https://www.base-search.net/",
+            "description": "Bielefeld Academic Search Engine for scholarly resources"
+          },
+          {
+            "name": "CORE",
+            "url": "https://core.ac.uk/",
+            "description": "Access millions of open access research papers"
+          },
+          {
+            "name": "WorldCat",
+            "url": "https://www.worldcat.org/",
+            "description": "Global library catalog"
+          }
+        ]
+      },
+      {
+        "title": "Advanced Search and Dorking",
+        "resources": [
+          {
+            "name": "Google Hacking Database (GHDB)",
+            "url": "https://www.exploit-db.com/google-hacking-database",
+            "description": "Community-curated Google dorks"
+          },
+          {
+            "name": "Pentest-Tools Google Hacking",
+            "url": "https://pentest-tools.com/information-gathering/google-hacking",
+            "description": "Automate Google dorking"
+          },
+          {
+            "name": "Boolean Strings",
+            "url": "https://booleanstrings.com/",
+            "description": "Advanced boolean queries for OSINT"
+          },
+          {
+            "name": "Google Advanced Search",
+            "url": "https://www.google.com/advanced_search",
+            "description": "Google advanced search form"
+          },
+          {
+            "name": "Google Search Operators",
+            "url": "https://support.google.com/websearch/answer/35890",
+            "description": "Official operator reference"
+          },
+          {
+            "name": "Yandex Advanced Operators",
+            "url": "https://yandex.com/support/search/en/search-results/settings",
+            "description": "Yandex operator reference"
+          },
+          {
+            "name": "Bing Search Operators",
+            "url": "https://support.microsoft.com/en-au/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a",
+            "description": "Bing operator reference"
+          },
+          {
+            "name": "DuckDuckGo Syntax",
+            "url": "https://duckduckgo.com/duckduckgo-help-pages/results/syntax",
+            "description": "Search syntax and operators"
+          },
+          {
+            "name": "Baidu Advanced Search",
+            "url": "https://www.baidu.com/gaoji/advanced.html",
+            "description": "Baidu operator guide"
+          }
+        ]
+      },
+      {
+        "title": "Specialized Search Engines",
+        "resources": [
+          {
+            "name": "Social Mention",
+            "url": "https://www.socialmention.com/",
+            "description": "Real-time social media search"
+          },
+          {
+            "name": "Google Social Search",
+            "url": "https://www.social-searcher.com/google-social-search/",
+            "description": "Google-powered social media search"
+          },
+          {
+            "name": "Carrot2",
+            "url": "https://search.carrot2.org/",
+            "description": "Clustered search results visualization"
+          },
+          {
+            "name": "DocJax",
+            "url": "https://docjax.com",
+            "description": "Document search engine"
+          },
+          {
+            "name": "PublicWWW",
+            "url": "https://publicwww.com",
+            "description": "Search source code and analytics IDs"
+          },
+          {
+            "name": "osint.sh",
+            "url": "https://osint.sh/buckets/",
+            "description": "Search exposed cloud buckets"
+          },
+          {
+            "name": "GrayHatWarfare",
+            "url": "https://buckets.grayhatwarfare.com",
+            "description": "Public S3 bucket search"
+          },
+          {
+            "name": "I Search From",
+            "url": "https://isearchfrom.com",
+            "description": "Google search simulator for location/device"
+          },
+          {
+            "name": "Marginalia",
+            "url": "https://marginalia-search.com/",
+            "description": "Alternative search engine focusing on smaller sites"
+          },
+          {
+            "name": "Media Search Tool",
+            "url": "https://www.no-nonsense-intel.com/adverse-media-search-tool",
+            "description": "Adverse media OSINT search tool"
+          },
+          {
+            "name": "Shodan",
+            "url": "https://www.shodan.io",
+            "description": "Search for internet-connected devices"
+          },
+          {
+            "name": "Censys",
+            "url": "https://censys.io",
+            "description": "Search infrastructure and SSL certificates"
+          },
+          {
+            "name": "FOFA",
+            "url": "https://fofa.so",
+            "description": "Internet-wide search engine"
+          },
+          {
+            "name": "ZoomEye",
+            "url": "https://www.zoomeye.ai",
+            "description": "IoT and cyberspace search"
+          },
+          {
+            "name": "LeakIX",
+            "url": "https://leakix.net",
+            "description": "Search exposed services and databases"
+          },
+          {
+            "name": "Netlas.io",
+            "url": "https://netlas.io/",
+            "description": "Internet-wide search and analytics"
+          },
+          {
+            "name": "Million Short",
+            "url": "https://millionshort.com/",
+            "description": "Search engine that omits top sites for discovery"
+          },
+          {
+            "name": "IsLegitSite",
+            "url": "https://www.islegitsite.com/",
+            "description": "Check if a website is legit or scam"
+          },
+          {
+            "name": "Grep.app",
+            "url": "https://grep.app/",
+            "description": "Search Github indexed source code"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "video-osint",
+    "title": "🎥 Video OSINT",
+    "sections": [
+      {
+        "title": "Video Verification",
+        "resources": [
+          {
+            "name": "InVID/WeVerify",
+            "url": "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/",
+            "description": "Browser plugin for video verification and analysis"
+          }
+        ]
+      },
+      {
+        "title": "Video Download and Archiving",
+        "resources": [
+          {
+            "name": "yt-dlp",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "description": "Download and archive YouTube and other videos"
+          },
+          {
+            "name": "4K Video Downloader",
+            "url": "https://www.4kdownload.com/products/videodownloader-42",
+            "description": "Cross-platform video downloader (freemium)"
+          },
+          {
+            "name": "SaveFrom.net",
+            "url": "https://us.savefrom.net/",
+            "description": "Quick video download service"
+          }
+        ]
+      },
+      {
+        "title": "Streaming and Broadcast Analysis",
+        "resources": [
+          {
+            "name": "TwitchTracker",
+            "url": "https://twitchtracker.com/",
+            "description": "Analytics and tracking for Twitch channels"
+          },
+          {
+            "name": "Streamscharts",
+            "url": "https://streamscharts.com/",
+            "description": "Track statistics of live streams"
+          }
+        ]
+      },
+      {
+        "title": "Deepfake and Manipulated Media Detection",
+        "resources": [
+          {
+            "name": "Deepware Scanner",
+            "url": "https://deepware.ai/",
+            "description": "Tool to detect deepfakes in videos"
+          },
+          {
+            "name": "Sensity AI",
+            "url": "https://sensity.ai/",
+            "description": "Commercial solution for deepfake and visual threat detection"
+          }
+        ]
+      }
+    ]
+  }
+]

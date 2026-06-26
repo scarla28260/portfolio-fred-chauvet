@@ -1,0 +1,138 @@
+[
+  {
+    "id": "analytics-dashboard",
+    "name": "Analytics Dashboard",
+    "rawName": "analytics-dashboard",
+    "source": "skills_social-media-skills_analytics-dashboard/SKILL.md",
+    "description": "Turn a LinkedIn Analytics export into an interactive dark-themed React dashboard plus a written strategic analysis with 5 data-backed content recommendations. Reads every sheet in the export, builds charts for engagement trend, follower growth, post performance scatter, day-of-week heatmap, and audience breakdown. Use this skill whenever the user says \"analyse my linkedin\", \"linkedin analytics\", \"build my dashboard\", \"review my performance\", or uploads a LinkedIn Analytics export file. Requires the user's LinkedIn Analytics export (xlsx) as input.",
+    "category": "Analytics & Scoring"
+  },
+  {
+    "id": "content-matrix",
+    "name": "Content Matrix",
+    "rawName": "content-matrix",
+    "source": "skills_social-media-skills_content-matrix/SKILL.md",
+    "description": "Generate 32+ LinkedIn post ideas in a single table by pairing the user's content pillars with 8 proven content formats. Based on the Justin Welsh content matrix. Use this skill whenever the user says \"give me post ideas\", \"content matrix\", \"what should I post about\", \"generate post ideas\", \"content ideation\", or \"map out my content for the month\". Pulls from about-me.md and voice.md if they exist, otherwise asks for pillars and context.",
+    "category": "Strategy & Research"
+  },
+  {
+    "id": "gemini-carousel",
+    "name": "Gemini Carousel",
+    "rawName": "gemini-carousel",
+    "source": "skills_social-media-skills_gemini-carousel/SKILL.md",
+    "description": "Generate a branded slide-by-slide LinkedIn carousel using Gemini. Takes source content, builds a design brief, waits for approval, then outputs per-slide image generation prompts. 1080x1350 vertical format. Use this skill whenever the user says \"carousel\", \"build a carousel\", \"turn this into a carousel\", \"gemini carousel\", or wants multi-slide LinkedIn content. Always includes an approval gate between brief and image generation.",
+    "category": "Design & Assets"
+  },
+  {
+    "id": "gemini-infographic",
+    "name": "Gemini Infographic",
+    "rawName": "gemini-infographic",
+    "source": "skills_social-media-skills_gemini-infographic/SKILL.md",
+    "description": "Generate the hand-drawn whiteboard infographic prompt that pulled 480k impressions across 3 posts. Takes source content (a post, newsletter, blog, research note) and returns a complete Gemini image generation prompt with a structured brief. Use this skill whenever the user says \"whiteboard infographic\", \"gemini infographic\", \"hand-drawn graphic\", \"turn this into a whiteboard\", or wants an AI-generated infographic for a post.",
+    "category": "Design & Assets"
+  },
+  {
+    "id": "graphic-designer",
+    "name": "Graphic Designer",
+    "rawName": "graphic-designer",
+    "source": "skills_social-media-skills_graphic-designer/SKILL.md",
+    "description": "Create LinkedIn post graphics. Decides between an HTML/CSS structured graphic or an AI-generated infographic based on the post content. Use this skill whenever the user says \"design a graphic\", \"create a visual\", \"make an image\", \"graphic for my post\", \"LinkedIn image\", or wants any visual content to pair with a LinkedIn post. Also trigger when the user finishes writing a post and wants a matching graphic.",
+    "category": "Design & Assets"
+  },
+  {
+    "id": "hook-generator",
+    "name": "Hook Generator",
+    "rawName": "hook-generator",
+    "source": "skills_social-media-skills_hook-generator/SKILL.md",
+    "description": "Generate 6 clickbait-style LinkedIn hook variations for any topic. Two-line hooks built on the formula: a 40-char opening line, a 40-char bold contrast line. Includes digits, \"How I\" or \"I\" statements, and metrics. Use this skill whenever the user says \"write me hooks\", \"hook ideas\", \"generate hooks\", \"I need a hook for a post about...\", or pastes a topic and asks for openers. Fast output, no preamble.",
+    "category": "Content Creation"
+  },
+  {
+    "id": "newsletter-voice",
+    "name": "Newsletter Voice",
+    "rawName": "newsletter-voice",
+    "source": "skills_social-media-skills_newsletter-voice/SKILL.md",
+    "description": "Build newsletter writing instructions inside a Cowork project. Runs after voice-builder. Produces newsletter-voice.md, a single file Claude references when drafting newsletters in the user's voice. Works with or without existing newsletter samples: if the user has past issues, the skill analyses them; if not, the skill offers 6 archetypes tuned to the user's voice. Trigger whenever the user says \"build my newsletter voice\", \"learn my newsletter style\", \"set up my newsletter system\", \"train on my newsletters\", \"newsletter onboarding\", or drops newsletter samples into chat asking for an analysis. Requires voice-builder to have run first: the skill needs voice.md and about-me.md in the project to work.",
+    "category": "Voice & Tone"
+  },
+  {
+    "id": "niche-research",
+    "name": "Niche Research",
+    "rawName": "niche-research",
+    "source": "skills_social-media-skills_niche-research/SKILL.md",
+    "description": "Surface the 20 most relevant stories in a niche from the last 7 days using Claude for Chrome. Verified dates, real links, shareable angles. Claude drives the browser to scroll Reddit, X and run Google searches — exactly like a human researcher would. Use this skill whenever the user says \"research my niche\", \"what's trending\", \"find stories\", \"this week's news\", \"content research\", or drops a niche and asks what's happening in it. Requires the Claude for Chrome extension to be enabled for live browsing.",
+    "category": "Strategy & Research"
+  },
+  {
+    "id": "pinned-comment",
+    "name": "Pinned Comment",
+    "rawName": "pinned-comment",
+    "source": "skills_social-media-skills_pinned-comment/SKILL.md",
+    "description": "Write LinkedIn pinned comments AND image generation prompts in Charlie Hills' signature style. Use when Charlie or his team asks for a pinned comment, pin comment, or first comment for a LinkedIn post. ALWAYS produce the image prompt FIRST, then caption it with the 4-line comment. Output both together unless told otherwise.",
+    "category": "Content Creation"
+  },
+  {
+    "id": "post-formatter",
+    "name": "Post Formatter",
+    "rawName": "post-formatter",
+    "source": "skills_social-media-skills_post-formatter/SKILL.md",
+    "description": "Turn a topic into a ready-to-publish LinkedIn post using PAS, AIDA, BAB, STAR, or SLAY frameworks. 200 to 250 words, 20 lines max, mobile-formatted with blank lines between sentences. Use this skill whenever the user says \"format this as a post\", \"turn this into a LinkedIn post\", \"write it as PAS\" or any named framework, or wants a properly structured post from a topic. Different from post-writer: post-formatter applies a strict framework. post-writer drafts in the user's voice without framework constraints.",
+    "category": "Content Creation"
+  },
+  {
+    "id": "post-scorer",
+    "name": "Post Scorer",
+    "rawName": "post-scorer",
+    "source": "skills_social-media-skills_post-scorer/SKILL.md",
+    "description": "Score a LinkedIn post using real performance data. Pulls the user's own post history via Apify (or uses cached data) to identify what actually performs, then scores the draft against those patterns. Use this skill whenever the user says \"score my post\", \"review my post\", \"rate this post\", \"give me feedback\", \"how good is this post\", or pastes a LinkedIn post and asks for critique. Scores against real data, not generic advice. Designed for live scoring at events and everyday post review.",
+    "category": "Content Creation"
+  },
+  {
+    "id": "post-writer",
+    "name": "Post Writer",
+    "rawName": "post-writer",
+    "source": "skills_social-media-skills_post-writer/SKILL.md",
+    "description": "Write LinkedIn posts that match the user's voice system (about-me.md and voice.md). Use this skill whenever the user says \"write a post\", \"draft a post\", \"LinkedIn post\", \"post about [topic]\", \"content idea\", or wants help writing any LinkedIn content. Also trigger when the user pastes a context dump (notes, transcripts, bullet points) and wants it turned into a post. Always references the voice files in the project before writing. Always outputs the final post in a code block.",
+    "category": "Content Creation"
+  },
+  {
+    "id": "profile-optimizer",
+    "name": "Profile Optimizer",
+    "rawName": "profile-optimizer",
+    "source": "skills_social-media-skills_profile-optimizer/SKILL.md",
+    "description": "Rebuild a LinkedIn profile for maximum conversions. Produces new headline options, about section, experience section, featured section strategy, and 4 image generation prompts (banner, profile picture, 2 featured tiles). Use this skill whenever the user says \"optimize my profile\", \"fix my LinkedIn\", \"rewrite my headline\", \"profile review\", \"LinkedIn audit\", \"rebuild my profile\", or wants help with any part of their LinkedIn profile. Also trigger when the user uploads a LinkedIn profile PDF or screenshot for review.",
+    "category": "Strategy & Research"
+  },
+  {
+    "id": "quote-post",
+    "name": "Quote Post",
+    "rawName": "quote-post",
+    "source": "skills_social-media-skills_quote-post/SKILL.md",
+    "description": "Two-step workflow for creating quote posts on LinkedIn. Claude generates viral motivational quotes to accompany a caption, then produces a Gemini prompt that recreates a reference image with the chosen quote baked in. Use this skill whenever the user says \"quote post\", \"quote graphic\", \"motivational post\", \"build me a quote\", or wants a low-effort high-engagement LinkedIn graphic. Optimised for LinkedIn's employee and early-career audience, which skews toward motivational content.",
+    "category": "Content Creation"
+  },
+  {
+    "id": "reels-scripting",
+    "name": "Reels Scripting",
+    "rawName": "reels-scripting",
+    "source": "skills_social-media-skills_reels-scripting/SKILL.md",
+    "description": "Turn a reference Instagram Reel into a script for your own Reel, tuned to your voice and repurposed from your newsletter content. Takes a Reel URL or Notion reference link, uses Apify to scrape the video, sends it to Gemini 2.5 Flash for full transcript + hook + structure analysis, then writes a new script applying the same patterns to your newsletter topic. Use this skill whenever the user says \"script a reel\", \"reels scripting\", \"turn this into a reel\", pastes an Instagram Reel URL, or references their Notion outlier reels database. Requires APIFY_API_TOKEN and GOOGLE_AI_API_KEY environment variables.",
+    "category": "Content Creation"
+  },
+  {
+    "id": "voice-builder",
+    "name": "Voice Builder",
+    "rawName": "voice-builder",
+    "source": "skills_social-media-skills_voice-builder/SKILL.md",
+    "description": "Build a personalised voice profile inside a Cowork project from a short interview plus 3 to 5 sample pieces of writing. Works for any content format: LinkedIn posts, newsletters, essays, emails, blog posts, tweets, or any other published writing. Use this skill at the start of any Cowork project where the user wants Claude to learn who they are and how they write before drafting new content. Trigger whenever the user says \"build my voice\", \"learn my voice\", \"set up my content system\", \"onboard me\", \"train on my writing\", \"train on my posts\", \"I want Claude to sound like me\", or drops a batch of writing samples into chat at the start of a project. Also trigger for first-time Cowork users who need a voice foundation before writing anything. Always produces two files (about-me.md and voice.md) saved into the project root.",
+    "category": "Voice & Tone"
+  },
+  {
+    "id": "youtube-thumbnail",
+    "name": "Youtube Thumbnail",
+    "rawName": "youtube-thumbnail",
+    "source": "skills_social-media-skills_youtube-thumbnail/SKILL.md",
+    "description": "Generate a branded YouTube thumbnail from a video title. Uses a reference photo of the creator, high-CTR thumbnail principles, and brand colours to produce a ready-to-generate image prompt for Gemini. Use this skill whenever the user says \"thumbnail\", \"youtube thumbnail\", \"build me a thumbnail\", or wants a video cover image before writing the script. The thumbnail-first workflow mirrors the graphic-first approach for LinkedIn: sells the video before anyone hears a word of the script.",
+    "category": "Design & Assets"
+  }
+]

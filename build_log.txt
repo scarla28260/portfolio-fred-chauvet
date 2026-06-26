@@ -1,0 +1,32 @@
+
+> la-station-du-code@0.1.0 build
+> next build
+
+Ôû▓ Next.js 16.2.0 (Turbopack)
+
+  Creating an optimized production build ...
+Ô£ô Compiled successfully in 2.9s
+  Running TypeScript ...
+  Finished TypeScript in 2.8s ...
+  Collecting page data using 11 workers ...
+  Generating static pages using 11 workers (0/10) ...
+  Generating static pages using 11 workers (2/10) 
+  Generating static pages using 11 workers (4/10) 
+  Generating static pages using 11 workers (7/10) 
+Ô£ô Generating static pages using 11 workers (10/10) in 530ms
+  Finalizing page optimization ...
+
+Route (app)
+Ôöî Ôùï /
+Ôö£ Ôùï /_not-found
+Ôö£ Ôùï /blueprint
+Ôö£ Ôùï /coeur
+Ôö£ Ôùï /cuisine
+Ôö£ Ôùï /icon.png
+Ôö£ Ôùï /observatoire
+Ôö£ Ôùï /robots.txt
+Ôöö Ôùï /sitemap.xml
+
+
+Ôùï  (Static)  prerendered as static content
+

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="fr" class="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NOVAPHOENIX | Architecte Digital Visionnaire</title>
+    <link rel="stylesheet" href="./src/index.css">
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .hero-illustration-mask {
+            position: absolute;
+            top: 50%;
+            right: 0%;
+            width: 45vw;
+            height: 80vh;
+            transform: translateY(-50%);
+            z-index: 1;
+            opacity: 0.7;
+            mask-image: radial-gradient(circle at center, black 0%, transparent 80%);
+            -webkit-mask-image: radial-gradient(circle at center, black 0%, transparent 80%);
+            pointer-events: none;
+        }
+
+        @media (max-width: 1024px) {
+            .hero-illustration-mask {
+                width: 100vw;
+                height: 50vh;
+                top: 15%;
+                opacity: 0.4;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <canvas id="vfx-canvas"></canvas>
+    <div class="grainy"></div>
+    <div class="light-leak"></div>
+    <div class="aurora-bg fixed inset-0 z-0"></div>
+
+    <main style="position:relative;z-index:10;" class="lg:pl-20">
+
+        <!-- Abstract Hero Asset -->
+        <div class="hero-illustration-mask">
+            <div class="absolute inset-0 z-0 overflow-hidden pointer-events-none">
+            <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop" alt="Abstract Flow" class="w-full h-full object-cover opacity-40 saturate-150 mix-blend-overlay">
+            <div class="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-[#FDFCFB]"></div>
+        </div>
+        </div>
+
+
+        <section
+            style="min-height:100vh;padding:6rem 2.5rem 5rem;display:flex;align-items:center;position:relative;z-index:10;">
+
+            <div style="max-width:1600px;margin:0 auto;width:100%;">
+
+                <div class="fade-up" style="margin-bottom:6rem;">
+                    <p class="section-label"
+                        style="margin-bottom:2rem;color:var(--color-primary);letter-spacing:0.8em;font-weight:700;font-size:0.75rem;">
+                        // COLLECTION_SIGNATURE_2026</p>
+                    <h1 class="light-bleed"
+                        style="font-family:var(--font-brand);font-size:clamp(3.5rem,8vw,6.5rem);font-weight:900;line-height:0.85;letter-spacing:-0.05em;text-transform:uppercase;color:var(--color-primary);margin:0 0 2rem;">
+                        L'ARCHITECTURE_<br><span style="color:#0F172A;">DU_DESTIN</span>.
+                    </h1>
+                    <p style="font-size:1.4rem;color:#475569;max-width:700px;line-height:1.4;font-weight:300;">
+                        Nous ne concevons pas de <span style="font-weight:600;color:var(--color-primary);">sites</span>. Nous bâtissons des héritages <span style="color:#0F172A;font-weight:600;">numériques</span> pour les leaders de demain.
+                    </p>
+                </div>
+
+                <!-- Strategic Summary -->
+                <div class="fade-up" style="animation-delay:0.3s;">
+                    <!-- Bento Strategic Hub -->
+                    <div class="bento-grid" style="position:relative;z-index:10;max-width:1200px;margin:0 auto;">
+                        
+                        <!-- Core Architecture (Large) -->
+                        <div class="bento-item col-span-12 md:col-span-8 liquid-glass p-10 flex flex-col justify-between group">
+                            <div class="glass-reflection"></div>
+                            <div class="flex justify-between items-start">
+                                <div class="p-3 bg-primary/10 rounded-2xl">
+                                    <i class="fa-solid fa-microchip text-primary text-2xl"></i>
+                                </div>
+                                <span class="tag-pill bg-white/5 text-[10px] tracking-[0.3em] font-bold py-1 px-3">ARCHITECTURE_SOUVERAINE</span>
+                            </div>
+                            <div>
+                                <h2 style="font-family:var(--font-luxury);font-size:3rem;line-height:1;margin-bottom:1rem;color:#0F172A;">INGÉNIERIE_<br><span class="text-primary italic">STRUCTURELLE</span></h2>
+                                <p style="font-family:var(--font-body);color:#64748B;max-width:400px;line-height:1.6;">L'exigence au service de la puissance. Des fondations radicales pour une domination technologique sans concession.</p>
+                            </div>
+                        </div>
+
+                        <!-- Vision (Small) -->
+                        <div class="bento-item col-span-12 md:col-span-4 liquid-glass p-8 bg-gradient-to-br from-primary/5 to-transparent">
+                            <h4 class="mono-label text-primary mb-4">// RÉSONANCE_STRATÉGIQUE</h4>
+                            <p style="font-family:var(--font-body);font-size:0.9rem;color:#475569;">Convertir l'abstraction en un avantage compétitif impitoyable et irrésistible.</p>
+                        </div>
+
+                        <!-- Fullstack (Medium) -->
+                        <div class="bento-item col-span-12 md:col-span-8 liquid-glass p-8 flex items-center gap-8 group">
+                            <div class="flex-1">
+                                <h3 style="font-family:var(--font-luxury);font-size:2rem;margin-bottom:0.5rem;color:#0F172A;">ALCHIMIE_SYSTÉMIQUE</h3>
+                                <p style="font-family:var(--font-body);color:#64748B;font-size:0.9rem;">La fusion parfaite entre intelligence marketing et performance brute.</p>
+                            </div>
+                            <div class="hidden md:block w-32 h-32 bg-primary/20 rounded-full blur-2xl group-hover:bg-primary/40 transition-all duration-700"></div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Side Number -->
+            <span class="section-number"
+                style="right:-0.01em;top:50%;transform:translateY(-50%);opacity:0.05;font-size:20rem;pointer-events:none;">ASSET_01</span>
+
+        </section>
+
+        <!-- Mission Focus -->
+        <section style="padding:6rem 2.5rem 6rem;background:rgba(255,255,255,0.02);position:relative;">
+            <div style="max-width:1600px;margin:0 auto;">
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
+                    <div class="fade-up">
+                        <h2 class="light-bleed"
+                            style="font-family:var(--font-brand);font-size:clamp(2.5rem,6vw,4.5rem);font-weight:900;line-height:0.9;color:#0F172A;margin-bottom:3rem;">
+                            L'EXCELLENCE_<br>N'EST_PAS_UNE_OPTION,<br><span style="color:var(--color-primary);">C_EST_UN_STANDARD</span>.
+                        </h2>
+                        <p style="font-size:1.2rem;color:#475569;line-height:1.6;font-weight:300;margin-bottom:3rem;">
+                            Chaque architecture est conçue comme un actif stratégique souverain, alliant l'impact du marketing moderne à la précision d'un orfèvre digital.
+                        </p>
+                        <a href="expertise.html" class="cyber-button"
+                            style="padding:1.2rem 2.5rem;font-size:0.8rem;letter-spacing:0.3em;">DÉCOUVRIR_LA_MANUFACTURE</a>
+                    </div>
+                    <div class="fade-up" style="animation-delay:0.3s;">
+                        <div class="glass"
+                            style="padding:10px;border-radius:60px;overflow:hidden;background:rgba(212,175,55,0.05);position:relative;">
+                            <div class="glass-radiance"></div>
+                            <img src="./assets/img/expertise_bg.jpg" alt="Data Nexus"
+                                style="width:100%;border-radius:50px;filter:brightness(1);">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="./assets/js/nav.js"></script>
+    <script src="./assets/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr" class="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy"
+        content="default-src 'self' https:; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://fonts.googleapis.com; style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com; font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com; img-src 'self' data: https:;">
+
+    <title>COOKIES | NovaPhoenix</title>
+    <link rel="stylesheet" href="./src/index.css">
+</head>
+
+<body class="bg-dark selection:bg-primary/30 min-h-screen">
+    <script type="module" src="/src/js/spy.js"></script>
+    <script type="module" src="/assets/js/security-layer.js"></script>
+    <div class="grainy"></div>
+
+    <!-- Dynamically injected via nav.js -->
+
+    <main class="relative z-10 pt-40 pb-20 px-4 animate-fade-up">
+        <div class="max-w-4xl mx-auto px-4">
+            <h1 style="font-family:var(--font-brand);" class="text-5xl md:text-7xl font-black tracking-tighter mb-12 uppercase text-white">
+                Gestion des <span class="text-primary block">Cookies</span>
+            </h1>
+
+            <div
+                class="glass hologram-card p-8 md:p-12 rounded-3xl space-y-12 text-slate-400 leading-relaxed border border-white/5 shadow-2xl transition-shadow duration-500">
+                <section class="space-y-4">
+                    <h2 class="text-xl font-bold font-space text-white flex items-center gap-3">TYPES DE COOKIES</h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <div class="p-4 rounded-xl bg-white/5 border border-white/10">
+                            <h3 class="font-bold text-white mb-2 uppercase text-xs">Techniques</h3>
+                            <p class="text-xs">Cookies nécessaires au fonctionnement du site et à la mémorisation de vos
+                                préférences de sécurité.</p>
+                        </div>
+                        <div class="p-4 rounded-xl bg-white/5 border border-white/10">
+                            <h3 class="font-bold text-secondary mb-2 uppercase text-xs">Analyse</h3>
+                            <p class="text-xs">Mesure d'audience anonymisée pour améliorer l'expérience utilisateur et
+                                les performances techniques.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="space-y-4">
+                    <h2 class="text-xl font-bold font-space text-white flex items-center gap-3">VOTRE CONSENTEMENT
+                    </h2>
+                    <p>En utilisant ce portfolio, vous acceptez l'utilisation de cookies techniques. Le système de
+                        monitoring de sécurité `SpySystem` utilise le stockage local (`localStorage`) plutôt que des
+                        cookies intrusifs pour garantir votre confidentialité tout en assurant la protection du site.
+                    </p>
+                    <button onclick="window.showNotification('Préférences enregistrées avec succès!', 'success')"
+                        aria-label="Réinitialiser les cookies"
+                        class="px-6 py-3 font-bold text-sm tracking-wider uppercase text-white bg-primary/20 hover:bg-primary/30 border border-primary/50 relative overflow-hidden group transition-all duration-300 rounded-lg mt-4">
+                        <div
+                            class="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent -translate-x-[200%] group-hover:animate-sweep">
+                        </div>
+                        <span class="relative z-10" style="font-family:var(--font-brand);">RÉINITIALISER LES CHOIX</span>
+                    </button>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <script type="module" src="/assets/js/nav.js"></script>
+    <script type="module" src="/assets/js/main.js"></script>
+
+</body>
+
+</html>

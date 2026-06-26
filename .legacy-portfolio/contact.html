@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="fr" class="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONTACT | NovaPhoenix — Liaison Stratégique</title>
+    <link rel="stylesheet" href="./src/index.css">
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .social-card {
+            background: rgba(255, 255, 255, 0.4);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 40px;
+            padding: 3rem;
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            text-decoration: none;
+            transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+            margin-bottom: 2rem;
+            position: relative;
+            overflow: hidden;
+            z-index: 2;
+        }
+
+        .social-card:hover {
+            background: #fff;
+            border-color: var(--color-primary);
+            transform: translateX(10px) translateY(-5px);
+            box-shadow: 0 40px 80px rgba(15, 23, 42, 0.1);
+        }
+
+        .social-card i {
+            font-size: 2.5rem;
+            color: var(--color-primary);
+            transition: transform 0.5s ease;
+        }
+
+        .social-card:hover i {
+            transform: scale(1.1) rotate(5deg);
+        }
+
+        .social-info h3 {
+            font-family: var(--font-luxury);
+            font-size: 1.4rem;
+            font-weight: 800;
+            color: #0F172A;
+            margin-bottom: 0.5rem;
+            letter-spacing: 0.1em;
+            line-height: 1.2;
+        }
+
+        .social-info p {
+            color: #475569;
+            font-size: 0.9rem;
+            font-family: var(--font-body);
+            letter-spacing: 0.1em;
+            line-height: 1.5;
+        }
+
+        .nexus-img-container {
+            border-radius: 60px;
+            overflow: hidden;
+            box-shadow: 0 60px 120px rgba(0, 0, 0, 0.5);
+            background: rgba(255, 255, 255, 0.02);
+            position: relative;
+            z-index: 2;
+        }
+
+        .nexus-img-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: brightness(1);
+            transition: transform 1s ease;
+        }
+
+        .nexus-img-container:hover img {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+
+    <div class="grainy"></div>
+    <div class="light-leak"></div>
+    <div class="aurora-bg fixed inset-0 z-0"></div>
+
+    <main style="position:relative;z-index:10;" class="lg:pl-20">
+
+
+        <section style="min-height:100vh;padding:6rem 2.5rem 5rem;display:flex;align-items:center;">
+
+            <div style="max-width:1600px;margin:0 auto;width:100%;">
+
+                <div class="grid grid-cols-1 lg:grid-cols-[1.2fr_1fr] gap-24 items-center">
+
+                    <!-- LEFT — The Nexus (Illustration) -->
+                    <div class="fade-up">
+                        <p class="section-label"
+                            style="margin-bottom:2.5rem;color:var(--color-primary);letter-spacing:0.8em;font-size:0.75rem;font-family:var(--font-brand);">
+                            // ENTRER_EN_RESONANCE</p>
+                        <h1 class="light-bleed" style="font-family:var(--font-luxury);font-size:clamp(2.5rem,8vw,5.5rem);font-weight:800;line-height:1.1;text-transform:uppercase;color:#0F172A;margin-bottom:2rem;">LIAISON_<br><span style="color:var(--color-primary);">STRATÉGIQUE</span></h1>
+
+                        <div class="nexus-img-container liquid-glass" style="height:550px;border-radius:40px;">
+                            <img src="https://images.unsplash.com/photo-1522071823991-b9671f9d7f1f?q=80&w=1920&auto=format&fit=crop"
+                                alt="Collaborative Innovation">
+                            <div
+                                style="position:absolute;inset:0;background:linear-gradient(to top, #FDFCFB 0%, transparent 50%);">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- RIGHT — The Links -->
+                    <div class="fade-up" style="animation-delay:0.3s;">
+
+                        <div style="margin-bottom:5rem;max-width:75ch;">
+                            <p
+                                style="font-family:var(--font-body);font-size:1.3rem;color:#475569;font-weight:400;line-height:1.6;margin-bottom:4rem;">
+                                Votre vision souveraine mérite un écrin à sa mesure. Que vous visiez une transformation radicale ou une architecture d'exception, entrons en liaison pour forger l'inoubliable.
+                            </p>
+                        </div>
+
+                        <div style="display:flex;flex-direction:column;gap:1.5rem;">
+
+                            <!-- Email -->
+                            <a href="mailto:hello@novaphoenix.dev" class="social-card liquid-glass" style="border-radius:24px;padding:2.5rem;" aria-label="Envoyer un email souverain">
+                                <div class="glass-reflection"></div>
+                                <div class="glass-radiance"></div>
+                                <i class="fas fa-envelope"></i>
+                                <div class="social-info" style="position:relative;z-index:10;">
+                                    <h2 style="font-family:var(--font-luxury);font-size:1.5rem;font-weight:700;margin-bottom:0.3rem;line-height:1.1;">CANAL_SOUVERAIN</h2>
+                                    <p style="font-family:var(--font-brand);color:var(--color-primary);font-size:11px;letter-spacing:0.1em;">HELLO@NOVAPHOENIX.DEV</p>
+                                </div>
+                            </a>
+
+                            <!-- LinkedIn -->
+                            <a href="#" target="_blank" class="social-card liquid-glass" style="border-radius:24px;padding:2.5rem;" aria-label="LinkedIn Professionnel d'Élite">
+                                <div class="glass-reflection"></div>
+                                <div class="glass-radiance"></div>
+                                <i class="fab fa-linkedin-in"></i>
+                                <div class="social-info" style="position:relative;z-index:10;">
+                                    <h2 style="font-family:var(--font-luxury);font-size:1.5rem;font-weight:700;margin-bottom:0.3rem;line-height:1.1;">LIAISON_D_INFLUENCE</h2>
+                                    <p style="font-family:var(--font-brand);color:var(--color-primary);font-size:11px;letter-spacing:0.1em;">RÉSEAU_PROFESSIONNEL_D_ÉLITE</p>
+                                </div>
+                            </a>
+
+                            <!-- GitHub -->
+                            <a href="#" target="_blank" class="social-card liquid-glass" style="border-radius:24px;padding:2.5rem;">
+                                <div class="glass-reflection"></div>
+                                <div class="glass-radiance"></div>
+                                <i class="fab fa-github"></i>
+                                <div class="social-info" style="position:relative;z-index:10;">
+                                    <h2 style="font-family:var(--font-luxury);font-size:1.5rem;font-weight:700;margin-bottom:0.3rem;">ARCHIVE_D_ACTIFS</h2>
+                                    <p style="font-family:var(--font-brand);color:var(--color-primary);font-size:11px;letter-spacing:0.1em;">DEPOT_D_INGÉNIERIE_PUBLIQUE</p>
+                                </div>
+                            </a>
+
+                        </div>
+
+                        <div style="margin-top:6rem;display:flex;align-items:center;gap:20px;">
+                            <div
+                                style="width:12px;height:12px;background:#10B981;border-radius:50%;box-shadow:0 0 25px rgba(16, 185, 129, 0.4);">
+                            </div>
+                            <span
+                                style="font-family:var(--font-brand);font-size:11px;color:#0F172A;letter-spacing:0.2em;font-weight:700;">STATUT_ACTUEL : MANDATS_OUVERTS</span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <span class="section-number"
+                style="right:2rem;top:50%;transform:translateY(-50%);opacity:0.02;font-size:20rem;pointer-events:none;">CONTACT_UI</span>
+
+        </section>
+    </main>
+
+    <script src="./assets/js/nav.js"></script>
+    <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
