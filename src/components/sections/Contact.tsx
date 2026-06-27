@@ -162,8 +162,8 @@ export function Contact() {
               },
               {
                 label: "GitHub Source Registry",
-                href: "https://github.com/FredChauvet",
-                val: "github.com/FredChauvet",
+                href: "https://github.com/Frederic28260",
+                val: "github.com/Frederic28260",
                 icon: Github,
                 color: "group-hover:text-emerald-500",
                 border: "group-hover:border-emerald-400/30",

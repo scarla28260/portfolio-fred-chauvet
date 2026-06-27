@@ -53,7 +53,7 @@ export default function RootLayout({
       url: "https://station-os.vercel.app",
       sameAs: [
         "https://www.linkedin.com/in/fredchauvet",
-        "https://github.com/fredchauvet"
+        "https://github.com/Frederic28260"
       ],
       knowsAbout: ["Software Engineering", "Data Engineering", "Artificial Intelligence", "Next.js", "React", "System Architecture"]
     },

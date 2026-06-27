@@ -269,8 +269,8 @@ export default function HomeContent() {
       {/* FOOTER */}
       <footer className="relative py-20 px-6 max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-12 opacity-50 border-t border-aura-gold/25">
          <div className="flex gap-10">
-            <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black uppercase tracking-[0.4em] hover:text-primary transition-colors font-mono">LinkedIn</a>
-            <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black uppercase tracking-[0.4em] hover:text-primary transition-colors font-mono">GitHub</a>
+            <a href="https://www.linkedin.com/in/fredchauvet" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black uppercase tracking-[0.4em] hover:text-primary transition-colors font-mono">LinkedIn</a>
+            <a href="https://github.com/Frederic28260" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black uppercase tracking-[0.4em] hover:text-primary transition-colors font-mono">GitHub</a>
          </div>
          <p className="text-xs font-bold text-slate-600 uppercase tracking-widest font-mono">© 2026 FRED CHAUVET / DÉVELOPPEUR IA & BIG DATA</p>
          <button onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} className="text-[10px] font-black uppercase tracking-[0.4em] text-primary hover:text-primary transition-colors flex items-center gap-2 font-mono">
