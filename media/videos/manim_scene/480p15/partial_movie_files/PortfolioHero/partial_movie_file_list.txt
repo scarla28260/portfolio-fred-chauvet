@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/CodeIA/projects/portfolio/media/videos/manim_scene/480p15/partial_movie_files/PortfolioHero/4635931_2592361107_223132457.mp4'
+file 'file:C:/CodeIA/projects/portfolio/media/videos/manim_scene/480p15/partial_movie_files/PortfolioHero/3962911750_2469380809_3706290538.mp4'
+file 'file:C:/CodeIA/projects/portfolio/media/videos/manim_scene/480p15/partial_movie_files/PortfolioHero/3962911750_1376892967_446460350.mp4'
+file 'file:C:/CodeIA/projects/portfolio/media/videos/manim_scene/480p15/partial_movie_files/PortfolioHero/3962911750_2462975394_3996765375.mp4'
+file 'file:C:/CodeIA/projects/portfolio/media/videos/manim_scene/480p15/partial_movie_files/PortfolioHero/3962911750_3053998984_2216078032.mp4'
+file 'file:C:/CodeIA/projects/portfolio/media/videos/manim_scene/480p15/partial_movie_files/PortfolioHero/3962911750_1432596116_817293034.mp4'

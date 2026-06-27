@@ -4,7 +4,7 @@ import { ExperienceTimeline } from "@/components/sections/ExperienceTimeline"
 // SEO: Metadata page parcours avec E-E-A-T (18 ans de cuisine + 15 ans de logistique = Experience signal)
 export const metadata: Metadata = {
   title: "Parcours — Expérience de Terrain",
-  description: "Découvrez le parcours professionnel de Fred Chauvet : 18 ans en cuisine/restauration et 15 ans en logistique transmutés en excellence technique. Reconversion en développeur IA & Big Data.",
+  description: "Découvrez le parcours professionnel de Fred Chauvet : 18 ans en restauration et 15 ans en logistique, aujourd'hui reconverti dans l'analyse de données et le développement d'agents IA. En formation Développeur IA & Big Data.",
   keywords: ["Fred Chauvet parcours", "reconversion développeur", "cuisine vers data", "logistique vers data", "expérience professionnelle", "formation IA Big Data"],
   openGraph: {
     title: "Parcours — Expérience de Terrain | Fred Chauvet",

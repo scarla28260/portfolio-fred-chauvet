@@ -21,12 +21,12 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: "Fred Chauvet | Ingénieur Logiciel & Data",
-  description: "Portfolio de Fred Chauvet, Ingénieur Logiciel, IA & Data. 18 ans en cuisine et 15 ans en logistique transmutés en Ingénierie de Précision. Conception d'écosystèmes d'agents et solutions résilientes.",
+  description: "Portfolio de Fred Chauvet, Ingénieur Logiciel, IA & Data. 18 ans en cuisine et 15 ans en logistique transmutés à l'analyse de données et au développement d'agents IA. Conception d'écosystèmes d'agents et solutions résilientes.",
   keywords: ["Fred Chauvet", "développeur web", "data engineer", "IA", "Next.js", "ingénieur logiciel", "React", "systémique"],
   authors: [{ name: "Fred Chauvet" }],
   openGraph: {
     title: "Fred Chauvet | Ingénieur Logiciel & Data",
-    description: "Portfolio de Fred Chauvet, Ingénieur Logiciel, IA & Data. 18 ans en cuisine et 15 ans en logistique transmutés en Ingénierie de Précision.",
+    description: "Portfolio de Fred Chauvet, Ingénieur Logiciel, IA & Data. 18 ans en cuisine et 15 ans en logistique transmutés à l'analyse de données et au développement d'agents IA.",
     url: "https://station-os.vercel.app",
     siteName: "La Station du Code",
     locale: "fr_FR",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Fred Chauvet | Ingénieur Logiciel & Data",
-    description: "18 ans en cuisine et 15 ans en logistique transmutés en Ingénierie de Précision.",
+    description: "18 ans en cuisine et 15 ans en logistique transmutés à l'analyse de données et au développement d'agents IA.",
   },
 }
 

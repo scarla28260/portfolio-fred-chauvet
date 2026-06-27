@@ -69,20 +69,20 @@ export function Navbar() {
           )}
         >
           {/* Logo */}
-          <Link href="/" className="group flex items-center gap-5">
+          <Link href="/" className="group flex items-center gap-4 md:gap-5">
             <motion.div
               whileHover={{ scale: 1.05, rotate: 5 }}
-              className="w-11 h-11 border border-border flex items-center justify-center bg-muted/40 rounded-xl transition-all duration-500 shadow-xl group-hover:border-primary/50 group-hover:bg-primary/5"
+              className="w-10 h-10 md:w-12 md:h-12 border border-border flex items-center justify-center bg-muted/40 rounded-xl transition-all duration-500 shadow-xl group-hover:border-primary/50 group-hover:bg-primary/5"
             >
-              <span className="text-[14px] font-black text-primary italic font-syne">F</span>
+              <span className="text-sm md:text-base font-black text-primary italic font-syne">F</span>
             </motion.div>
             <div className="flex flex-col gap-0.5">
-              <p className="text-[11px] text-foreground uppercase font-black tracking-[0.4em] group-hover:text-primary transition-all font-syne">
+              <p className="text-xs md:text-sm text-foreground uppercase font-black tracking-[0.2em] md:tracking-[0.3em] group-hover:text-primary transition-all font-syne">
                 F. Chauvet
               </p>
               <div className="flex items-center gap-2">
-                <Activity size={8} className="text-primary/80 animate-pulse" />
-                <span className="text-[8px] font-bold text-muted-foreground tracking-[0.2em] transition-colors uppercase font-mono">
+                <Activity size={10} className="text-primary/80 animate-pulse" />
+                <span className="text-[9px] md:text-[10px] font-bold text-muted-foreground tracking-[0.1em] md:tracking-[0.2em] transition-colors uppercase font-mono">
                   Architecte_Sys_v5.0
                 </span>
               </div>
@@ -98,7 +98,7 @@ export function Navbar() {
                   key={link.href}
                   href={link.href}
                   className={cn(
-                    "group relative text-[10px] font-black uppercase tracking-[0.4em] transition-all duration-500 py-2 font-syne",
+                    "group relative text-xs lg:text-sm font-black uppercase tracking-[0.15em] lg:tracking-[0.25em] transition-all duration-500 py-2 px-1 font-syne",
                     isActive ? "text-primary" : "text-muted-foreground hover:text-foreground"
                   )}
                 >
@@ -114,9 +114,9 @@ export function Navbar() {
               );
             })}
 
-            <div className="flex flex-col items-end gap-0.5 ml-4 border-l border-border pl-6 opacity-40">
-              <span className="text-[8px] font-bold text-muted-foreground tracking-[0.3em] font-mono">{time}</span>
-              <span className="text-[6px] font-black text-primary uppercase tracking-[0.2em] font-mono">Opérationnel</span>
+            <div className="hidden lg:flex flex-col items-end gap-0.5 ml-4 border-l border-border pl-6 opacity-40">
+              <span className="text-[10px] font-bold text-muted-foreground tracking-[0.2em] font-mono">{time}</span>
+              <span className="text-[8px] font-black text-primary uppercase tracking-[0.15em] font-mono">Opérationnel</span>
             </div>
           </div>
 
@@ -156,12 +156,12 @@ export function Navbar() {
               className="fixed top-0 right-0 h-full w-[80vw] max-w-[380px] z-[160] bg-background/95 backdrop-blur-3xl border-l border-primary/10 flex flex-col"
             >
               {/* Header */}
-              <div className="flex items-center justify-between px-8 py-8 border-b border-border">
+              <div className="flex items-center justify-between px-6 md:px-8 py-6 md:py-8 border-b border-border">
                 <div className="flex flex-col gap-1">
-                  <span className="text-[10px] font-black text-primary uppercase tracking-[0.4em] font-syne">
+                  <span className="text-xs font-black text-primary uppercase tracking-[0.2em] font-syne">
                     Navigation
                   </span>
-                  <span className="text-[8px] font-bold text-muted-foreground uppercase tracking-widest font-mono">
+                  <span className="text-[10px] font-bold text-muted-foreground uppercase tracking-widest font-mono">
                     Fred_Chauvet_v5.0
                   </span>
                 </div>
@@ -197,12 +197,12 @@ export function Navbar() {
                         )}
                       >
                         <div className="flex items-center gap-4">
-                          <span className="text-[9px] font-black text-primary/40 font-mono">
+                          <span className="text-xs font-black text-primary/40 font-mono">
                             0x{String(i).padStart(2, "0")}
                           </span>
                           <span
                             className={cn(
-                              "text-base font-black uppercase tracking-tight font-syne transition-colors",
+                              "text-lg font-black uppercase tracking-tight font-syne transition-colors",
                               isActive ? "text-primary" : "text-muted-foreground group-hover:text-foreground"
                             )}
                           >

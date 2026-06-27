@@ -86,7 +86,7 @@ export default function HomeContent() {
                   <Database size={160} className="text-primary" />
                </div>
                <p className="text-2xl md:text-4xl text-foreground font-light leading-relaxed cinematic-text relative z-10 font-syne">
-                 18 ans de cuisine et 15 ans de logistique transmutés en <span className="text-primary font-black underline decoration-primary/30 underline-offset-8">Intelligence Artificielle.</span>
+                 18 ans de cuisine et 15 ans de logistique transmutés à <span className="text-primary font-black underline decoration-primary/30 underline-offset-8">l'analyse de données et au développement d'agents IA.</span>
                </p>
                <p className="text-lg text-muted-foreground leading-relaxed font-medium font-sans">
                  Je ne viens pas du monde du développement web classique. Mon parcours s&apos;est forgé sur le terrain : 18 années d&apos;expérience dans la cuisine/restauration et 15 années dans la logistique de distribution, l&apos;optimisation de flux et la gestion de crise. Aujourd&apos;hui, j&apos;allie cette compréhension intime des processus réels aux technologies de demain pour créer des solutions IA et Big Data résilientes.
