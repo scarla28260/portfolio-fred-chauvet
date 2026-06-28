@@ -312,11 +312,11 @@
 
 @layer base {
   :root {
-    --background: 222 58% 10%;   /* Navy profond #0b1628 */
-    --foreground: 210 40% 98%;   /* Blanc/gris clair */
-    --card: 222 58% 10%;         /* Navy profond #0b1628 */
+    --background: 222 47% 5%;    /* Deepest Navy / Black */
+    --foreground: 210 40% 98%;
+    --card: 222 47% 5%;
     --card-foreground: 210 40% 98%;
-    --popover: 222 58% 10%;
+    --popover: 222 47% 5%;
     --popover-foreground: 210 40% 98%;
     --primary: 43 74% 49%;       /* Aura Gold #D4AF37 */
     --primary-foreground: 222 58% 10%;

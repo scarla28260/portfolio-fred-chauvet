@@ -9,6 +9,8 @@ import {
 import TextReveal from "@/components/animations/TextReveal";
 import ScrollExpandMedia from "@/components/ui/scroll-expansion-hero";
 import CinematicVideoPlayer from "@/components/CinematicVideoPlayer";
+import AmbientParticles from "@/components/animations/AmbientParticles";
+import MagneticButton from "@/components/animations/MagneticButton";
 
 export default function HomeContent() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -16,7 +18,8 @@ export default function HomeContent() {
   return (
     <main ref={containerRef} className="relative bg-background noise-panel text-foreground selection:bg-aura-gold/20 selection:text-aura-gold-light antialiased overflow-x-hidden">
       
-      {/* ── AMBIENT DECORATIONS & LIGHTING (Luxe Classique) ── */}
+      {/* ── AMBIENT 3D BACKGROUND (Luxe/Tech) ── */}
+      <AmbientParticles />
       <div className="absolute top-1/4 left-1/4 w-[50%] h-[50%] bg-video-navy/10 blur-[150px] pointer-events-none z-0" />
       <div className="absolute bottom-1/4 right-1/4 w-[40%] h-[40%] bg-aura-gold/5 blur-[120px] pointer-events-none z-0" />
       
@@ -299,14 +302,11 @@ export default function HomeContent() {
                 Discutons de vos enjeux métiers. Je vous aide à construire des architectures de données fiables et des systèmes d'agents IA pour automatiser ce qui doit l'être.
               </p>
               <div className="pt-8">
-                <a 
-                  href="https://www.linkedin.com/in/fredchauvet" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary text-primary-foreground font-bold uppercase tracking-widest font-mono text-sm hover:scale-105 transition-transform duration-300 shadow-[0_0_40px_rgba(212,175,55,0.4)]"
-                >
-                  Me contacter sur LinkedIn
-                </a>
+                <MagneticButton href="https://www.linkedin.com/in/fredchauvet" className="group/btn relative">
+                  <span className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary text-primary-foreground font-bold uppercase tracking-widest font-mono text-sm hover:scale-[1.02] transition-transform duration-300 shadow-[0_0_40px_rgba(212,175,55,0.4)]">
+                    Me contacter sur LinkedIn
+                  </span>
+                </MagneticButton>
               </div>
             </div>
           </motion.div>

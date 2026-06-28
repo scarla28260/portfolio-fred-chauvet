@@ -1,0 +1,1263 @@
+noir sur blanc que tu travailles sur react et cetera mais tu pourrais peut-être
+commencer à faire flotter un ou deux logos de react avec nextjs pour qu'on
+comprenne tout de suite ta stack technique tu vois tu fais pas du WordPress tu
+vois on sait tout de suite que c'est tu es sur du react ça va permettre vraiment
+au recruteur de de de déjà bien comprendre bien CERN en fait ton profil et déjà
+de savoir qu'il est au bon endroit puisque c'est ce qui recherche quoi j'ai
+compris et le fait d'avoir le le petit setup là en 3D tu penses que c'est c'est
+pertinent ou pas alors ça c'est pareil tu vois l'approche que tu as c'est de de
+de mettre ton setup alors du coup moi je veux bien que tu me donnes aussi ton
+ton retour tu vois parce que moi c'est vrai que j'ai des idées mais pourquoi du
+coup tu as décidé de mettre ton setup qu'est-ce qui t'a éclairé sur ça tu vois
+quels sont les choix que tu as fait à ce niveau-là non alors comme je te disais
+c'est un design que j'ai repris ça veut dire ce setup il était déjà existant
+quoi d'c donc tu' ça marche bien en fait oua voilà j'ai repris le design donc
+j'ai repris le setup tu vois mais c'est vrai que il y a a quelque chose enfin
+c'est de la 3D donc déjà ça prend du temps à télécharger et donc toi tu me
+parles souvent que quand quand un site il faut faut être réactif quoi il faut
+être il faut donner le maximum d'information dans le dans le minimum de temps on
+va dire donc là avec avec la 3D en hos c'est vrai que c'est par qui est le plus
+pertinent quoi ouais alors souvent euh moi je vois souvent des développeurs en
+fait qui cherchent à faire des trucs ultra technique sur leur portfolio parce
+qu'ils se disent plus je vais être technique et euh plus bah je vais montrer ce
+que je suis capable de faire et en fait encore une fois moi ce que je propose
+c'est une approche complètement différente c'est-à-dire que le comme je le
+disais tout à l'heure la personne qui te recrute elle elle va te demander de
+faire quoi elle va te demander de créer une application elle va te demander
+d'intégrer des maquettes elle va te demander de tu vois de de de de de créer de
+l'interaction avec son utilisateur en fait elle va te demander de créer de Luix
+en fait tu vois et ben l'objectif c'est de lui montrer que tu es capable de te
+vendre et donc pour moi je vois le portfolio pas comme justement un un espace où
+je peux mettre toutes mes créations un peu farfelu et cetera mais plutôt
+concentrer la façon que j'ai de travailler pour qu'elle ressemble au maximum à
+ce qu' va avoir besoin parce que du coup il y a il y a rien de plus vendeur que
+d'atterrir sur un sur un site qui comporte en en fait déjà 90 % des notions de
+choses que je vais avoir besoin de demander tu vois de de faire donc par exemple
+si je suis si je suis capable de voir que tu es capable de déclencher des bons
+co to action que tu es capable de déclencher des modales que l'intégration elle
+est belle que il y a pas de problème euh particulier de voilà de comme tu disais
+de poids par rapport à l'affichage de ta page et cetera B plus tu vas être dans
+cette force là et plus la personne en fait sais c'est c'est vraiment un message
+subliminal que tu envoies c'est-à-dire que la personne ne va pas le le remarquer
+d'un premier coup d'œil comme ça mais elle va juste se rendre compte qu'en fait
+tu as les compétences qu'elle va avoir besoin parce qu'encore une fois le
+premier problème des recruteurs c'est d'avoir à recruter des gens qui sont pas
+compétents des gens qui sont pas forcément très bons donc du coup leur problème
+à eux c'est quoi c'est qu'ils ont un budget on leur donne un budget et on leur
+dit voilà il faut mettre trois il faut recruter trois deux ou trois nouveaux
+développeurs sur la mission donc eux ils ont un budget ils savent à peu près
+quel TJM ils doivent aller chercher et leur objectif c'est d'aller chercher
+celui qui correspond le plus à leur profil et ce qu'ils veulent surtout pas bah
+c'est se planter en fait donc si toi tu arrives à leur dire quand ils arrivent
+sur ton espace bah que tu vas être capable de faire 90 % de ce qu'ils vont te
+demander de faire bah pour toi c'est déjà gagné en fait ils ont même pas le
+temps ils ont même ils ont même pas le besoin d'aller voir ta façon de coder ou
+d'aller voir en en précision ton code et cetera ça c'est quelque chose qui
+viendra par la suite quand tu rentreras dans la mission finalement mais d'un
+premier coup d'œil il faut qu'ils arrivent à voir que tu vas être capable de
+faire ce qu'ils vont te demander tu vois donc du coup il faut insister un petit
+peu plus sur sur l'aspect euh commerce en fait tu vois tu vois plutôt voir ton
+portfolio comme un tunnel de vente exactement ce que tu vas faire pour eux
+c'est-à-dire un tunnel de vente pour que les gens s'inscrivent et payent leur
+abonnement sur leur SAS ou tu vois sur leurs produits donc c'est vraiment il
+faut que tu arrives à rester à rester naturel et à rester dans la dans leur
+tendance pour que justement ils aient tout de suite l'impression que tu vas être
+capable de faire le le travail qu'ils vont te demander en fait tu vois de
+manière un petit peu subliminale et là où finalement bah le le le setup moi je
+trouve que c'est super par contre ça identifie peut-être un petit peu trop ton
+style on est en plus sur un style un peu gaming tu vois puisque du coup il y a
+des couleurs et cetera donc moi je suis carrément raccord avec toi c'est-à-dire
+que d'un point de vue du design et tout je trouve que ça apporte beaucoup à la
+page mais dans un portfolio de développeur moi je pense que si tu mettais ta
+photo tu te mettrais beaucoup plus en avant parce qu'il y a une deuxième chose
+qui va rentrer en ligne de compte pour le recruteur c'est tu sais dans la vente
+en fait il faut que les gens aient confiance en toi parce que pour vendre il
+faut que il y ait un minimum de confiance qui soit transmise si les gens n'ont
+pas ton visage donc là c'est le cas sur ce projet là on te voit vraiment pas don
+donc on n'est pas trop capable de discerner en plus je vois que làhaut on a le
+le logo un peu de la société mais du coup tu tu tu tu mets un logo mcodeer du
+coup on a jamais le visuel de ton visage et cetera et du coup c'est super dur au
+au recruteur de se faire une idée de la personne avec qui vont travailler et ça
+c'est hyper important le fait de pouvoir donner confiance donc tu vois le le
+fait de supprimer le setup et de venir mettre plutôt une photo alors après ça va
+peut-être perturber un petit peu l'affichage mais à toi de revoir un petit peu
+l'affichage la façon dont tu te en avant et cetera mais le fait de supprimer le
+setup et de plutôt valoriser ton image personnelle ça va apporter énormément de
+valeur à ton à ton portfolio c'estàd qu'en un seul clin d'œil en un seul coup
+d'œil pardon les gens ils vont avoir l'information de ce que tu fais avec
+précision et enfin ce que tu vas faire pour eux parce que quand tu dis je
+développe des interfaces utilisateur application et sititees web ça te permet
+vraiment de mettre en avant ce que tu vas leur faire tu vois ce que tu ce que tu
+vas leur apporter comme valeur le fait de mettre ta stack technique en avant ça
+va leur permettre de tout de suite comprendre que tu travailles dans tel et tel
+stack et donc que ça ça correspond bien à ce qu'il recherche et le fait de
+mettre ton ta photo en avant déjà tu vas moins alourdir le poids de ton projet
+mais en plus de ça ça va permettre de renforcer la confiance que que que va
+avoir la personne pour consulter ton espace quoi ouais je voir donc en fait
+ouais c'est en fait après il faut mettre toi toi tu dirais plutôt en fait
+d'essayer de se vendre soi-même quoi que d'essayer en fait il faut vraiment
+ouais il faut vraiment que tu vois ton portfolio comme la vente d'un produit
+sauf que le produit c'est toi en fait j'irais même jusqu'à dire à chaque fois
+que tu crées quelque chose tu te poses la question de est-ce que ça apporte de
+la valeur ou pas ici ça apporte une valeur quand même hein ça apporte la valeur
+graphique le fait d'avoir le setup ça a une valeur graphique mais est-ce que ça
+apporte de la valeur à ton recruteur bah non pas forcément d'ailleurs si tu vas
+plus en avant de ça je serais même euh à deux doigts de te dire que le recruteur
+il a moins envie de voir ton setup même si c'est forcément là c'est pour le coup
+c'est pas le tien mais il a moins envie de voir ton setup mais il a plutôt envie
+de voir à quoi tu ressembles en fait c'est important pour lui et tu lui donnes
+pas donc non seulement tu lui donnes quelque chose qui est différent de ce qu'il
+pourrait attendre mais en plus de ça tu donnes quelque chose qui n'a pas de sens
+pour lui alors que tu pourrais donner quelque chose qui a beaucoup de sens pour
+lui parce que ça t'aiderait en fait à être recruté ouais ok je vois ok h alors
+après on va descendre un petit peu on voit l'introduction aperçu et là on voit
+un super texte en plus bénéficiant d'une expertise en développement logiciel je
+maétrise type script et JavaScript ainsi que des framework tels que react et
+nextjs donc ça c'est très clair mon apprentissage rapide et ma collaboration
+étroite avec les clients me permettent de concevoir des solution efficace
+évolutive et conviviale pour résoudre des problèmes concrets travaillons
+ensemble pour pour concrétiser vos idées bah ça c'est génial tu vois ça c'est
+génial parce qu'ici on arrive à voir en tout cas discerner un point qui est
+fondamental c'est que tu es bon communiquant et bah moi pour le coup j'ai
+travaillé avec toi euh je sais que tu es bon communiquant et ça faut que tu le
+mettes en avant et si tu arrives à le mettre en avant sur ton portfolio avant
+qu'on t' contacté je peux te garantir que tu marques des points parce que le
+point numéro 2 après avoir eu confiance plus ou moins aux compétences et au
+profil du développeur donc au moment où on va rentrer en contact avec lui la
+première chose qu'on va chercher à identifier c'est pas si c'est un bon
+développeur et s'il code bien c'est est-ce qu'il est capable de communiquer
+parce que comme tu l'as précisément dit tout à l'heure un développeur il peut
+être très bon dans son domaine et arriver sur une application complexe avec une
+stack un petit peu particulière et rencontrer des difficultés d'accord c'est pas
+c'est pas c'est pas anodin d'avoir difficultés tout le monde en a et quand tu
+arrives sur un projet en général tu as une étape tu as une phase downboarding
+dans laquelle on va essayer de de t'expliquer un petit peu les choix qu'on a
+fait au niveau de la stack d'accord on va essayer de t'introduire dans le projet
+mais on le sait le projet notre application web elle est pas forcément très
+facile à aborder donc on va essayer de de t'intégrer à notre projet de la
+meilleure façon qu'il soit et finalement ce qui est important c'est pas que tu
+sois le super meilleur développeur tu vois numéro 1 du monde mais plutôt
+l'approche que tu vas avoir de communiquer parce qu'en fait si tu es un très bon
+développeur mais que tu es incapable de synthétiser tes erreurs tes problèmes ce
+que tu as fait dans la semaine et cetera ben ça va être très compliqué de bosser
+avec toi donc si tu es bon communiquant tu marques déjà un super point avant
+même qu'on ait analysé tes compétences de développeur ben déjà on est on a une
+information sur le fait que tu es bon communicant que tu sais synthétiser un
+petit peu ce que tu sais faire ce que tu peux proposer et ça ça ça c'est
+forcément bénéfique vois après dans le dans le dans le Web dans une interface
+web tu es pas sans savoir que les gens en fait ne lissent pas les informations
+telles que tu vas les les les rédiger sur ton site c'est-à-dire que si tu mets
+une information puis ensuite un deuxième titre puis ensuite un troè titre les
+gens ne vont pas nécessairement voir le premier le deuxè puis le 3oème ils vont
+le voir en fonction de la façon dont tu as eu de synthétiser ton texte par
+exemple la première chose qu'ils vont voir ici c'est pas introduction ni le
+paragraphe c'est aperçu tu es d'accord avec moi ou pas ouais c'est vrai et en
+général ils vont voir aperçu puis ensuite introduction puis ensuite ils vont
+voir le paragraphe donc ça dépend un petit peu la façon dont tu as dessiné le
+truc mais en tout cas là ici tu as mis beaucoup d'importance sur la notion de
+aperçu et ben ça pareil c'est euh un petit peu de la place et du temps de gâcher
+parce que finalement euh je pense que tu pourrais corriger ton texte euh aperçu
+pour qu'il reflète entre guillemets ce que tu vas mettre dans ton paragraphe un
+petit peu plus loin tu vois un petit peu plus bas parce que finalement ici tu
+vas tu vas t'organiser euh tu vas essayer d'évoquer un petit peu euh ce que tu
+es capable de faire parce que du coup tu dis euh tu vas tu vas tu vas tu vas
+faire bénéficier au recruteur de de ton exper dans développement logiciel puis
+plus bas tu expliques avec les petites cardes que tu que tu es dans le secteur
+du développement web dans le développement Frontin dans le développeur dans le
+développement backend et que tu as aussi une casquette une appétence en tout cas
+en nia donc ici le fait de changer aperçu et de trouver un texte peut-être qui
+est plus en adéquation avec ce qu' pourrait avoir envie d'entendre bah là c'est
+intéressant par exemple ici un truc qui me saute aux yeux mais moi j'ai pas
+forcément d'inspiration si tu veux au moment où où je te parle mais ce qui est
+intéressant de retenir finalement c'est que ici tu es en train de parler de ton
+expertise et finalement qu'est-ce que tu es en train de dire avec ces quatre
+cardes ici bah c'est que tu es un développeur web tu fais aussi du Frontin tu
+fais aussi du backend et tu as des notions d'IA donc peut-être que tu pourrais
+trouver un titre beaucoup plus riche que aperçu pour dire à la personne que en
+fait tu fais pas que du front tu vois tu es plutôt orienté full stack en réalité
+et toi tu verrais plus un de full stack mais après ça serait un peu un peu
+bizarre après non je mettrais peut-être ouais ça serait bizarre d'accord avec
+toi le fait de dire de donner cette information ici c'est pas forcément la
+meilleure mais par exemple tu tu pourrais dire B j'ai pas comme je te dis j'ai
+pas trop d'inspiration pour le coup mais tu pourrais dire quelque chose comme
+euh j'ai j'ai plusieurs niveaux d'expertise voilà c'est pas super propre c'est
+pas plus beau tu peux largement trouver mieux mais en fait dans l'état d'esprit
+ce que je te donne en fait ici comme feedback c'est que il faut que tu donnes un
+titre qui reflète ce que tu es en train de dire précisément alors que aperçu ça
+reflète rien en fait on comprend rien et pourtant c'est le premier la première
+chose qu'on va lire et c'est pas assez efficace en fait essaie de donner de
+l'efficacité à ton titre en disant que finalement en disant ce que tu as envie
+de dire parce qu'ici c'est c'est à toi de de communiquer mais l'objectif ici
+pour toi c'est de dire que tu as une finalement tu as multiasquette non c'est ça
+que tu essayes de dire quand tu dis que tu es développeur web frontend backend
+ila tu as juste envie de dire moi je suis pas juste frontend en fait je fais
+plusieurs choses d'ailleurs quelqu'un euh qui aurait besoin de toi sur un projet
+backend il pourrait être à ce stade de la lecture de ton portfolio et commencer
+à se dire ok bah j'ai peut-être je tiens peut-être mon développeur front et
+arriver ici de se dire ou là mais attends en fait c'est un coup je tiens mon
+développeur front et mon développeur back je vais tu vois je vais aller
+approfondir je vais voir s'il a les compétences et tout et peut-être qu'en fait
+avec un seul mec je tiens déjà la personne que je recherche parce que j'en
+recherchais deux en réalité peut-être que tu marques des points ici ben du coup
+c'est ça serait super intéressant de transformer ces points tu vois dans le
+titre à ce niveau-là tu vois le wording en fait est toujours important quel est
+la valeur ajoutée de ton paragraphe elle est très claire par contre quelle est
+la valeur ajoutée à aperçu elle est très pauvre tu vois et pourtant tu peux
+faire beaucoup mieux et comme tu es dans un composant où tu parles de
+développeur web tu dis que tu as d'autres compétences d'autres capacités là si
+tu pourrait appuyer sur le titre parce qu'en fait ça nous permettrait de un
+commencer à comprendre que tu développes des interfaces utilisateur et cetera
+que tu travailles avec Ract on pourrait voir on pourrait te voir t'identifier
+via ta photo et puis en numéro 2 BIM on arrive tout de suite sur le fait qu'en
+plus de ça tu as multicompéten tu as d'autres compétences il y a d'autres choses
+que tu fais et tuen parles ici VO donc ici à ce niveau moi je changerai le titre
+et le et le sous-titre on va dire pas le sous-titre parce qu'il est audessus
+mais mais le introduction ouais tu l'aurais tu l'aurais ça c'est cool non non
+ben ça c'est cool moi j'aime bien ce genre de chos je je fais aussi ça après
+c'est c'est personnel tu vois il y en a qui aimeront il y en a qui aimeront pas
+moi j'aime bien ce genre de truc parce que ça te met un peu dans le contexte
+mais comme je t'ai dit ce qui est important de retenir c'est qu'en fait le
+regard il va il va se balayer en fait il va ils vont voir aperçu ensuite ils
+vont voir Introduction et ensuite ils vont voir le paragraphe parce que le
+l'humain a pas trop envie de lire d'ailleurs les 3/4 du temps il faut faut le
+retenir quand même les 3/4 du temps c'est toujours pareil les gens ne lisent pas
+tout tout et comme ils lisent pas tout il faut que tu donnes les informations au
+maximum donc si ton titre aperçu il synthétise un maximum le paragraphe qui a
+juste en dessous bah peut-être que celui qui va pas lire le paragraphe bah il
+aura pas les informations détaillées par contre si tu l'as bien synthétisé sur
+le titre aperçu ça par contre tu peux être sûr que lui il l'aura vu du coup tu
+peux être sûr que la majeure partie des gens qui vont regarder ton portfolio ils
+auront compris que tu es multicasquette en fait et que tu as d'autres avantages
+tu vois moi par exemple je pourrais indiquer que je suis un développeur qui a
+une méga méga méga appétence pour le design parce que c'est quelque chose qui me
+fait remporter énormément de marché c'est quelque chose sur lequel les les les
+recruteurs ils insistent beaucoup à chaque fois sur mon profil moi je le mettrai
+tout de suite en avant tu vois en disant que moi ma casquette c'est c'est pas
+que développeur c'est aussi luux l'approche que j'ai les conseils que je peux
+donner sur sur de la sur sur du design du design système des choses comme ça
+quoi tu comprends ouais bien sûr après moi j'avais une petite question
+concernant les quatre petites cardes c'est que je comprends développeur frontend
+backend et Ia par contre je comprends pas trop développeur web c'est c'est j'ai
+l'impression que c'est c'est un peu répétitif ouais c'est un peu répétitif ouis
+mais CIT l'histoire d'avoir tu sais les quatre cartes comme ça pour un peu pour
+avoir un truc bien rempli j'aurais pu faire trois cartes au milieu mais c'est
+enfin je trouve que c'était plus joli comme ça avec les les quatre quatre cartes
+comme ça qui soi bien bien aligné comme ça c'est vrai que l'information elle est
+un peu super enfin un peu ouais en trop quoi ouais mais c'est hyper intéressant
+ce que tu dis parce que on est tous dans ce cas-là je suis sûr qu'il y a plein
+mecs qui regardent la vidéo qui vont se retrouver là-dedans moi le premier c'est
+que à un moment donné la partie design la partie graphisme elle prend le dessus
+sur le message que je veux transmettre et là ici je suis d'accord avec toi
+quatre carts c'est pas trois cards et trois carts ça aurait fait une différence
+d'un point de vue visuel je suis complètement d'accord avec toi moi à ta place
+j'essaierai de trouver un point euh qui se dégage de ton profil et je le mettrai
+en avant et plutôt que de dire que tu es développeur web parce que ça finalement
+on le sait euh essaie de trouver une casquette qui t'appartient alors ici tu as
+tu as évoqué plutôt des secteurs d'activité parce que développeur frontaine
+c'est plutôt un secteur donc tu vas difficilement pouvoir dire par exemple bon
+communiquant tu vois ce serait dommage tua un truc un peu bizarre mais peut-être
+que tu peux reprendre les quatre titres pour synthétiser par exemple tes quatre
+compétences et dans les quatre compétences on retrouverait le fait que tu es
+développeur frontaine même si tu l'écrirais pas noir sur blanc développeur
+Frontin tu tu vois on retrouverait cet aspect front-end cet aspect backend cet
+aspect développeur Ia mais il y aurait aussi un 4è point qui viendrait qui
+viendrait justement encourager le recruteur à se dire que tu es la bonne
+personne pour travailler avec toi tu vois après des des des choses qui sont
+intéressantes c'est toujours pareil il suffit simplement de se mettre dans la
+peau du recruteur et qu'est-ce que le recruteur il a pas envie de il a pas envie
+d'avoir c'est un développeur qui communique mal un développeur qui est qui est
+peut-être qui a ben pas assez d'expérience donc toi tu vois tu peux mettre en
+place en un petit point supplémentaire qui va venir apporter encore plus de
+valeur donc tu vois peut-être ça vaut le coup de changer les noms même si moi
+j'aime bien le fait que tu es marqué développeur Frontin back et cetera après ça
+apporte pas une valeur inestimable donc peut-être tu peux approfondir ça et en
+changeant le wording développur frontend développeur backend développur bah
+peut-être tu vas trouver finalement un 4è skills qui pourra qui pourra donner un
+peu plus de richesse tu vois au composants quoi ouais je vois de cette manière
+tu marques encore tu marques encore plus de points parce que il faut te dire que
+non seulement là la personne quand elle arrive ici moi c'est mon cas je te le
+dis très honnêtement quand la personne elle arrive ici c'est très propre tu vois
+c'est St j'aime bien pour moi c'est qu'une histoire de message en fait donc si
+tu arrives à corriger ton message tu marques grave des points sans faire de de
+modification d'un point de vue du code finalement tu vois c'est juste le temps
+de de se demander comment est-ce que je vais synthétiser le titre de ce
+composant pour qu'il reflète bien le message que je veux passer pour que tout le
+monde l'aiit et comment est-ce que je vais définir plutôt mes mes multiples
+casquettes pour qu'on comprenne que je suis pas qu'un développeur frontaine et
+que du coup tu marques des points avec ça en fait j'ai compris et si je mettais
+full stack ça aurait été mieux ou pas forcément c'est trop répétitif parce que
+frontend backend et full stack ça fait un peu un peu lourd bah c'est ça c'est ça
+c'est que le le le développeur full stack forcément bah c'est quelqueun qui qui
+a toutes les appéttences après moi je préfère te le dire je préfère être très
+honnête avec toi le développeur full stack c'est vraiment un terme que je
+déteste utiliser parce qu'en fait un un full stack c'est j'espère qu'il y en a
+plein qui sont sont d'accord avec moi mais un développeur full stack en fait
+c'est un c'est un dieu d'accord c'est un dieu vivant parce qu'en fait
+développeur full stack en 2023 c'est c'est c'est du costaud parce que avec
+toutes les stacks qui existent tout tout ce qui existe dans le développement
+aujourd'hui c'est plus c'est plus comme il y a 10 ans tu vois donc développeur
+full stack honnêtement moi je dis que c'est une mode et qu'il faut éviter de le
+le le donner celui-là parce qu'en réalité un développeur full stack c'est
+quelqu'un qui maîtrise autant le front que le bac mais de manière parfaite donc
+tu vois c'est le de manières parfaite qui souvent il est il est occulté euh
+d'ailleurs c'est tu vois des fois on voit des formations développeur full stack
+en 6 mois B ouis ouais c'est S ou tu dis tu comment c'est possible c'est pas
+possible donc moi moi je mettrai pas développeur full stack sachant qu'en plus
+de ça tu l'as bien fait remarquer ça viendrait en contradiction avec le fait de
+d'êre frontend et backend moi je je je je chercherais à définir mes compétences
+euh mes skills mais tu sais les skills c'est pas juste tu sais faire du nextgest
+tu vois ça c'est un skills mais mais pas que ça en fait tu vois comme je te
+disais le fait d'être bon communicquant c'est une valeur que tu vas pouvoir
+ajouter donc peut-être il faut que tu redéfinisses un petit peu ça pour qu'on
+qu'on a on ait compris le même message le fait que tu saches faire du backend du
+frontend ou de Lia mais qu'on ait aussi tu vois des des compétences qui
+pourraent être intéressant d'un point de vue du recruteur en fait des choses qui
+pourraent être intéressante pour lui en fait parce que je vais te dire je va te
+faire une confidence développeur il a par exemple la vérité ça c'est un peu
+c'était un peu un titre accrocheur tu vois parce que je sais qu'en ce moment l
+tout le monde en parle et j'ai fait deux trois projets où j'aiutilisé de Lia
+donc donc donc j'ai mis développeur tu vois c'est un peu pour accrocher tu vois
+bah en fait c'est un peu l'origine de mon hypothèse c'est que ici si tu veux euh
+l'objectif pour toi c'est de donner les clés de ton profil pour qu'on arrive à
+identifier que tu es la bonne personne sur ce projet làà et et sans doute que
+mettre que tu es développeur backend alors que finalement tu fais un tout petit
+peu de bag vite fait de temps en temps tu as créé une API ou un truc comme ça et
+ben c'est pas forcément la meilleure approche en tout cas encore une fois c'est
+pas la meilleure valeur que tu vas apporter à ton à ton recruteur parce que
+recruteur par exemple s'il vient chercher parce qu'il a besoin d'un développeur
+fontaine potentiellement lui que tu sois bend ou que tu es fait de l'a il s'en
+fout ou de l'électron s'en fout complètement finalement lui c'est pas trop sa c
+finalement lui il va juste de demander d'être développeur fontaine donc
+finalement tu lui apportes pas de valeur par contre si tu commences à lui dire
+que alors je te dis n'importe quoi ça correspond peut-être pas forcément à ton
+profil mais si tu commences à lui dire que tu es bon communiquant que tu as une
+casquette graphique que tu parles quatre langues et que tu es spécialisé dans le
+secteur bancaire bah peut-être que là par contre tu lui apportes grave de la
+valeur tu vois hm je vois tu comprends et donc du coup peut-être que il faudrait
+que tu revois tes cardes euh pour qu'elle colle peut-être un peu plus d'accord
+exactement des skills peut-être qu' seraient plus personnels alors après tu
+pourrais faire autre chose mais j'ai vu que tu l'avais fait plus bas donc on va
+éviter de se mélanger mais par exemple si euh tu as une stack technique de
+prédilection par exemple react hallown firebase nextjs tu pourrais les mettre et
+là quand on arrive ici on se dit ok le gars il est spécialisé dans ma STAC c'est
+exactement ce que je recherche c'est un mec qui est spécialisé maintenant mets-
+toi aussi dans la peau du recruteur imagine que tu arrives sur un projet tu
+cherches un dev qui soit sur du react du next et du firebase tu vois c'est
+vraiment ton projet c'est ton application c'est ta stack technique donc tu
+recherches un développeur qui travaille là-dedans et imagine que tu arrives sur
+un portfolio d'un mec qui fait du VJs du angular du PHP sais tu vas te dire le
+mec soit il sait tout faire donc il est full sac soit il fait beaucoup de choses
+mais il maîtrise pas tout tu vois is c'est un coup je vais le mettre sur mon
+projet parce qu'il m'a marqué qu'il était développeur react c'est un coup je
+vais le mettre sur mon projet puis en fait il va me dire ouais mais moi ça fait
+3 ans j'ai pas fait de react ah ouais et ça va être bizarre en fait et et
+souvent moi c'est souvent ce que je dis en tout cas moi quand je recrute
+quelqu'un c'est souvent ce que je dis c'est je cherche en fait des gens qui sont
+comment on dit qui sont techniques dans un domaine en fait en particulier tu si
+par exemple je prends un coach de sport tu vois moi je fais de la boxe par
+exemple si je prends un coach de sport je vais pas aller prendre un mec qui soit
+spécialisé dans la course à pied tu vois je vais prendre un mec qui soit
+spécialisé dans mon sport parce que j'ai envie de bosser mon cardio en boxe tu
+tu comprends ce que je veux dire donc je préfère aller chercher quelqu'un qui
+est spécifique à un domaine en tout cas moi je trouve que ça apporte beaucoup
+plus de valeur et dans dans nos métiers étant donné que le développement web
+c'est déjà ultra large dans nos métiers il y a beaucoup de compétences beaucoup
+de stack technique et cetera et je pense que tu as pas envie en tant que
+recruteur d'aller t'écarter sur des sur des sur des mecs qui sont multifonction
+tu as plutôt envie de prendre quelqu'un qui est spécialisé Dansel quelque chose
+et finalement toi c'est un petit peu ce que tu fais donc je pense que si tu
+arrives à axer soit sur la notion de spécialité fixe parce que finalement tu
+l'as dit tout à l'heure imagine que le mec il te contacte puis qu' disent ah bah
+tiens j'ai un projet avec de Lia et cetera et qui et qui te balance un pitch de
+projet euh qui va qui va te [&nbsp;__&nbsp;] le vertige parce que tu vas dire
+attends je suis incapable de faire 99 % de ce qu' m'a demandé finalement tu
+auras eu un contact tu auras perdu du temps en réunion avec quelqu'un qui au
+final va te dire bon bah tu es tu as pas tu as pas les compétences que je
+recherche on se quitte dès maintenant tu vois ça sera pas un échec pour toi mais
+par contre tu auras perdu du temps et lui aussi tu vois donc peut-être qu'il
+vaut mieux orienter ton discours sur des choses qui sont importantes pour ton
+recruteur et comme je te l'ai dit un recruteur ce qu'il a surtout pas envie de
+d'avoir c'est des problèmes avec un développeur qui bah est trop junior par
+rapport à ce qu'il a dit euh ou alors qu' a pas de qui a pas de de bonne
+communication ou qui par exemple ne connaît pas trop les outils de repository de
+tu vois pour pour travailler en équipe et cetera c'est c'est de rencontrer ce
+genre de difficulté donc si toi tu arrives en disant que tu possèdes les bons
+skills qui vont lui permettre de travailler avec toi bah là tu le rassures tout
+de suite et ça sert à rien d'aller chercher des clients qui finalement vont pas
+travailler avec toi parce que le mec si lui il cherche un développeur spécialisé
+en nia quand il va tomber sur ton portfolio il va juste partir et c'est très
+bien pour toi parce que toi tu auras pas perdu de temps avec quelqu'un qui
+rechercher pas ton profil toi tu cherches à prendre la personne qui te qui te
+qui te cherche finalement et tu cherches à la séduire pour favoriser le contact
+parce que ton objectif c'est transformer la visite en un en un co que tu vas
+pouvoir passer avec lui pour te présenter et lui définir que tu es la bonne
+personne pour travailler avec toi et c'est là où tu vas pouvoir lui parler de
+tes projets tu vas pouvoir lui parler de tes compétences et c'est là où il doit
+retrouver à l'intérieur des informations que tu as mis dans ton dans ton
+portfolio donc moi je pense que à ta place j'xerai beaucoup plus mon discours
+sur des skills personnel qui vont marquer de plein fouis le le le recruteur j'en
+place une parce que je parle beaucoup mais j'en place une qui est vraiment
+importante c'est qu'il faut pas oublier que les recruteurs ils ont de
+l'expérience dans le recrutement et quand je dis de l'expérience c'est de la
+mauvaise expérience c'est-à-dire que les gens souvent ils vont vont te recruter
+toi ils vont t'appeler sur Malte par exemple ils vont dire bah salut Emmanuel on
+on sera intéressé par ton profil parce que on a besoin d'un nouveau développeur
+souvent un nouveau développeur ça se résume à on a perdu un développeur ou celui
+qu'on avait recruté il y a 3 semaines avant bah il faisait pas l'affaire donc
+toi tu sais pas tout ça toi toi tu arrives tu dis ok je vais travailler avec eux
+mais tu sais pas ce qu'il y a derrière et souvent il y a aussi des développeurs
+qui se sont ratés qui ont pas réussi à intégrer l'équipe correctement donc
+forcément le recruteur quand il va arriver sur ton profil bah il y a des petites
+choses qui va commencer à chercher à aller tu vois qui va commencer à à chercher
+à distinguer en fait il va commencer à voir si tu as pas les défauts des autres
+ceux qui sont partis qui ont pas fait l'affaire c'est très important pour lui
+donc si toi tu mets en avant des valeurs humaines tu marques forcément des
+points alors de toute façon faut faut en parler de ta STAC technique parce qu'on
+a dit que tu allais te spécialisé de toute façon tu en parles un peu plus bas
+mais je pense qu'ici il y a peut-être une carte à jouer à ce niveau-là j'ai
+compris après j'avais une question parce que comme par exemple toi tu m'as ditas
+tu as une forte appétence pour tout ce qui est design et tu es très bon dans lui
+lu x tu vois et tu m'as dit que c'était quand même important de le mettre en en
+avant alors je me je me demande est-ce que le fait que j'ai quelques notions
+dans le backend alors c'est vrai que je suis pas un développeur backend chevroné
+mais est-ce que ça peut aider tu vois parce que je sais pas peut-être que ça ça
+a l'avantage d'avoir un développeur frontain qui a des notions dans dans les
+bases de données dans dans les dans les apps à fond c'est un petit peu comme si
+par exemple tuétait en reconversion professionnelle je prends un exemple qui est
+concret et que juste avant de devenir développeur tu allais travailler dans un
+secteur bancaire et ben le fait de dire je suis en reconversion professionnelle
+c'est pas suffisant par contre si tu commences à dire je suis en reconversion
+professionnelle j'ai travaillé 10 ans dans un secteur bancaire et aujourd'hui je
+suis spécialisé en développement notamment dans le secteur bancaire tuapporte
+une valeur ajoutée de malade par rapport à quelqu'un qui a juste fait une
+reconversion professionnelle parce que finalement tu vas apporter à ton client
+en plus une expertise dans le le code métier en fait dans le métier de
+l'utilisateur donc si tu vas travailler sur une plateforme comme stripe par
+exemple tu vas développer des fonctionnalités eux ils vont tout de suite être
+euh attiré par le fait que tu es justement des notions bancaires et donc le fait
+de de dire par exemple voilà j'ai j'ai un niveau de bac qui est à ce niveau-là
+par exemple je suis pas bac mais j'ai un niveau de bac à ce niveau-là comme moi
+je pourrais être un bon web designer bonne infographiste dans le passé et cetera
+ça a une valeur méga ajoutée parce que ça veut dire que quand tu vas communiquer
+avec la partie bac et ben on va savoir que tout de suite on va se dire mais ok
+lui il va déjà avoir les notion il va il va être capable de s'exprimer parce
+qu'il connaît le métier il connaît la difficulté il sait ce qu'il y a derrière
+donc il av une meilleure approche avec l'équipe et cetera et donc forcément ça
+favorise à fond donc ça il faut surtout pas hésiter bien sûr d'accord donc ça
+serait bien de le mettre en valeur mais peut-être pas dans ces dans dans tes
+petites cartes là et ben moi j'ai l'habitude de dire que c'est une casquette tu
+sais je dis souvent bah moi j'ai double casquette tu vois en m et ça et je dis
+bah voilà moi j'ai casquette ça j'ai casquette ça et ça permet aux gens de dire
+bah voilà le gars il est il est compétent là-dedans voilà mais par contre tu es
+pas développeur backend et de toute façon on va pas te recruter pour ça par
+contre un développeur qui cherche un full stack parce que c'est un terme qui est
+beaucoup utilisé même en recrutement d'ailleurs bah lui il sera capable que tu
+fais du not JS et que du coup tu as une approche qu'il pourra te demander des
+choses et que toi tu pourras peut-être évoluer dans dans cet univers tu vois
+donc c'est super important bien sûr faut en parler c'est clair mais ce que je
+disais ici c'est que peut-être ça ça valait le coup d'être sur des compétences
+plus humaine plus que technique même si de toute façon technique il va falloir
+que Ten parle à un moment donné dans ton projet donc que tu le mettes ici ou que
+tu le mettes plus bas ça finalement ça a peu d'importance après faut voir sur
+quoi tu axes parce que comme en premier tu as accxès sur ta stack technique en
+deuxième tu axes sur des compét humaine moi je trouve que ça a beaucoup de
+valeur de faire ça et puis après tu peux détailler un peu plus bas on va en
+parler dans tes compétences ton expérience et là tu peux apporter d'autres
+choses j'ai compris moi j'ai un petit peut-être une petite recommandation à
+faire sur l'animation tu vois quand je la survolle tu vois au niveau des cardes
+là le petit côté 3D c'est super bien fait mais il y a un truc qui me dérange
+c'est quand je mets ma souris dessus il tac il apparaît tout de suite tu vois il
+y a pas de il y a pas d'animation progressive sur sur l'entrée en fait de
+l'animation moi moi je mettrai ça parce que tu vois c'est toujours pareil c'est
+des choses sur lesquelles ils sont hyper sensibles les recruteurs surtout ceux
+qui ont besoin de enfin surtout ceux qui savent où tu où ils vont te mettre
+après sur la mission parce que des fois il y a des clients qui vont te demander
+de faire un projet de A à Z qui veulent juste que tu les accompagnes qui veul
+juste que tu leur fasses confiance bon c'est ceux tu tu leur communiques mal ce
+genre d'information mais par contre quelqu'un qui a un peu plus de recul il va
+se dire tiens il a pas remarqué que c'était pas très joli et que c'était un peu
+chiant à utiliser ou pas très beau ou que c'était pas droit tu vois là il a pas
+remarqué que c'était un peu décalé ça me dérange parce que moi je l'ai remarqué
+et j'ai pas envie de lui faire remarquer tout le temps pendant le projet et
+encore une fois ils vont se mettre en porte à fau par rapport à ce qu'ils ont
+déjà vécu et peut-être qu'ils ont déjà vécu des scènes avec moi c'est le cas he
+je te le dis c'est vraiment j'ai déjà rencontré ce cas de figure où j'avais des
+clients qui me disait ah mais avec toi c'est tellement mieux c'est tellement
+plus simple parce que les développeurs qui étaient avant dès qu'on leur
+demandait un truc c'était chiant fallait nanani et donc tu vois si tu arrives
+comme ça avec une bonne approche et que et que c'est propre tu marques toujours
+des points donc ici tu vois par exemple le fait que ce soit sacadé bah moi ça me
+dérange donc je te fais le feedback est-ce que toi par exemple ça te ça te pose
+un problème est-ce que ça te gêne ou est-ce que tu dis non c'est cool comment tu
+voisuc ça me gène un peu après ça veut dire j'y porte pas trop d'importance
+parce que en fait tu vois je me dis mais mais tu as raison que ça ça peut ça
+peut me faire ça peut me jouer des tours quoi mais vrai qu' faudra faudrait que
+je que je modifie ce côtél là voilà c'était peut-être un truc qui était en natif
+dans le template tu vois mais le fait que ton œil t' dit tiens c'est un peu
+brutal tu vois prends direct le temps de le faire mais hésite même pas 0
+secondes prends direct le temps de le faire parce qu'en fait ton portfolio il
+doit pas être techniquement complexe ça sert à rien on est sur un portfolio
+d'accord tu vas pas faire une application web donc tu vas tu vas difficilement
+pouvoir montrer tes preuves tu vois sur un truc comme ça mais par contre tous
+les petits aspects les micro détails et cetera ça faut les faire à fond ouais je
+vois donc nésite pas à prendre le temps juste de corriger cette animation pour
+qu'en entrée on ait un truc un peu plus fluide et que ce soit pas ça CAD comme
+ça parce qu' après le reste c'est nickel et en plus ça apporte un peu de valeur
+donc c'est c'est plutôt cool de voir que tu es capable de faire des trucs comme
+ça donc là à ce niveau-là c'est 100 sur 100 faut juste corriger le petit détail
+d'entrée comme ça tu montres que tu as le souci du détail tu as le regard et
+cetera je vais voir ok je vois je vois ouais super après on a la partie euh mes
+compétences là expérience ici c'est une partie qui est qui est intéressante mais
+qui je trouve qu' prend beaucoup de place euh je sais pas ce que tu en penses
+euh ouais c'est vrai qu' le fait d'avoir représenté ça comme un timeline en fait
+c'est un peu pour pour qu'uivre mon évolution quoi mais euh parce qu'après j'ai
+un je sa pas je vais plus loin j'ai un j'ai une section projet où là il y a des
+il on va dire plusieurs projets ave des descriptions mais c'est vrai que c'est
+pas c'est quelque chose qu'on voit assez souvent dans les dans les portfolios
+cette timeline là avec des euh mais je crois même tu l'avais fait toi dans ton
+site non une timeline non euh j'ai j'ai une timeline ah non c'est pas d'accord
+en tout cas c'est un truc que j'ai que j'ai déjà vu dans plusieurs sites toi tu
+penses que c'est pas c'est pas c'est pas forcément la Meille chose à faire fr
+alors bah moi à ta place que qu'est-ce que je ferais je me poserai la question
+de la valeur que ça ajoute l'un des des l'une des premières chose qui me saute
+aux yeux qui apporte c'est le côté technique c'est moi je vois que tu fais ça je
+me dis bon le gars c'est pas Jo clodo tu vois il maîtrise quand même pas mal tu
+vois ce qu'il fait quoi donc c'est plutôt cool est-ce que c'est beau oui je
+trouve ça vraiment super joli après est-ce que ça prend de la place oui je
+trouve que ça prend beaucoup de place après est-ce que ça apporte beaucoup de
+valeur ou est-ce que ça dessert ça c'est la question qu'on va se poser et si par
+exemple je regarde tu as travaillé en avril 2022 je sais pas pourquoi tu as mis
+présent euh peut-être un oubli ou je sais pas non que je travaille encore dessus
+ça veut dire j'ai une maintenance dessus quoi ah tu commences à d'accord ok tu
+ok bah déjà c'est pas très clair mais tu vois le le fait de dire voilà j'ai
+travaillé en 2022 sur ça donc développeur électron ce que tu disais tout à
+l'heure et puis après en avril 2023 par contre là c'est avril de avril à août et
+puis après on voit mars 2023 donc on se dit tiens il y a des temps morts tu vois
+que dire ouais je vois avril mai juin juillet août après on se dit septembre
+octobre novembre décembre janvier février tu vois on essaie de calculer comme ça
+et on se rend compte que bah il y a il y a des temps morts il y a des trucs
+comme ça et donc qu'est-ce qu'on va se dire forcément on va se dire ben peut-
+être que finalement B moi quand je regarde ton expérience finalement c'est Mar
+j' même pas vu il y le projet qu'on a fait ensemble ouais quand quand je regarde
+ton expérience finalement je me dis bon ben il a fait un projet de projet tris
+projets qure projets c'est la première chose qui me vient en tête donc là tout
+de suite je me dis ok donc pas expé du tout tu comprends après c'est pas
+forcément des projets excuse-moi je t c'est plutôt par exemple devveloppeur stpy
+là j'ai travaillé peut-être qure ou C projets tu vois surap ouais c'est pour ça
+tu dis de la vraie ouais parce que en fait là je c'est des projets qui des
+projet client donc je peux donc en plus ils ont pas été terminés ça veut dire je
+me suis mis c'est des projets qui sont même pas encore certains qui sont même
+pas encore tu vois livré donc donc du coup tu vois c une façon de de mettre ça
+en valeur c'est c'est quelque chose que je pouvais pas ajouter dans dans la
+prochaine section la section projet donc voilà c'est un peu pour montrer un peu
+avec des des petites lignes comme ça on peut comprendre un peu ce que ce que
+j'ai pu faire après j'entends la remarque sur le sur le tu sais sur les dates là
+c'est vrai que c'est un petit peu c'est un petit peu le bazarre ouais peut-être
+peut-être finalement ça ça donne une approche finalement peut-être que la
+compréhension que j'ai eu est pas bonne mais peut-être que c'est celle qu'on
+comprend quand on parcourt le projet donc peut-être que le fait de mettre avril
+2022 et cetera bah peut-être c'est ça en fait qui va pas c'estàd que plutôt que
+d'avoir ça tu pourrais mettre je te dis n'importe quoi mais par exemple à côté
+de développeur électron plutôt que de mettre avril 2022 tu pourrais dire
+j'apprends le html css ensuite en étape 2 tu pourrais mettre j'apprends à
+utiliser react en projet numéro 3 et tu vois comme ça on voit les tâes je te dis
+n'importe quoi mais tu as comprisis une information ouais c'est plus qu'on ait
+l'impression de voir une timeline de ton parcours plutôt que de voir une
+représentation graphique de ce que tu aurais pu faire parce que finalement la
+première chose qui vient en tête c'est que du coup tu as pas beaucoup
+d'expérience alors qu'en plus de ça à l'intérieur il y a des projets qui que tu
+n'as même pas mis parce qu'en fait ils sont plus bas mais en tout cas du coup
+j'ai l'impression qu'en fait on perd la valeur peut-être que c'est juste la date
+et qu'il faudrait peut-être corriger ça et avoir peut-être une approche un peu
+plus un peu plus raisonné sur le parcours et moins sur sur une durée c'est peut-
+être le fait d'avoir fait une timeline avec des dates peut-être ça après peut-
+êre je pourrais faire une cohérence de date je pourrais un peu tricher sur les
+dates je sais pas pour que ce soit plus cohérent mais ouais mais après quand
+même pour moi c'était important de montrer avecfin avec ces projets là que c'est
+tous des projets que j'ai eu avec des clients des vrais clients tu vois donc là
+développeur électron c'était avec un vrai client stpist avec plusieurs clients
+le développeur full stack aussi là c'était avec céit avec tu vois c'est c'est
+après dans les projets il y en a que c'est tu verras il y en a que c'est des
+proj jet personnel il y en a que c'est des extensions il des trucs comme ça tu
+vois et donc pour moi cé important genre de de de de en fait de mettre de
+prouver un peu tu vois que il y a il y a eu une approche avec des clients il y a
+quelque chose de concret déjà qui qui s'est passé tu vois ouais ben justement
+c'est c'est pour ça c'est que du coup la première chose que que vont se dire les
+les recruteurs c'est bah pourquoi il a pas travaillé de temps à temps ouais
+c'est ça c'est les dates c'est les dates qui posent problème tu dis ouais c'est
+les dates je pense parce qu'en fait ça fait peur ça fait peur au clients je je
+te dis ça mais c'est un retour d'expérience que j'ai eu c'est un client qui m'a
+dit ah bah tiens donc en plus il m'avait déjà recruté mais c'est juste mais
+justement ça ça m'a frappé parce que ça montrait qu'en fait c'est quelque chose
+qui était resté dans sa tête et il m'avait dit un petit peu après une fois que
+j'étais sur la mission et il m'avait demandé justement pourquoi il y avait eu un
+trou euh sur mon donc CIT sur malt en fait sur mon expérience Malte et je lui
+avais dit mais en fait non il y a pas eu de trou c'est juste que j'ai pas eu le
+temps de compléter en fait je travaille en permanence et j'ai pas le temps de
+mettre à jour mon portfolio les trucs comme ça céit vraiment juste ça et ben lui
+si tu veux ça l'avait impacté il s'était dit est-ce que je le contacte est-ce
+que je le contacte pas parce que c'est un coup s'il a pas travaillé pendant 6
+mois 7 mois 1 an c'est peut-être que tu vois il y a un souci et cetera pareil si
+tu mets des missions euh où chacune de tes si tu fais une timeline il faut faire
+attention en fait c'est ça que je voulais te dire c'est que si tu fais une
+timeline où tu mets tes missions c'est par exemple tu as fait 10 mission et qu'à
+chaque fois tu as travaillé un mois bah lui il va être susceptible de se dire
+attends pourquoi à chaque fois il part de la mission au bout d'un mois parce que
+tu sais des développeurs enfin moi par exemple là je suis en mission depuis
+bientôt un an et demi on est en train de reconduire la mission on sait pas trop
+où on va mais c'est un coup on va repartir sur une année tu vois c'est c'est des
+missions super longues donc du coup tu te dis mais si le mec il fait que un mois
+dans les entreprises est-ce que c'est pas un un signal tu vois et c'est comme ça
+qui réfléchissent encore une fois moi je t'invite en fait à réfléchir comme un
+recruteur c'est ça qui est important c'est ce qu'on fait justement dans dans
+cette vidéo là c'est c'est justement avoir une approche recruteur pour éviter de
+se desservir et le fait de mettre une timeline c'est dangereux moi par exemple
+si je commençais à mettre une timeline je mettrais que je suis travaillé en 2020
+avec un projet et je mettrais qu'en 2023 je suis passé à un autre projet et
+qu'en fait j'ai travaillé de 2020 à 2023 là par contre ça m'apporterait
+énormément de valeur parce que le client derrière dirait ok c'est un développeur
+qui est capable de rester longtemps sur une mission donc ça veut dire qu'on lui
+a fait confiance et puis plus bas on verrait les projets et on verrait ce que
+j'ai fait en 2023 et on irait voir le projet et on se dirait ah ouais le projet
+était gros ok donc il a travaillé avec eux et on recollerait les morceaux tu
+comprends j'ai compris donc peut-être que faut faire attention surtout à un
+stade où tu es alors pas junior mais un stade où tu démarres ça veut forcément
+dire qu'il te manque des expériences qu'il y a des trou dans ton truc et peut-
+être que mettre en avant ça c'est pas forcément la meilleure approche je
+comprends je comprends complètement l'approche que tu as eu mais peut-être qu'il
+faudrait il faudrait peut-être faire attention de pas se desservir avec ça et
+peut-être apporter quelques petites améliorations tu vois comme par exemple
+Justus corriger la date pour essayer de trouver un autre angle tu vois mais un
+angle qui te desservirait pas tu vois un angle où qui permettrait pas au
+recruteur de se dire là attends il était où celui-là oua ouais peut-être qu' y a
+un problème tu vois alors ça me fait marrer parce que j'ai vu un post de d'un
+mec que j'aime que j'aime beaucoup sur Linkedin euh qui disait euh tu sais quand
+tu as des trous sur ton CV tu sais des fois tu vois par exemple pour les femmes
+souvent tu qui tombent enceintes qui voient des trous dans le CV et la première
+chose en recrutement qu'on dit donc c'est pour ça ça colle aussi à ça la
+première chose qu'on va te dire c'est du coup vous étiez où de 2023 à 2024 et
+souvent les gens disent enfin en gros le recrut ce qui s'attend en disant ça
+c'est tu étais sur la plage tu t'es pris des congés et cetera et et en fait on
+s'attend pas à ce que les gens vivent dans leur vie réelle donc quand c'est une
+femme elle peut te dire B je suis tombé en congé maternité mais il se marrait
+avec ça en disant ben en fait mon fils est mort et il s'amusait à faire ça en
+réunion en réunion en en recrutement et en fait ça mettait un blanc phénoménal
+mais c'est parce que en réalité un mal à l'aise bah ouais c'est tu le tues le
+mec mais si tu veux ça met en fait en condition les choses c'estd que chacun a
+sa vie et si tu veux si toi tu as décidé même de prendre un an de conget
+sympathique ça t'appartient en réalité tu vois on a même pas juger là-dessus
+mais ça ça illustre bien l'approche qu'ont les gens c'est qu'ussi peut-être tu
+as arrêté pendant un an tu as eu un vrai problème en fait dans ta vie tu vois
+c'est c'est juste ça pas de sens d'en parler pendant la la Réunion ça a pas de
+sens de d'en parler pendant le recrutement c'est juste voilà mais par contre le
+recruteur lui quand il va voir ça ça va l'inquiéter et donc si tu lui donnes des
+information il faut faire attention parce que du coup elles peuvent te desservir
+ça peut créer des choses derrière qui vont être négatifes pour toi donc des fois
+ça vaut mieux le coup de les enlever des fois ça vaut mieux le coup de les
+refactoriser là pour moi ici l'idée c'est simplement de refactoriser un tout
+petit peu ton approche peut-être avoir une autre approche un peu différente pour
+faire un peu plus comprendre donc tu vois peut-être enlever le terme expérience
+parce que le terme expérience il a beaucoup de sens ici hein il est en gros
+écrit noir sur blanc il a beaucoup de sens don expérience juste dessous la date
+moi j'ai l'impression que c'est ton expérience de de avril 2022 à euh juillet
+août 2023 donc le dernier projet qu'on a fait ensemble sachant qu'en plus de ça
+il y a des fois c'est marqué présent du coup j'arrive plus à discerner parce que
+2022 pour moi bah c'est pas le présent donc je me dis bah pourquoi là c'est le
+présent et tu vois moi j'ai pas fait le rapprochement que tu travaillis encore
+sur ce projet là donc peut-être tu tu pourrais dire euh euh les plus gros
+projets qui ont constitué mon expérience et là tu pourrais mettre bah voilà
+celui-là par exemple en 2022 lui il m'a apporté beaucoup parce que j'ai fait ça
+après en 2023 j'ai fait un autre projet qui m'avait apporté ça entre-temps ça
+laisse supposer que tu as fait d'autres choses mais tu vois c'est vague en fait
+si tu veux mais au moins tu apportes le message que tu as envie d'apporter tu
+vois mais après cé important aussi pour moi de de montrer dans les deux projets
+donc dans celui-là le développeur électron et dans le développeur full stack
+c'est deux projets en fait que j'assure aussi une maintenabilité tu vois et donc
+pour moi c'était important de de de de préciser ça qu'il y avait aussi un suivi
+tu vois et pas seulement une livraison d'un tu vois d'un produit et après je me
+barre tu vois dans dans ces deux projets là je je suis le truc tu vois donc cé
+un peu ma façon de et du coup ça valait peut-être le coup plutôt que de mettre
+avril 2020 de présent peut-être peut-être mettre une phrase sur projet personnel
+sur lequel je travaille actuellement voilà projet quiis voilà c'est vrai que
+c'était pas super propre ce que je viens de te dire mais un truc dans cet état
+d'esprit là qui laisse penser mais du coup du coup fais attention parce que le
+le titre expérience devrait être changer je pense selon moi aussi mes
+compétences expérience parce que c'est pas là que se fait se fait l'expérience
+au final l'expérience moi je trouve qu'elle est plutôt en bas au niveau des
+projets parce que là il y a une expérience réelle en plus il y a des projets
+clients sur lesquels tu as travaillé donc je pense là il y a plus ti à parler
+d'expérience alors que là c'est plus des choses qui ont marqué ton expérience
+justement donc peut-être faut juste revoir l'approche h je vois ok ok mais sinon
+c'est propre he après je suis moins fan des petits des petit logos de je
+m'attendais je m'attendais à ce que tu allais dire un truc dessus bah là aussi
+j'ai repris le design après bon j'ai changé bien sûr parce que j'ai j'ai je les
+ai comment personnalisé tu vois parce que c'était pas exactement les mêmes euh
+tu vois les mêmes les mêmes compétences mais mais mais ouais c'est c'est un
+petit côté mignon mais enfin je je peux comprendre que ça je c'est pas qu' après
+tu as le côté scroll euh c'est c'est comme c'est pas fluide claac claac claac ça
+se change ça ça laisse supposer d'un bug donc tu vois ça peut même le mec peut
+dire attends j'ai peut-être pas le bon comportement donc peut-être qu'il y a
+quelque chose qui est pas bien finalisé tu vois à ce niveau-là mais après s'us
+Ave tu vois il peut s faire tour ça marche aussi s'il commence à faire ça voilà
+tu vois ouais ça j'entends c'est c'est un risque à prendre toi tu dis que c'est
+un risque inutile quoi ouais toujours pareil ça alors le le par contre indiquer
+les les logos bah ça ça ça moi je le mets souvent sur mon portfolio sur mes
+portfolios parce que c'est hyper important ça permet de vite distinguer la stack
+mais là tu vois là je suis en train de jouer avec les boules tu regarderas la
+vidéo une fois qu'on leur a mis sur Youtube mais mais c'est assez drôle parce
+qu'il y a un moment donné en fait pour remettre le logo correctement bah c'est
+presque mission impossible et puis en plus tu as tué le design donc ça veut dire
+que le mec potentiellement il va tuer ton approche et il va se retrouver avec un
+truc voilà peut-être peut-être voir l'approche un petit encar ne touchez pas ne
+touche par contre ne touchez surtout pas voilà non mais voilà tu vois essaie de
+de voir si par exemple le fait de mettre ta stack technique peut-être tu peux
+avoir une une meilleure approche pour identifier vraiment ta stack de
+prédilection peut-être ça vaut le coup du coup d'avoir à ce niveaau-là encore
+une fois un petit titre un petit un petit sous-titre et une petite description
+pour dire que ça c'est vraiment ton domaine d'expertise et rassurer la personne
+rassurer la personne en lui disant que voilà ça fait 3 ans que tu travailles sur
+react que tu as à peu près 4 C projets réussi avec des clients réels sur react
+et cetera que tu maîtrises super bien cette stack et que tu es le bon partenaire
+pour travailler avec toi tu vois mais encore une fois prends le temps de te
+vendre en réalité parce que juste afficher tes logos peut-être ça peut euh bah
+du coup tu peut-être tu transformes pas assez en fait ton utilisateur peut-être
+que lui il a envie d'en savoir plus après il faut savoir que 100 % des
+développeurs qui font un portfolio mettent une liste de leur stack sous forme de
+logo donc finalement ça apporte de moins en moins de valeur possible parce que
+comme tout le monde a la même chose finalement on se dit bon est-ce qu'il y a
+vraiment de la valeur à regarder ça ou pas tu vois et peut-être que ça encore
+une fois tu peux le transformer parce que ta stack de prédilection c'est celle
+qui va faire que tu vas remporter le contrat 90 % des cas quoi ouais je vois
+parce que si tu travailles sur du vu alors qu'on voit pas que on voit pas que
+toi tu travailles sur euh enfin si le recruteur a besoin de travailler sur du
+VJs et que toi tu es vraiment sur des stacks différentes je pense qu' prendra
+pas le temps de te contacter ouais je voir donc du coup ça a son importance donc
+il vaut mieux tu vois insister un petit peu plus ouais h ok après moi il y a les
+projets sur lesquels là par contre bah j'ai rien à dire je vois qu'en plus il y
+a le petit projet ABMI sur lequel je t' fait je t'ai fait bosser donc c'est bien
+refond du site web ABMI engineering comprenant un grand nombre de pages en
+anglais et en français un système de design a été créé en se basant alors tu
+ASAS peut-être dû mettre design system a été créé en se basant sur le site
+existant puis migrer vers nextjs et typescript donc là tu pourrais peut-être
+parler de de Gatsby en fait he que le projet était sous forme de Gatsby JS et
+qu'on a essayé de le refactoriser vers next ça tu peux en parler en parallèle de
+cette migration un backoffice personnalisé a été intégré pour faciliter la
+rédaction d'articles et cetera eu ces articles peuvent désormais être publiés
+sur le site de manière fluide et cetera offrant ainsi une solution complète ça
+c'est bien ça c'est bien parce que ça permet de bien avoir le panel de de ce que
+tu es capable de faire si un jour tu as l'occasion vraiment juste si tu as
+l'occasion mais dans un format différent du MVP ici en fait parce que là
+aujourd'hui ce que tu fais là tu peux le personnaliser lancer largement comme ça
+et par contre derrière si tu as envie de lui apporter un petit peu plus de
+fonctionnalité fais un lien clicable vers une nouvelle route en fonction de
+fonction du projet et puis tu vas chercher à décrire peut-être un petit peu plus
+en profondeur le en insistant sur que des points qui vont qui vont avoir besoin
+de comment dire de d'être utilisé chez eux en fait le fait de tu vraiment de
+détailler avec encore plus de précision ce que tu as vraiment mis en place à
+l'intérieur parce que tu as fait des trucs de dingue sur ce projet et on le voit
+pas quand on lit le quand on lit ton ton descriptif évidment tu pourrais pas a
+toujours ce ce petit dilemme de de est-ce que je enfin je raconte ma vie mais
+après je perds je perds l'attraction on va dire si je mis des textes Trong je
+sais pas si tu as remarqué j'ai essayé en fait de faire que les textes ils ont à
+peu près tous la même taille en tu vois ouais parce qu' en plus c'est
+dégueulasse sinon les cartes après rien ESP sont dégueulass et je me suis aidé
+enfin pour le Tex je me suis beaucoup aidé de chatpt tu vois al bon j'ai repris
+mais en tout cas tu vois c'était ça m'a aidé tu vois quand même après mais en
+fait tu as raison ouais donc en fait non j'ai pas de à dire ça parce que ouais
+parce que franchement est développeur autant utiliser les outils tu vois ah ben
+attends si on parle de chat GPT c'est c'est mon assistant personnel depuis qu'il
+existe le truc mais non mais c'est génial chat GPT surtout pour synthétiser des
+trucs mais je te rejoins à 100 % puis en plus de ça toi l'approche que tu vas
+avoir sera forcément moins compréhensible que ce que lui il va te pondre donc tu
+as bien raison de l'utiliser par contre ce que tu disais je su suis complètement
+d'accord avec toi c'està-dire que là tu as une synthétisation du projet parce
+que de toute façon le recruteur va pas cliquer sur tous les projets donc lui il
+va regarder un petit peu celui qui ressemble plus ou moins moins ce qu'il va te
+demander de faire encore une fois c'est vraiment l'axe qu'il va avoir et puis à
+partir d'ici quand il va voir un petit peu ce que tu as fait bah peut-être qu'il
+va avoir envie d'en savoir plus mais dans tous les cas il y a deux choses à
+distinguer s'il a pas besoin de lire il cliquera pas il ira pas mais toi tu
+l'auras mis en place en plus de ça ça t'apporte un aspect un peu plus technique
+ça montre qu'on est que tu es capable de gérer des routes parce qu'il y a ici on
+est sur sur une one page en fait on n pas de on a pas de route donc ça peut lui
+montrer que tu es capable de créer des routes même si c'est le babas du
+développeur mais dans le principe ça peut lui montrer que tu maîtrises ce genre
+de choses deè point positif ça peut faire du référencement c'est-à-dire que
+derrière ton peut-être ton profil de portfolio sera un peu mieux référencé parce
+que derrière tu as des tu as du langage technique mais ne néglige pas le le le
+recruteur qui se dit bon ok le mime bon c'est pas un projet qui m'intéresse par
+contre ABMI engineering c'est fatalement ce que je vais lui demander de faire
+c'est-à-dire créer une landing page Créer un système de de blog à l'intérieur un
+backofice donc ça veut dire qu'il sait gérer les espaces et cetera bah si là il
+a envie d'en savoir plus bah il a pas la possibilité tu vois donc c'est pas
+grave fais-le mais par contre fais-le dans une route secondaire ou même une
+modale tu pourrais très bien faire une modale tu vois tu es même pas obligé de
+faire une route secondaire je te donne des feedback comme ça mais en réalité tu
+fais ce que tu veux mais tu pourrais juste développer une modale dans laquelle
+tu donnes un petit peu plus d'argumentaire un argumentaire qui est un peu plus
+scindé voilà précisément les tâches qui m'ont été demandées et celles que j'ai
+transformé voilà que à tel niveau on m'a demandé ça j'ai proposé ça et
+finalement ça a été retenu ça montre que tu es forces de proposition que des
+valeurs que qu'on a besoin entendre en réalité et là tu te vends un maximum
+alors si c'est pas consulté c'est pas consulté je te l'accorde par contre tu
+pourris pas ton interface et en plus de ça t'apporte un peu plus de wording un
+peu plus de technicité pour les gens qui en auraient besoin mais tu je pense tu
+as rien à y perdre de faire ça je vois juste que tu tuas fait attention qu'il y
+avait un petit lien qui cliquable là sur le site ouais par contre j'ai vu tu as
+la possibilité d'aller sur le projet ça c'est ça c'est hyper important parce que
+sinon ça ça suffit pas juste une capture écran donc ouais ouais par contre j'ai
+vu qu'on pouvait lire le projet j'ai même vu que tu avais mis du gitub et cetera
+pas de souci alors voilà il y a certains qui sont privés donc il y a pas de il y
+a pas de gththub mais mais sur ceux qui sont Open Source enfin voilà donc là il
+y a un gitub tu vois par exemple sur m il un gitub VO donc toi tu me dis en fait
+dans l'idée c'est bien mais juste ce serait bien de d'apporter plus de contexte
+ou bien dans une autre page ou bien avec une modale ouf n'importe exactement
+déveloer un plus ce projet quoi bien sûr en fait tu verras que le recrutement il
+se passe en trois étapes première étape c'est une étape que tu contrôles pas
+c'est pour ça que j'insiste c'est pour ça que je vais faire du contenu moi sur
+ma chaîne sur ça parce que c'est ça a une valeur tellement importante c'est
+souvent les gens pensent qu'ils sont pas recrutés parce que ils sont pas bons au
+niveau du code alors qu'en fait on les contacte pas parce qu'en fait ils savent
+pas se vendre ils savent pas se mettre en avant et que du coup on les consulte
+juste pas et c'est important parce qu'en fait il y a plusieurs étapes au
+recrutement il y a déjà le recruteur va chercher ou l'entreprise va chercher des
+développeurs qui correspondent à ce qu'ils ont besoin de de recruter une fois
+qu'on t'a trouvé on va regarder il va falloir que tu me séduis il va falloir que
+moi la personne parce que tu vas pas séduire toute l'entreprise tu vas pas
+séduire le lad développeur du projet tu vas c'est un coup tu vas juste séduire
+la personne qui est en charge du recrutement c'est un coup ça peut être une RH
+c'est un coup ça peut être le chef de projet c'est un coup ça peut être un
+développeur tu vois ça peut être n'importe qui mais il va falloir que tu
+séduises la personne pour qu'elle se dise Emmanuel il a pas mal de compétences
+qu'on a besoin j'aime sa touche j'aime voilà ses skills je vais le contacter à
+partir du moment où il t'a consulté il va y avoir une partie technique alors ça
+se fait pas toujours en test teque hein tu sais des fois on entend des trucs de
+fou que les mecs il font des tests moi 99 % des des recrutements que je fais
+personne me fait faire de test hein mais par contre tu parles ah ouais bah oui
+par contre après tu parles avec des développeurs on va te conseiller on va
+t'expliquer il y en a qui vont te montrer du code en réunion il y en a qui vont
+te dire bah voilà qui vont te piéger he il y en a qui vont te dire bah voilà
+qu'est-ce que c'est pour toi un code propre comment est-ce que tu utiliserais
+une API ils vont voir si tu as l'habitude d'adopter des modèles vu vu container
+et cetera on va voir un peu ton approche et cetera ETA mais ce qu'il faut encore
+une fois te dire c'est que tu te rends compes s'il fallait qu'à chaque fois
+qu'on recrute quelqu'un on aille checker les projets perso de de tout le monde
+qu'on aille regarder le code tirer le repository franchement c'est super chiant
+pour eux tu vois ils ont ils ont pas que ça à faire tu vois vraiment ils on on
+marre de ça mais mais à partir du moment où on t'a consulté que tu es rentré en
+réunion des fois tu vas rentrer sur la première réunion il y aura à la fois le
+chef de projet qui lui a besoin de savoir si tu es un bon développeur un bon
+communiquant si tu es quelqu'un de sympa qu Gén une rockst dev rockst à qui on
+peut rien dire parce que monsieur est susceptible en permanence il y en a plein
+des mecs comme ça bah si tu es ce genre de mec lui il va l'identifier par contre
+à côté il y a tout le temps un responsable technique le lead le leader du projet
+en général tu vois il peut y avoir plusieurs développeur il peut y avoir juste
+le backend parce que tu es le seul frontend qui va venir relayer sur le service
+mais il peut aussi avoir une équipe de plusieurs développeurs fronend dans ce
+cas-là tu vas avoir souvent le leadev ou celui qui est disponible en ce moment
+et qui va te poser des questions pour voir ton approche pour voir si quand tu
+vas arriver sur projet ça va être galère de te driver dessus et donc ça va plus
+se passer comme ça et à ce niveau-là en général ce qui va se passer c'est que
+dès lors que le recruteur va se dire bon on sélectionne Manu en tout cas parce
+qu'on va en voir plusieurs tu vois mais Emmanuel on veut le voir ben en général
+il va donner ton lien à d'autres gens de la boî et il y a d'autres développeurs
+et ça peut être là à ce moment-là les les les gens un peu plus Tech qui vont
+venir sur ton portfolio mais là c'est plus du tout une approche je suis bon
+commercial et je me vends auprès d'un bon recruteur là c'est plutôt une approche
+technique c'est-à-dire que là le mec il va vouloir voir si tout ce que tu dis
+c'est plus ou moins vrai et validé parce que tu peux dire que tu es un super
+développeur react et ê très nul tu vois ben c'est là qu'il va l'examiner donc si
+tu lui laisses la possibilité à lui par exemple en tantque technique de revenir
+sur ton profil à un stade un peu plus avancé pour voir un petit peu si la
+technicité est au rendez-vous lui il va pouvoir venir regarder et puis ensuite
+checker son chef de projet et lui dire bon ben en plus de ça Emmanuel il a l'air
+d'être carré j'ai vu qu'il faisait ça ça ça ça nous on fait un peu pareil donc
+déjà quand on va lui dire qu'on fait la même chose sera pas trop dépaysé il a
+déjà touché on sait parce qu'il a déjà fait un projet tu vois c'est hyper
+important faut pas le négliger du tout tu vois donc ça sert à rien de se dire je
+vais pas plus loin parce qu'on le fera pas il y a des gens qui vont l'utiliser
+d'autres qui l'utiliseront pas qui vont juste se fier à ce que tu dis il y a des
+gens qui vont avoir besoin de te faire passer des tests techniques voilà c'est
+vraiment différent pour tout le monde mais plus tu vas donner de de de
+technicité dans tes dans ton portfolio plus on va être capable de le voir et ben
+mieux ce sera donc hésite pas à le faire donc hésite pas à pré remplir un peu
+plus tes cards pour que quand on développe une modale par exemple on a des
+informations un peu techniques pour qu'on soit sûr que voilà tu maîtrises par
+exemple le fait de d'être capable de faire fonctionner un système de de
+traduction euh c'est pas pareil que d'être capable de dire bah moi j'ai déjà
+utilisé un système de traduction parce que si tu arrives sur un projet où c'est
+déjà en place et tu as juste fait appel à des variables et tu as modifier un
+fichier Jason oui tu as fait de la traduction mais tu es pas à l'origine de ça
+toi sur ce projetl euh il a fallu que tu migres le système de traduction qu'il y
+avait qui était existant et tu en as fait quelque chose d'autre donc ça une
+valeur ajoutée de savoir que toi tu es capable de mettre un en place un un une
+stratégie que tu as été capable de faire un un proof of concept pour dire bah
+voilà il y a tel et tel système on peut avoir telle ou telle approche quelle est
+la meilleure on a discuté ensemble on a trouvé la meilleure tu as fait autrement
+tu as fait un truc et c'était bien tu vois c'est pas la même approche donc faut
+insister là-dessus et encore une fois si personne le lit personne le lit tant
+pis mais c'est fait ouais j'ai compris ok très bien ok donc vraiment pas hésiter
+quand c'est comme ça même si c'est pas lu de toute façon il y aura toujours un
+contexte quelqu'un va venir s'en occuper en tout cas c'est c'est c'est nickel
+bon je te pose pas la question mais là il y a pas de base de données on n pas
+c'est c'est du texte écrit en dur ouais je pas fait avec une base de données
+j'avais pas le temps je me suis dit je le faire en après voilà c'est dans des
+fichiers de de sais des fichiers local quoi des traductions quoi en ison quoion
+quoi tu vois ce que je voulais dire par là ce que je voulais dire par là c'est
+que si tu arrives alors je sais il y en a plein qui vont hurler mais si tu
+arrives à avoir une approche à le mettre dans une base de données même si il y a
+strictement aucun intérêt de le faire ça va te permettre de faire deux choses
+c'est la déjà on va voir qu'il y a un fonctionnement de d'API on va voir qu'il y
+a un temps de chargement ce qui va faire que tu vas pouvoir travailler sur des
+placeholders des loading des choses comme ça et ça va beaucoup plus se
+rapprocher de ce que tu vas faire dans les entreprises juste derrière parce que
+il y a 0 % de chance pour qu'on te demande d'introduire du texte endure dans une
+dans une application donc du coup tu marques un point technique supplémentaire
+toi ça te fait travailler de ton côté en plus on a travaillé sur ce projet là on
+a travailler sur des trucs donc tu es carrément capable de le faire c'est juste
+une question de temps mais moi je dirais que tu devrais prendre ce temps dans un
+temps secondaire attention là pour l'instant tu peux le pousser comme ça
+d'ailleurs il faut le pousser le plus vite possible ton portfolio mais dans un
+temps secondaire où tu vas apporter plus de dynamique et cetera au niveau de ce
+que tu vas pouvoirrmettre dans dans un projet ça sera encore mieux si tu allais
+le chercher dans firebase par exemple ou dans la base de données que tu as mis
+en place sur le projet ouais je vois tuapportera encore plus de valeur mais
+comment ça se saurait quoi avec le placeolder quoi il faud faudrait le
+mentionner parceah parce qu'en fait on verrait on verrait que tu aurais on
+verrait que tu as une une dynamique de chargement tu vois quand on arrive sur ce
+module là par exemple tu pourrais décider d'appeler la p que quand le la la la
+personne check ça et pas quand elle lance l'application donc dès lors qu'elle
+arrive ici qu'elle affiche composant bah tu lances la p à ce moment-là on va
+avoir les cardes avec tu sais un espèce de Skeleton qui s'affiche un
+préchargement on se dit tiens il y a une réflexion encore une fois un mec de
+technique il pourrait regarder euh les les dans dans dans la console il pourrait
+regarder le N te dire je en train de te dire c'est que ça le problème on peut le
+faire on peut faire un petit euh un petit temps d'attente ah ouais non non non
+c'est le piège là tu fais griller direct non mais en tout cas moi c'est ce que
+je ferais tu vois j'irais chercher en réalité en fait la synthèse de ce qu'on se
+dit depuis le début c'est qu'en fait plus tu vas te rapprocher du produit final
+de la personne plus tu vas lui montrer que tu es capable de faire ce qu'elle va
+avoir ce qu'elle attend de toi ce qu'elle va avoir besoin de te faire faire dans
+son propre projet et plus tu marques des points donc si tu arrives à faire une
+petite connexion à pays avec des petits trucs et cetera bah c'est nickelen à
+faire imagine toiasas un profil bah oui tu as un profil gitup par exemple et ETA
+bah plôt que d'afficher ton ton nom d'utilisateur bah va la chercher avec une
+API comme ça il y a une interaction et on sent que tu maîtrises l'appel d'API tu
+vois et comme ça c'est c'est toujours une valeur ajoutée en réalité ouais je
+voir il faut montrer que tu es capable de faire ce que tu vas faire là-bas donc
+si tu le ferais comme ça chez eux faut absolument que tu le fasses comme ça chez
+toi faut faut par contre faut vraiment sortir du truc ouais le portfolio c'est
+un truc vite fait j'ai quatre projets je mets quatre projets et puis je les mets
+en dur parce qu'il y a que quatre projets non en réalité tu tu en affiches que
+trois tu affiches les trois meilleurs donc tu vois avec une tu sais te rappelle
+on av sur les articles et cetera tu peux mettre tu vois une catégorie où tu mets
+des des des projets en fitureed bah tu affffiches les trois en fitured tu
+pourrais filtrer pour voir tous les articles du coup tu pourrais avoir une
+petite pagination tu en affiches que trois et tu peux dire bah l'au de mort
+comme ça la personne elle l des trucs elle se dit ah bah tiens elle maîtrise ça
+tu vois ça typiquement c'est un truc que je vais lui demander bam tu marques des
+points direct parce que tu es en train de lui dire en fait le mec s'en fout
+limite des projets il est en train d'utiliser un service qui ressemble à ce que
+lui va avoir besoin de faire donc il se dit si il est capable de le faire pour
+lui et capable de le faire pour moi tu trans tu transformes directement le CO
+que tu vas avoir avec lui juste derrière en fait juste derrière tu renforces à
+chaque utilisation la confiance que tu vas pouvoir avoir parce que moi un
+développeur qui est capable de d'afficher des projets comme ça ça me dit pas si
+c'est un bon développeur qui sait utiliser des API ça me dit pas si il les
+utilise correctement en fonction d'une architecture ça me dit pas s'il maîtrise
+le chargement s'il y a une erreur d'API est-ce que l'application elle crache ou
+est-ce que j'ai juste un message impossible de vous afficher les proch pour
+l'instant qu'est-ce qui se passe derrière tu vois j'ai pas toutes ces
+informations et ça c'est vraiment ce qui compte par contre pour moi tu vois j'ai
+compris mais le fait qu'après qu'il rentre sur les projets ben il pe se faire
+une idée tu vois ah ouais ouais c'est vrai il peux se faire une idée aussi des
+projets mais en en fait moi ce que je je te donne comme information c'est que il
+y a une approche subliminale en fait où il va pas se rendre compte en fait
+forcément mais en le voyant que il y a un bon fonctionnement qu'il y a du
+chargement que c'est bien propre tu sais quand tu fais un chargement des fois tu
+as toute la page qui bam qui ser qu' conten forme si tu lu montres que tu es
+capable de gérer tu vois par exemple on a fait la formation coders Monkey et
+tout ça si dans la dans le bouton bah ton chargement en fait il s'affiche et il
+déstructure pas ton bouton et ta page elle part pas dans tous les sens ça
+apporte une valeur ajoutter de malade et on se rend pas forcément compte surtout
+si la personne elle est pas technique he la personne qui te recrute elle est pas
+forcément technique mais en tout cas elle va se rendre compte que ton produit il
+est bien à utiliser ou s'il est pas bien donc si moi je vais sur un portfolio
+d'un développeur qui a pas mal de petits problèmes comme ça je vais me dire je
+vais ça sera pas le prio c'est pas celui que je vais contacter en priorité je
+vais aller prendre celui qui maîtrise bien telle et telle chose parce que ça
+signifie qu'il sait le faire et qu'il a déjà conscience qu'il faut pas faire ce
+genre de choses et cetera tu ouais je vois c'est une approche en fait une
+approche subliminale qui va permettre au mecs de dire que tu es déjà compétent
+si tu arrives à faire 80 % du boulot avant le premier call c'est c'est c'est
+joué hein de toute façon en général moi en général quand on m'appelle euh déjà
+la première chose que je fais c'est que je me je me mets dans la peau de celui
+qui va travailler dessus en fait je je me dis jamais je vais pas être recruté he
+c'est c'est vrai que ton portfolio c'est un autre niveau quoi il il est vraiment
+super super complet il y a des il y a des il y a des liens dans tous les sens il
+y a il y a vraiment une tu vois ça veut dire mon portfolio il a pas il a pas ce
+niveaul quoi mais mais euh en fait j'essaie d'avoir l'approche que je suis censé
+avoir euh sur un sur un projet sur un projet on va me demander de faire des
+trucs et j'aiessayie de mettre en place ce genre de chos tu vois en fait les
+feedback que je te donne c'est des choses que moi je mets en place chez moi quoi
+et encore le portfolio est très vieux je l'ai pas mis en place depuis je l'ai
+pas mis en forme depuis longtemps je compte le faire d'ailleurs donc ça sera
+d'un autre niveau déjà mais par que là là déjà il est très convainquant ouais
+après moi je vais essayer d'enlever un petit peu le l'aspect black black tu vois
+genre tête de mort et tout je peut-être gommer un peu cet aspect là mais en tout
+cas j'ai plein d'idées pour mon portfolio mais mais mais dans la mesure du
+possible je vais rester dans dans ce schéma où je me vends moi en fait en tant
+que produit quoi toi tu t'es inspiré de quelque chose pour ton portfolio ou non
+tuas ouais pareil pas pareil à l'époque je m'étais inspiré d'un design existant
+après je l'ai repris je l'ai bien repris c'est-à-dire que moi par contre j'ai
+pas fait comme toi moi ce que j'ai repris c'est le l'environnement les couleurs
+et par contre après j'ai tout repris moi-même c'està-dire qu' par contre j'ai
+tout fait en fait c'està dire que j'ai pas j'ai pas pris un template et je l'ai
+personnalisé c'est j'ai pris une idée graphique c'est-à-dire que vraiment un
+style visuel que que j'aimais je savais pas dans quoi partir je savais pas si je
+mettais du rouge du bleu du blanc je savais pas trop donc je je suis parti dans
+un dark thème et avec un code couleur et après je suis tout de suite parti sur
+des composants et finalement après j'ai tout de suite pris en main le projet
+j'ai tout de suite fait ce que j'avais envie de faire un peu comme si plutôt que
+de me donner une maquette tu me donnais une charte graphique un code couleur une
+ambiance une iconographie un logo tu vois un tu vois une espèce d'image de
+société mais sans me donner la maquette but en blanc voilà et derrière moi j'ai
+fait le projet c'est ça derrière j'ai fait le projet comme si c'était un vrai
+site plutôt que de vendre le dernier iPhone ou euh le dernier produit à la mode
+c'est moi que je vends c'est mes compétences c'est moi en tant que freelance il
+faut que la personne quand elle sortte de mon projet elle sache exactement qui
+je suis qu'elle ait compris que je pouvais synthétiser qui j'étais comment je
+travaillais je veux qu'elle ai eu le temps d'avoir confiance en moi suffisamment
+pour dire je contacte je veux voir cette personne ça veut pas dire qu'on
+travaillera ensemble mais ça veut dire qu'au moins elle se dit lui il faut que
+je le vois il faut que j'en sache plus je suis ok avec ça j'ai envie de perdre
+plus de temps avec lui parce que je pense que lui il va m'apporter quelque chose
+qui dans mon casadre dans mon contexte correspond à ce que je vais lui demander
+de faire en vue de tous ses projets de ce qu'il a pu mettre en place et ce qu'il
+met en place de lui-même euh ça me semble intéressant donc si si si tu as la
+même approche forcément tu marques le même genre de points hein c'est cl compris
+après le côté le côté dark mode euh j'ai cru comprendre moi j'adore ça j'ai cru
+comprendre c'était un peu un un toc de de développeur quoi et que les les
+utilisateurs forcément ils aiment pas trop c'est qu'est-ce que tu penses là-
+dessus ben je suis complètement raccord avec ça ça par contre la seule nuance
+c'est que le portfolio c'est le seul endroit où tu as le droit de t'exprimer
+donc moi je c'est pour ça à côté Black Hat que j'avais fait dans mon portfolio
+et tout je l'ai assumé à fond à 100 % d'ailleurs ça m'a jamais en tout cas porté
+préjudice parce que les gens qui m'ont consulté il sont passés par mon portfolio
+ils ont validé donc j'ai jamais eu de latence de tu vois j'ai toujours eu
+desémissions donc je considère que voilà les gens m'ont pas jugé là-dessus mais
+c'est intéressant quand même d'avoir la possibilité de donner ton ton empreinte
+parce que c'est aussi par là que ça passe en fait tu vois si par exemple tu es
+quelqu'un de tu fais un peu du humour et cetera tu fais un truc déconnant tu
+peux faire un truc de ouf tu as vu le design de coders Monkey c'est un truc un
+peu déconnant tu vois c'est pas du tout le délire Black Hat c'est mon univers un
+univers différent en tout cas c'est l'univers je voulais donner moi à la
+communauté que je suis en train de créer et cetera donc il y a vraiment tout un
+truc avec ça mais c'est des choix après ça ça correspond à ton identité et moi
+je suis ok pour que tu es du Dark mode si c'est ton identité derrière de toute
+façon le mec il te recrute il vas pas te demander de faire ça donc il s'en fout
+moi mon logo mon logo il est un peu d' tu vois donc je me suis dit j'avais pas
+faire un truc que c'estis que ça marche bien moi j'aime bien le d'ailleurs c'est
+bien que tu es mis mcoder parce que si tu tuaarais souvent sur les réseaux en
+tant que mcoder c'est bien aussi qu'on sache qui tu es mais le fait de mettre
+ton nom mcoder avec ton logo c'est c'est super propre moi de toute façon je
+considère qu'il faut avoir il faut avoir ta propre identité en tout cas moi je
+trouve qu'avec un un côté dark mode peut-être que comme on disait dès le départ
+moi j'ai un effet waouh peut-être qu' un recruteur qui a besoin d'un truc un peu
+moins comme ça peut-être il aura peut-être pas l'effet wouh mais ça veut rien
+dire je pense que tout ce nouveau quoi après tu peux faire une version aussi
+hein tu peux faire une version o la personne elle repasse en ouais j'ai pensé à
+ça mais après je me suis dit déjà je je chip et j'en vois tu vois bah exactement
+bon réflexe franchement très bon réflexe je peux rien dire dessus il faut il
+faut que tu faut que tu lances le truc puis après pourquoi pas le faire évoluer
+mais dans tous les cas personne te jugera sur un truc comme ça et puis c'est ton
+identité ça je pense que c'est propre à toi c'est pas ce qu'on va regarder en
+priorité faut juste que ce soit pas dégueulasse quoi si ça va va pas tu sais
+genre par exemple si tu tu utilises du euh du tu vois du noir un peu moins noir
+sur du noir et qu'on distingue mal lu x tu vois peut-être on va se dire
+[&nbsp;__&nbsp;] il a pas la notion de ici on y voit rien c'est bizarre là tu
+vas percuter la personne elle va se dire je vais peut-être pas le tu vois après
+les choix de couleur que tu as fait pour moi ça va quoi ça a moins de valeur bah
+après le témoignage témoignage retour client c'est nickel la petite planète en
+bas c'est c'est très bien faut juste voir que tu d'ailleurs elle est coupée peu
+en deux alors ouais elle se coupe en deux des fois oui des fois non c'est un peu
+un peu alato tu vois ouais il faut que je c'est le genre de trucs qui sont euh
+bah c'est ça c'est ça c'est alors c'est pas éliminatoire mais c'est une faute
+grave c'est une faute grave parce que en réalité tu sais moi à mes clients je
+leur dis je leur dis toujours ça les entrepreneurs en général parce que nous on
+travaille avec des start-ups tu sais dans le développement en général trava avec
+des start-ups des entrepreneurs qui ont pas forcément d'expérience des fois ils
+ont beaucoup euh mais souvent ils ont pas assez et le problème qu'ils ont c'est
+qu'ils cherchent à faire une version de leurs produit le plus technique possible
+tu vois ils oublient qu'il faut faire un un MVP qu'il faut se concentrer sur le
+minimum et l'objectif c'est de faire le minimum via product en ayant le maximum
+de qualité en fait c'està dire qu'il faut faire le minimum mais par contre le
+faire à la perfection et c'est ça le MVP en réalité et ben toi c'est ça en fait
+tu fais un MVP entre guillemets de ton portfolio mais il faut qu'il soit fait de
+manière parfaite tu vois et comme c'est ton boulot c'est ton job de faire de
+l'intégration et cetera on peut que se dire s'il est pas suffisamment
+enthousiaste pour travailler quelques heures de plus sur sa sphère qui tourne et
+qui est mal découpée ben c'est que il est pas perfectionniste et peut-être c'est
+pas ce que je recherche tuis encore une fois tu peux perdre des points de
+manière subliminale alors si vraiment tu as une galère avec tu utilises quoi là
+du coup c trs là pour faire des anoua ouais tu fais ça si si vraiment tu sens
+que tu as un bug là-dessus et que tu arrives pas à le résoudre enlève la sphère
+et mets autre chose tu auras plus de valeur par contre si tu sens que tu peux le
+corriger corrige-le mais dans tous les cas ne laisse pas le bug sur le projet
+parce que ça c'est c'est c'est du coup ça c'est c'est c'était pas un problème si
+tu la mettais pas mais ça devient si tu la mets et qu'elle est pas parfaite tu
+vois donc il vaut mieux que tu proposes à l'utilisateur tu vois une bonne
+expérience ouais par contre c'est vraiment trop stylé après je t'avoue que les
+petites petites étoiles et tout sur les côtés c'est génial quoi ça fait une
+ambiance tu vois ouis ça fait une méga ambiance c'est propre non j'aime beaucoup
+le formulaire bon il fonctionne bien on a des erreurs qui sont définentends
+attends une seconde j'ai un petit problème de réseau là tu m'entends ouais moi
+je t'entends par contre moi ok je t'entends je t' entendu un peu alors je te
+disais en bas j'ai mis un petit foeur vraiment hyper minimaliste tu vois avec
+ouais j'ai vu avec des logos pour me retrouver quoi mes réseaux quoi ouais ça
+c'est nickel ça après c'est c'est propree façon l'interface en elle-même j'aime
+beaucoup ici est-ce que tu pens qu' y a une réelle est-ce que tu penses qu'il y
+a une réelle plusvalue avec le système de traduction ou non pas forcément il m
+fallu que je reste sur du français pour moi grosse plusvalue mais du coup un peu
+perturbant parce que tu dis pas que tu parles plusieurs langues est-ce que tu
+parles plusieurs langues ou est-ce que tu as juste traduit ton projet c'est
+peut-être la question que je pourrais te poser c'est est-ce que tu parles
+anglais du coup anglais non c'est pas expert mais ça va je lis l'anglais je
+comprends quoi après je suis pas mais bon on va dire l'anglais dans le dans le
+monde du développement attends alors je reformule alors non parce que moi je
+suis une k en anglais et je sais pas je crois je vais jamais m'y mettre mais eu
+euh je me suis retrouvver sur un projet où les réunions faisaient en anglais
+hein pour information alors c'éit pas des réunions développeurs entre
+développeurs nous on parlait en français mais par contre on faisait des réunions
+euh en avec enfin tu sais c'éit un leader européen enfin c'était un gros gros
+projet et et tout le myth se faisait en anglais c'està-dire qu'en fait tous les
+développeurs assistaient à la réunion pour voir l'acheminement de de de
+l'application enfin tu vois il y avait les business intervenir en anglais il
+fallait intervenir en anglais exactement sauf que nous oninvenait pas
+heureusement mais par contre il fallait intervenir si tu intervenais et donc
+c'est en anglais donc bref tout ça pour te dire que la valeur ajoutée en anglais
+elle est pauvre si tu as pas vocation de travailler sur des marchés anglais donc
+si tu te retrouves dans une réunion et qu'il faut parler anglais bah si tu es
+pas à l'aise ben pour moi il y a pas de valeur par contre il y a une valeur si
+tu es capable et dans ce cas-là si tu es capable il aurait fallu aussi insister
+sur ce skills et le mettre en avant parce que c'est important donc si si c'est
+juste pour traduire bah là tu montres que tu traduis ton projet pourquoi pas
+mais pourquoi tu traduis ton projet pour accueillir une un prospect qui est pas
+forcément francophone du coup si quelqu'un t'appelle en anglais pour te dire
+qu'il y a une application en Suède qui se développe et cetera est-ce que tu es
+chaud pour partir dessus bah c'est la valeur derrière tu dis non voilà tu vois
+ce que dire ça m'intéresse pas moi je ça m déjà arrivé de ouais mais c'est vrai
+que non je pense pas que le niveau vraiment je parle pas courment après je
+comprends mais c'est vrai que donc voilà tu vois le le fait de mettre en place
+un système de traduction bah ça montre que tu es capable de le faire mais ça tu
+peux le mettre dans tes skills tu peux le mettre dans tes projets et du coup
+tout le monde comprend par contre le mettre pour toi fa faire attention parce
+que du coup tu vas tu vas accueillir une une cible qui sera pas forcément la
+tienne et du coup bah peut-être ça a moins de valeur ajoutée en ce sens quoi
+c'est tout ouais je vois voilà je me mets toujours dans la peau du recruteur
+quoi mec qui arrive sur un contenu qui a été référencé en anglais ben ouais
+exact ça peut te perdre ok mais sinon dans l'ensemble voilà les animations la
+charte graphique garde tout ça c'est vraiment génial mais comme comme on l'a dit
+bien bosser sur le wording bien essayer de comprendre que c'est toi le produit
+et que c'est toi que tu vends et que l'objectif c'est tu vois mets des call to
+action essaie de faire en sorte que il y ait toujours un rappel à un moment
+donné sur contacte-moi mec me déclenche une réunion tu peux proposer tu sais un
+Google Agenda tu peux tu peux proposer à ce que le mec il prenne rendez-vous
+directement le mec il clique sur un bouton en de TR de tris temps il a pris
+rendez-vous avec toi par rapport à ton agenda et puis toi comme ça tu as un co
+avec un mec tu es capable de le voir facilitelui la vie tu vois plus tu vas lui
+faciliter la vie plus tu vas mettre des petits co action plus tu vas l'inciter à
+te contacter tu comprends essaie de pas perdre ton utilisateur essaie toujours
+de lui proposer des choses essaie de essaie vraiment de te vendre tu vois en
+reprenant un petit peu le en mettant l'accent sur des trucs beaucoup plus
+importants et surtout tout le temps en te mettant dans la peau du recruteur qui
+va qui va consulter ton projet et qui potentiellement aura forcément faut que tu
+dises ça quoi forcément envie de travailler avec toi quoi donc faut que tu lui
+donnes vraiment envie tu donnes vraiment le maximum pour qui te contacte mais
+sinon tu as une très bonne base de travail he j'ai vu des portfolios qui qui
+ressemblaient loin de ça à à à la qualité que tu as proposé donc pour une
+première proposition c'est génial tu vois continue juste pour affiner maintenant
+chaque élément et mets-toi dans la peau d'un recruteur pour être sûr de le
+convaincreas beaucoup plus de demandes ouais c'est ça faut revoir un petit peu
+les les textes 99 % de ce qu'on a dit c'est que du texte après c'est l'élément
+de graphisme qui pouvait être corriger à droite à gauche mais c'est tout sinon
+c'est plutôt la façon dont tu vas t'exprimer qui va qui va apporter du coup un
+sens aux gens qui vont te qui vont te consulter ouais je voir ok oh la vie de
+malade que j'ai laissé aussi quand tu le déplies là il est bien la vie j'ai tout
+donné sur ce commentaire mais tu vois ça c'est en tout cas c'est c'est que des
+choses que je pense vraiment de de toi et de ce que tu as fait donc il y a pas
+de souci hein tu vois il faut que tu confiance en toi et tu vas y arriver il y a
+il y a zéro problème fait aucun souci merci beaucoup en tout cas bon ben je te
+remercie d'avoir participé à cette cette petite vidéo j'espère que ça aidera
+beaucoup développeur ben tu vois voilà pour pour personnaliser leur portfolio
+puis comprendre qu'il y a toute une notion derrière qui suffit pas juste de de
+mettre un truc en ligne en tout cas ça leur donne déjà une base aussi j'imagine
+de de d'inspiration et tout ça pour ton pour ton écoute ouais c'est surtout moi
+qui te remercie c'est super sympa tu vois d'avoir des un avis tu vois qui est
+constructif tu vois c'est important tu vois on n pas on n pas forcément ça tu
+vois et donc moi c'est une opportunité tu vois le fait que que je te parle que
+tu me tu me drives sur certaines choses tu vois ben pour moi c'est c'est une
+énorme plusvalue tu vois ouais bah super super si tu le si tu le vois comme ça
+en tout cas c'est c'est le bon mindset de toute façon me fait aucun souci pour
+toi je pense tu vas tu vas décoller d dès que tu vas commencer à décrocher des
+des missions longues là tu vas décoller après ce sera fini donc c'est cool tu es
+vraiment sur la bonne voie donc continue t'arrêtte pas continue à coder propose
+encore plus de valeur et vois ton portfolio vraiment comme l'axe principal qui
+va qui va déclencher des calles derrière des coles dans lesquelles tu vas
+exceller parce qu'il suffira simplement que tu dises que tu es capable de faire
+telle et telle chose l'expliquer tranquillement et les gens vont les gens vont
+te signer hein comme je te l'ai dit hein les eu les sur les projets en général
+tu tu tu intègres les projets et puis au bout d'un mois on essaie de voir tu
+sais après la phase de onboarding on essaie de voir si tu as les compétences tu
+les as pas bon bah tu quittes la mission et tant pis tu as perdu un petit peu
+euh enfin tu as gagneré de l'expérience mais tu as perdu l'occasion de de signer
+plus longtemps mais derrière tu rignes d'autres missions et cetera donc les
+choses se font au fur et à mesure tu vois tu as pas vraiment pas de souci à
+faire si tu as des problèmes au niveau du code tu le seras qu'après le
+l'objectif aujourd'hui c'est de concentrer tous tes efforts sur le fait qu'on
+t'appelle parce que c'est d'abord par là que ça passe il faut d'abord qu'on te
+contacte faut qu'on ait confiance en toi avant de t'avoir consulté ensuite tu
+fais ta première réunion il faut toujours que tuinspires cette confiance là et
+qu'on se dise on va travailler avec Emmanuel et une fois qu'on aura travaillé
+avec toi là faut que tu sois bon techniquement et tu le seras et si tu l'ai pas
+bah c'est que c'était pas la bonne mission pour toi tu ressayeras une autre
+mission avec un le level légèrement inférieur qui correspond plus à ton level
+actuel et cetera et cetera et tu vas pouvoir y aller tu vas pouvoir tu vas
+pouvoir bosser quoi ouais je vois ok ok ben super et ben je te dis à bientôt
+envoie-moi un petit envoie-moi un petit un petit lien là dès que enfin check-moi
+quand quand tu as fait un petit peu des misise à jour quand tu as pris le temps
+tranquille avec du recul de faire faire ce genre de chos je regarderai et tout
+et puis je te donnerai quelques quelques tuyau de plus si si je vois qu'il
+encore des choses améliorer et puis toi tu me feras un retour aussi sur comment
+tu te sens avec la nouvelle version comme ça tu tu me diras si vraiment tu
+ressens une différence si pour toi ça a une bonne approche en fait de de faire
+ces modifications là quoi ouais ok très bien on fait comme ça ok c'est bon pour
+moi ok bon benah super on a pu voir un petit peu le le portfolio des manuel donc
+bon en tout cas moi dans les grandes lignes je trouve que c'est vraiment une une
+bonne une bonne réalisation dans le au final ce qu'il faut retenir c'est que
+finalement c'est important d'avoir quand même de jeter un petit effet waou parce
+que les les gens qui arrivent derrière ils ont besoin d'être interpellés dès le
+départ c'est super important de travailler sur le wording d'avoir vraiment euh
+se mettre en position du de la personne qui consulte et pas la position de la
+personne qui fait le site pour éviter justement d'avoir ce type de ce type de
+titres qui peuvent être un petit peu déroutants et se mettre en un petit peu en
+porte à fou en se disant ben voilà montrer montrer le setup de mon bureau c'est
+peut-être pas forcément euh le mieux pour la personne qui va le regarder hein
+peut-être que la personne elle a plutôt besoin de savoir qui je suis à quoi je
+ressemble ça peut lui donner beaucoup plus de de d'assurance de me contacter et
+cetera donc c'est vraiment des choses sur lesquelles il faut travailler mais en
+tout cas si tu as pas une pâte artistique on voit que on peut utiliser forcément
+des des choses qui existe et on peut essayer de les modifier de les adapter
+parce que de toute façon avoir une appétence créative artistique en terme de
+design et cetera c'est pas forcément ce qui est demandé pour ton pour ton
+travail donc voilà c'est je pense que il vaut mieux il vaut mieux se se se baser
+sur quelque chose d'existant si tu as pas cette si tu as pas cette compétence et
+si tu l'as bah c'est encore mieux en tout cas j'espère que cette vidéo t'a plu
+n'oublie pas de mettre ton lien ton portfolio en commentaire pour qu'on puisse
+regarder un petit peu ce que tu proposes si ça t'intéresse de faire une revue de
+de ton portfolio bah tu me le dis aussi en commentaire il y a le petit slack qui
+est disponible tu peux te rendre sur coders Monkey si tu veux recevoir aussi des
+feedback concernant ton portfolio donc voilà on est là on a une communauté on
+est disponible si ce genre de format t'intéresse oublie pas de mettre des likes
+si tu es pas abonné abonne-toi et puis on en parle en commentaire je te dis à
+bientôt et puis bon courage salut [Musique] Ciao

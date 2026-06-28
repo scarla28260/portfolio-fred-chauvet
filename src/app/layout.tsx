@@ -1,5 +1,7 @@
 import type { Metadata, Viewport } from "next"
 import { Jost, Syne, Bodoni_Moda } from "next/font/google"
+import { Analytics } from "@vercel/analytics/react";
+import CustomCursor from "@/components/ui/CustomCursor";
 import "./globals.css"
 import Navigation from "@/components/Navigation"
 
@@ -68,12 +70,14 @@ export default function RootLayout({
   return (
     <html lang="fr" className="scroll-smooth">
       <body className={`bg-background text-foreground antialiased min-h-screen ${jost.variable} ${syne.variable} ${bodoni.variable} font-jost`}>
+        <CustomCursor />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
         <Navigation />
         {children}
+        <Analytics />
       </body>
     </html>
   )
