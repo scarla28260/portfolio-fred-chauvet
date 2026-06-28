@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from "next"
 import { Jost, Syne, Bodoni_Moda } from "next/font/google"
-import { Analytics } from "@vercel/analytics/react";
 import CustomCursor from "@/components/ui/CustomCursor";
 import "./globals.css"
 import Navigation from "@/components/Navigation"
@@ -77,7 +76,6 @@ export default function RootLayout({
         />
         <Navigation />
         {children}
-        <Analytics />
       </body>
     </html>
   )
