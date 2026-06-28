@@ -25,8 +25,8 @@ export default function HomeContent() {
         mediaType="video"
         mediaSrc="/voila.mp4"
         useWebcamBackground={false}
-        title="Intelligence & Data."
-        date="Développeur IA & Big Data"
+        title="Solutions IA & Data."
+        date="Je crée des architectures Big Data et des agents IA intelligents"
         scrollToExpand="Explorer le parcours"
         textBlend={false}
       >
@@ -63,7 +63,7 @@ export default function HomeContent() {
                 viewport={{ once: true }}
                 className="text-[10px] font-black uppercase tracking-[0.8em] text-aura-gold/60 font-mono block"
               >
-                • Le Parcours
+                • Expertise Transversale
               </motion.span>
               <h2 className="text-5xl md:text-[7rem] text-foreground font-light leading-[0.85] tracking-tighter uppercase font-syne overflow-hidden">
                 <div>
@@ -85,6 +85,20 @@ export default function HomeContent() {
                <div className="absolute top-0 right-0 p-8 opacity-5 group-hover:opacity-10 transition-opacity">
                   <Database size={160} className="text-primary" />
                </div>
+               
+               <div className="flex flex-col items-center mb-8 relative z-10">
+                 {/* Placeholder for Profile Picture to build trust (as discussed in the video) */}
+                 <div className="w-24 h-24 rounded-full overflow-hidden border-2 border-primary/50 relative mb-4">
+                   <div className="absolute inset-0 bg-muted flex flex-col items-center justify-center text-[10px] leading-tight text-muted-foreground text-center p-2 font-mono uppercase tracking-widest">
+                     <span>Votre</span>
+                     <span>Photo</span>
+                   </div>
+                   {/* DÉCOMMENTEZ CE CODE UNE FOIS VOTRE PHOTO AJOUTÉE */}
+                   {/* <Image src="/assets/profile.jpg" alt="Fred Chauvet" fill className="object-cover" /> */}
+                 </div>
+                 <p className="text-sm font-bold text-foreground font-mono uppercase tracking-widest">Fred Chauvet</p>
+               </div>
+
                <p className="text-2xl md:text-4xl text-foreground font-light leading-relaxed cinematic-text relative z-10 font-syne">
                  18 ans de cuisine et 15 ans de logistique transmutés à <span className="text-primary font-black underline decoration-primary/30 underline-offset-8">l'analyse de données et au développement d'agents IA.</span>
                </p>
@@ -229,7 +243,7 @@ export default function HomeContent() {
             viewport={{ once: true }}
             className="text-[10px] font-black uppercase tracking-[0.5em] text-primary/60 font-mono block mb-8"
           >
-            0x0F_Questions_Fréquentes
+            0x0F_Pourquoi_Travailler_Avec_Moi
           </motion.span>
 
           <div className="space-y-4">
@@ -266,11 +280,44 @@ export default function HomeContent() {
         </div>
       </section>
 
+      {/* ── CALL TO ACTION : TUNNEL DE VENTE ── */}
+      <section className="relative py-32 px-6">
+        <div className="max-w-4xl mx-auto text-center space-y-10 relative z-10">
+          <motion.div
+            initial={{ opacity: 0, scale: 0.9 }}
+            whileInView={{ opacity: 1, scale: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8, ease: "easeOut" }}
+            className="p-12 md:p-20 rounded-[3rem] border border-primary/20 bg-primary/5 backdrop-blur-md relative overflow-hidden group"
+          >
+            <div className="absolute inset-0 bg-gradient-to-b from-primary/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-1000" />
+            <div className="space-y-6 relative z-10">
+              <h2 className="text-4xl md:text-6xl font-light text-foreground uppercase tracking-tighter font-syne">
+                Prêt à transformer vos <span className="text-primary font-black italic">données</span> en <span className="text-primary font-black italic">résultats</span> ?
+              </h2>
+              <p className="text-lg text-muted-foreground font-sans max-w-2xl mx-auto">
+                Discutons de vos enjeux métiers. Je vous aide à construire des architectures de données fiables et des systèmes d'agents IA pour automatiser ce qui doit l'être.
+              </p>
+              <div className="pt-8">
+                <a 
+                  href="https://www.linkedin.com/in/fredchauvet" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary text-primary-foreground font-bold uppercase tracking-widest font-mono text-sm hover:scale-105 transition-transform duration-300 shadow-[0_0_40px_rgba(212,175,55,0.4)]"
+                >
+                  Me contacter sur LinkedIn
+                </a>
+              </div>
+            </div>
+          </motion.div>
+        </div>
+      </section>
+
       {/* FOOTER */}
       <footer className="relative py-20 px-6 max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-12 opacity-50 border-t border-aura-gold/25">
          <div className="flex gap-10">
             <a href="https://www.linkedin.com/in/fredchauvet" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black uppercase tracking-[0.4em] hover:text-primary transition-colors font-mono">LinkedIn</a>
-            <a href="https://github.com/Frederic28260" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black uppercase tracking-[0.4em] hover:text-primary transition-colors font-mono">GitHub</a>
+            <a href="https://github.com/scarla28260" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black uppercase tracking-[0.4em] hover:text-primary transition-colors font-mono">GitHub</a>
          </div>
          <p className="text-xs font-bold text-slate-600 uppercase tracking-widest font-mono">© 2026 FRED CHAUVET / DÉVELOPPEUR IA & BIG DATA</p>
          <button onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} className="text-[10px] font-black uppercase tracking-[0.4em] text-primary hover:text-primary transition-colors flex items-center gap-2 font-mono">

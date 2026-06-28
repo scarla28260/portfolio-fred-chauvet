@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "name": "IA & Agents Autonomes",
+      "skills": [
+        "LLMs (Claude, GPT)",
+        "LangChain & CrewAI",
+        "Model Context Protocol (MCP)",
+        "Prompt Engineering Avancé",
+        "Génération Multimodale (Veo 3)"
+      ]
+    },
+    {
+      "name": "Data Engineering & Backend",
+      "skills": [
+        "Python",
+        "Pipelines Big Data",
+        "PostgreSQL",
+        "Architectures de données",
+        "TypeScript & Node.js"
+      ]
+    },
+    {
+      "name": "DevSecOps & Qualité",
+      "skills": [
+        "ISO 27001 (Sécurité de l'information)",
+        "Tests & Intégration Continue",
+        "Clean Architecture",
+        "Gestion des environnements Cloud"
+      ]
+    },
+    {
+      "name": "Frontend & Design",
+      "skills": [
+        "Next.js (App Router)",
+        "React & Tailwind CSS",
+        "Framer Motion (Animations)",
+        "UX/UI Premium (Luxe/Tech)"
+      ]
+    },
+    {
+      "name": "Compétences Transversales (Terrain)",
+      "skills": [
+        "Gestion de Crise (Logistique/Restauration)",
+        "Optimisation de Flux Physiques & Données",
+        "Management Opérationnel (15+ ans)",
+        "Résolution de problèmes complexes"
+      ]
+    }
+  ]
+}

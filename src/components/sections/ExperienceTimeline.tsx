@@ -2,7 +2,7 @@
 
 import { motion, useScroll } from "framer-motion"
 import { useRef } from "react"
-import { Calendar, Briefcase, GraduationCap, Terminal, CheckCircle2, Activity, Database, GitMerge, Package, Box, Code2, TerminalSquare, Network, BrainCircuit } from "lucide-react"
+import { Calendar, Briefcase, GraduationCap, Terminal, CheckCircle2, Activity, Database, GitMerge, TerminalSquare, BrainCircuit } from "lucide-react"
 import { LiquidAura } from "@/components/ui/liquid-aura"
 
 const experiences = [

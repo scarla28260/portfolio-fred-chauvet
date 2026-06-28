@@ -5,7 +5,6 @@ import {
   getCohorts,
   getPlatformBreakdown,
   getTopContent,
-  getContentTypePerformance,
   getRecentActivity
 } from '@/lib/analytics/engine';
 import { VelocityChart } from '@/components/analytics/VelocityChart';
@@ -25,7 +24,6 @@ export default async function DashboardPage() {
   const cohortsData: any[] = getCohorts() as any[];
   const platformData: any[] = getPlatformBreakdown() as any[];
   const topContentData: any[] = getTopContent(5) as any[];
-  const typePerformanceData: any[] = getContentTypePerformance() as any[];
   const recentActivityData: any[] = getRecentActivity(10) as any[];
 
   return (
@@ -34,7 +32,7 @@ export default async function DashboardPage() {
       {/* Header / KPIs */}
       <div className="mb-6">
         <h1 className="text-xl font-bold text-white mb-4 tracking-tight uppercase border-b border-white/10 pb-2">
-          // Analytics Core
+          {"// Analytics Core"}
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
           <div className="bg-black/50 border border-white/10 p-4 rounded-md">

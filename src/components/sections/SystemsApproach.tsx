@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { motion } from "framer-motion";
 import { 
   Workflow, 
   Truck, 
@@ -239,16 +240,22 @@ export function SystemsApproach() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           
           {/* Pillar 1: Data Engineering */}
-          <div className="p-8 rounded-[2.5rem] border border-aura-gold/20 bg-background/90 backdrop-blur-sm hover:border-aura-gold/45 hover:shadow-[0_16px_40px_rgba(212,175,55,0.08),0_4px_16px_rgba(15,23,42,0.06)] transition-all duration-500 flex flex-col justify-between space-y-6 relative overflow-hidden group hud-border">
+          <motion.div 
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
+            className="p-8 rounded-[2.5rem] border border-aura-gold/20 bg-background/90 backdrop-blur-sm hover:border-aura-gold/45 hover:shadow-[0_16px_40px_rgba(212,175,55,0.08),0_4px_16px_rgba(15,23,42,0.06)] transition-all duration-500 flex flex-col justify-between space-y-6 relative overflow-hidden group hud-border"
+          >
             <div className="space-y-4">
               <div className="p-3 bg-muted border border-border rounded-xl text-muted-foreground group-hover:text-primary group-hover:border-primary/20 transition-colors w-fit">
                 <Database size={24} />
               </div>
               <h3 className="text-2xl font-bold text-foreground uppercase tracking-tight group-hover:text-primary transition-colors font-syne">
-                Data Engineering
+                Vos données, prêtes à être exploitées
               </h3>
               <p className="text-muted-foreground text-sm leading-relaxed font-sans font-medium">
-                Modélisation et mise en place de structures de données fiables. Conception de pipelines de données (ETL/ELT), gestion et optimisation de bases de données relationnelles et vectorielles, et orchestration de flux massifs pour assurer une donnée propre et prête pour l&apos;analyse.
+                Vous accumulez des données sans pouvoir en tirer de la valeur ? Je modélise et construis des pipelines robustes (ETL/ELT) pour transformer votre chaos de données en une base propre, fiable et immédiatement exploitable par vos équipes.
               </p>
             </div>
             <div className="pt-4 border-t border-border flex flex-wrap gap-2">
@@ -258,26 +265,31 @@ export function SystemsApproach() {
                 </span>
               ))}
             </div>
-          </div>
+          </motion.div>
 
-          {/* Pilier 2: AI Agents & Automation — mcp-builder skill */}
-          <div className="p-8 rounded-[2.5rem] border border-aura-gold/20 bg-background/90 backdrop-blur-sm hover:border-aura-gold/45 hover:shadow-[0_16px_40px_rgba(212,175,55,0.08),0_4px_16px_rgba(15,23,42,0.06)] transition-all duration-500 flex flex-col justify-between space-y-6 relative overflow-hidden group hud-border">
+          {/* Pilier 2: AI Agents & Automation */}
+          <motion.div 
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.6, delay: 0.1, ease: [0.22, 1, 0.36, 1] }}
+            className="p-8 rounded-[2.5rem] border border-aura-gold/20 bg-background/90 backdrop-blur-sm hover:border-aura-gold/45 hover:shadow-[0_16px_40px_rgba(212,175,55,0.08),0_4px_16px_rgba(15,23,42,0.06)] transition-all duration-500 flex flex-col justify-between space-y-6 relative overflow-hidden group hud-border"
+          >
             <div className="space-y-4">
               <div className="flex items-center gap-3">
                 <div className="p-3 bg-muted border border-border rounded-xl text-muted-foreground group-hover:text-primary group-hover:border-primary/20 transition-colors">
                   <Cpu size={24} />
                 </div>
-                {/* mcp-builder: badge MCP visible */}
                 <span className="px-2.5 py-1 rounded-full bg-aura-gold/10 border border-aura-gold/30 text-[8px] font-black text-aura-gold uppercase tracking-widest font-mono flex items-center gap-1">
                   <Network size={8} />
                   MCP Architect
                 </span>
               </div>
               <h3 className="text-2xl font-bold text-foreground uppercase tracking-tight group-hover:text-primary transition-colors font-syne">
-                Systèmes d&apos;Agents IA
+                Automatisation intelligente de vos processus
               </h3>
               <p className="text-muted-foreground text-sm leading-relaxed font-sans font-medium">
-                Création et orchestration d&apos;architectures d&apos;agents intelligents autonomes. Utilisation du protocole <strong className="text-foreground">MCP (Model Context Protocol)</strong> pour connecter les modèles de langage à vos outils et bases de données. Serveurs MCP personnalisés, workflows LangGraph et automatisation de processus métiers complexes.
+                Libérez vos équipes des tâches répétitives. Je conçois des architectures d&apos;agents autonomes (CrewAI, LangGraph) connectées à vos outils métiers via MCP, pour automatiser vos processus les plus complexes et accélérer votre prise de décision.
               </p>
             </div>
             <div className="pt-4 border-t border-border flex flex-wrap gap-2">
@@ -287,19 +299,25 @@ export function SystemsApproach() {
                 </span>
               ))}
             </div>
-          </div>
+          </motion.div>
 
           {/* Pilier 3: Next.js & Frontend precision */}
-          <div className="p-8 rounded-[2.5rem] border border-aura-gold/20 bg-background/90 backdrop-blur-sm hover:border-aura-gold/45 hover:shadow-[0_16px_40px_rgba(212,175,55,0.08),0_4px_16px_rgba(15,23,42,0.06)] transition-all duration-500 flex flex-col justify-between space-y-6 relative overflow-hidden group hud-border">
+          <motion.div 
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.6, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
+            className="p-8 rounded-[2.5rem] border border-aura-gold/20 bg-background/90 backdrop-blur-sm hover:border-aura-gold/45 hover:shadow-[0_16px_40px_rgba(212,175,55,0.08),0_4px_16px_rgba(15,23,42,0.06)] transition-all duration-500 flex flex-col justify-between space-y-6 relative overflow-hidden group hud-border"
+          >
             <div className="space-y-4">
               <div className="p-3 bg-muted border border-border rounded-xl text-muted-foreground group-hover:text-primary group-hover:border-primary/20 transition-colors w-fit">
                 <Layers size={24} />
               </div>
               <h3 className="text-2xl font-bold text-foreground uppercase tracking-tight group-hover:text-primary transition-colors font-syne">
-                Rendu Web de Précision
+                Des interfaces web qui convertissent
               </h3>
               <p className="text-muted-foreground text-sm leading-relaxed font-sans font-medium">
-                Développement d&apos;applications web modernes, rapides et hautement interactives avec le framework Next.js. Intégration de designs fluides sous Tailwind CSS avec une logique métier type-safe (TypeScript) et des animations millimétrées (Framer Motion). Core Web Vitals optimisés (LCP &lt;1.2s, CLS &lt;0.05).
+                Un design lent ou mal pensé vous fait perdre des clients. Je développe des applications web ultra-performantes (Next.js) et esthétiques, optimisées pour la conversion et l&apos;expérience utilisateur, avec des animations millimétrées.
               </p>
             </div>
             <div className="pt-4 border-t border-border flex flex-wrap gap-2">
@@ -309,10 +327,16 @@ export function SystemsApproach() {
                 </span>
               ))}
             </div>
-          </div>
+          </motion.div>
 
-          {/* Pilier 4: DevSecOps — red-team-tactics + vulnerability-scanner skills */}
-          <div className="p-8 rounded-[2.5rem] border border-aura-gold/20 bg-background/90 backdrop-blur-sm hover:border-emerald-500/20 hover:shadow-[0_16px_40px_rgba(16,185,129,0.06)] transition-all duration-500 flex flex-col justify-between space-y-6 relative overflow-hidden group hud-border">
+          {/* Pilier 4: DevSecOps */}
+          <motion.div 
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-50px" }}
+            transition={{ duration: 0.6, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
+            className="p-8 rounded-[2.5rem] border border-aura-gold/20 bg-background/90 backdrop-blur-sm hover:border-emerald-500/20 hover:shadow-[0_16px_40px_rgba(16,185,129,0.06)] transition-all duration-500 flex flex-col justify-between space-y-6 relative overflow-hidden group hud-border"
+          >
             <div className="space-y-4">
               <div className="flex items-center gap-3">
                 <div className="p-3 bg-muted border border-border rounded-xl text-muted-foreground group-hover:text-emerald-500 group-hover:border-emerald-500/20 transition-colors">
@@ -323,10 +347,10 @@ export function SystemsApproach() {
                 </span>
               </div>
               <h3 className="text-2xl font-bold text-foreground uppercase tracking-tight group-hover:text-emerald-500 transition-colors font-syne">
-                DevSecOps
+                Sécurité et conformité par défaut
               </h3>
               <p className="text-muted-foreground text-sm leading-relaxed font-sans font-medium">
-                Conception et maintien de systèmes sécurisés par défaut. Agents PowerShell autonomes pour la conformité <strong className="text-foreground">ISO 27001</strong>, audit OWASP, hardening OS hétérogènes et pattern Pull-State pour remédiation continue. Sécurité intégrée dès la conception.
+                Ne prenez pas le risque d&apos;une faille de sécurité. J&apos;intègre les standards ISO 27001 et OWASP dès la conception de vos systèmes, garantissant une infrastructure résiliente et conforme, sans ralentir vos déploiements.
               </p>
             </div>
             <div className="pt-4 border-t border-border flex flex-wrap gap-2">
@@ -336,7 +360,7 @@ export function SystemsApproach() {
                 </span>
               ))}
             </div>
-          </div>
+          </motion.div>
 
         </div>
       </div>
