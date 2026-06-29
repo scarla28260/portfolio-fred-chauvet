@@ -90,7 +90,7 @@ export default function HomeContent() {
                
                <div className="flex flex-col items-center mb-8 relative z-10">
                  {/* Placeholder for Profile Picture to build trust (as discussed in the video) */}
-                 <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-2 border-primary/50 relative mb-4 shadow-xl shadow-primary/10">
+                 <div className="w-40 h-40 md:w-56 md:h-56 overflow-hidden border-2 border-primary/50 relative mb-6 shadow-xl shadow-primary/20 blob-frame">
                    <Image src="/images/fred-avatar.png" alt="Fred Chauvet" fill className="object-cover" />
                  </div>
                  <p className="text-sm font-bold text-foreground font-mono uppercase tracking-widest">Fred Chauvet</p>
