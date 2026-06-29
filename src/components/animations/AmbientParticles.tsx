@@ -1,68 +1,55 @@
 "use client";
 
-import { useRef, useMemo } from "react";
-import { Canvas, useFrame, useThree } from "@react-three/fiber";
-import { Points, PointMaterial } from "@react-three/drei";
-import * as THREE from "three";
+import { useRef, useMemo } from 'react';
+import { Canvas, useFrame } from '@react-three/fiber';
+import { Points, PointMaterial } from '@react-three/drei';
 
-function generateSpherePoints(count: number, radius: number) {
-  const points = new Float32Array(count * 3);
-  for (let i = 0; i < count; i++) {
-    const u = Math.random();
-    const v = Math.random();
-    const theta = u * 2.0 * Math.PI;
-    const phi = Math.acos(2.0 * v - 1.0);
-    const r = Math.cbrt(Math.random()) * radius;
-    
-    const sinPhi = Math.sin(phi);
-    points[i * 3] = r * sinPhi * Math.cos(theta);
-    points[i * 3 + 1] = r * sinPhi * Math.sin(theta);
-    points[i * 3 + 2] = r * Math.cos(phi);
-  }
-  return points;
-}
-
-const ParticleField = () => {
-  const ref = useRef<THREE.Points>(null);
-  const { mouse } = useThree();
+function ParticleCloud(props: any) {
+  const ref = useRef<any>();
   
-  // Generate 2500 points inside a sphere of radius 15
-  const sphere = useMemo(() => generateSpherePoints(2500, 15), []);
+  // Generate random positions without external libraries to avoid extra dependencies
+  const sphere = useMemo(() => {
+    const count = 2500;
+    const positions = new Float32Array(count * 3);
+    for (let i = 0; i < count; i++) {
+      const r = 1.5 * Math.cbrt(Math.random());
+      const theta = Math.random() * 2 * Math.PI;
+      const phi = Math.acos(2 * Math.random() - 1);
+      positions[i * 3] = r * Math.sin(phi) * Math.cos(theta);
+      positions[i * 3 + 1] = r * Math.sin(phi) * Math.sin(theta);
+      positions[i * 3 + 2] = r * Math.cos(phi);
+    }
+    return positions;
+  }, []);
 
   useFrame((state, delta) => {
     if (ref.current) {
-      // Slow rotation over time
-      ref.current.rotation.x -= delta / 25;
-      ref.current.rotation.y -= delta / 30;
-      
-      // Gentle parallax effect on mouse move
-      ref.current.position.x += (mouse.x * 1.5 - ref.current.position.x) * 0.02;
-      ref.current.position.y += (mouse.y * 1.5 - ref.current.position.y) * 0.02;
+      ref.current.rotation.x -= delta / 10;
+      ref.current.rotation.y -= delta / 15;
     }
   });
 
   return (
     <group rotation={[0, 0, Math.PI / 4]}>
-      <Points ref={ref} positions={sphere} stride={3} frustumCulled={false}>
+      <Points ref={ref} positions={sphere} stride={3} frustumCulled={false} {...props}>
         <PointMaterial
           transparent
-          color="#D4AF37"
-          size={0.035}
+          color="#d4af37" 
+          size={0.005}
           sizeAttenuation={true}
           depthWrite={false}
-          opacity={0.4}
-          blending={THREE.AdditiveBlending}
+          opacity={0.6}
         />
       </Points>
     </group>
   );
-};
+}
 
 export default function AmbientParticles() {
   return (
-    <div className="absolute inset-0 z-0 pointer-events-none mix-blend-screen opacity-70">
-      <Canvas camera={{ position: [0, 0, 12] }} dpr={[1, 2]}>
-        <ParticleField />
+    <div className="fixed inset-0 z-[-1] pointer-events-none opacity-40 transition-opacity duration-1000">
+      <Canvas camera={{ position: [0, 0, 1] }}>
+        <ParticleCloud />
       </Canvas>
     </div>
   );

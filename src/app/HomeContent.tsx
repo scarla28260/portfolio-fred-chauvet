@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 import Image from "next/image";
 import { 
@@ -14,6 +14,13 @@ import MagneticButton from "@/components/animations/MagneticButton";
 
 export default function HomeContent() {
   const containerRef = useRef<HTMLDivElement>(null);
+  const { scrollYProgress } = useScroll({
+    target: containerRef,
+    offset: ["start start", "end end"]
+  });
+  
+  const yParallax = useTransform(scrollYProgress, [0, 1], [0, -300]);
+  const yParallaxSlow = useTransform(scrollYProgress, [0, 1], [0, -100]);
 
   return (
     <main ref={containerRef} className="relative bg-background noise-panel text-foreground selection:bg-aura-gold/20 selection:text-aura-gold-light antialiased overflow-x-hidden">
@@ -42,20 +49,12 @@ export default function HomeContent() {
             transition={{ duration: 2, ease: "easeOut" }}
             className="absolute inset-0 z-0 pointer-events-none mix-blend-screen"
          >
-            <motion.div
-              animate={{ 
-                y: [0, -20, 0],
-                opacity: [0.6, 1, 0.6]
-              }}
-              transition={{
-                duration: 8,
-                repeat: Infinity,
-                ease: "easeInOut"
-              }}
-              className="w-full h-full relative"
-            >
-              <Image src="/assets/vivid_origins.png" fill className="object-cover" alt="Origins Illustration" sizes="100vw" />
-            </motion.div>
+              <motion.div
+                style={{ y: yParallaxSlow }}
+                className="w-full h-full relative"
+              >
+                <Image src="/assets/vivid_origins.png" fill className="object-cover" alt="Origins Illustration" sizes="100vw" />
+              </motion.div>
          </motion.div>
 
          <div className="max-w-[1200px] mx-auto grid grid-cols-1 lg:grid-cols-12 gap-24 items-center relative z-10">
@@ -165,12 +164,12 @@ export default function HomeContent() {
 
       {/* ── THE NEXT STEP: LA FORMATION ── */}
       <section className="relative py-40 px-6 overflow-hidden bg-video-navy-deep/40 backdrop-blur-sm border-t border-b border-aura-gold/25">
-         <div className="absolute left-0 top-0 w-1/2 h-full z-0 opacity-10 pointer-events-none mix-blend-screen">
+         <motion.div style={{ y: yParallaxSlow }} className="absolute left-0 top-0 w-1/2 h-full z-0 opacity-10 pointer-events-none mix-blend-screen">
             <Image src="/assets/ai_ml.png" fill className="object-contain object-left" alt="AI & ML Illustration" sizes="50vw" />
-         </div>
-         <div className="absolute right-0 top-0 w-1/2 h-full z-0 opacity-10 pointer-events-none mix-blend-screen">
+         </motion.div>
+         <motion.div style={{ y: yParallax }} className="absolute right-0 top-0 w-1/2 h-full z-0 opacity-10 pointer-events-none mix-blend-screen">
             <Image src="/assets/data_analysis.png" fill className="object-contain object-right" alt="Data Illustration" sizes="50vw" />
-         </div>
+         </motion.div>
 
          <div className="max-w-6xl mx-auto relative z-10 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
