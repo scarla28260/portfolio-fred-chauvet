@@ -1,9 +1,40 @@
 "use client"
 
 import { motion, useScroll } from "framer-motion"
-import { useRef } from "react"
+import { useRef, useState, useEffect } from "react"
 import { Calendar, Briefcase, GraduationCap, Terminal, CheckCircle2, Activity, Database, GitMerge, TerminalSquare, BrainCircuit } from "lucide-react"
 import { LiquidAura } from "@/components/ui/liquid-aura"
+
+function HoverVideo({ src, isHovered }: { src: string; isHovered: boolean }) {
+  const videoRef = useRef<HTMLVideoElement>(null)
+
+  useEffect(() => {
+    if (!videoRef.current) return
+    
+    // Pour une meilleure fluidité, on ne joue la vidéo que si on la survole
+    if (isHovered) {
+      // Un petit délai peut éviter de charger si on fait juste passer la souris rapidement
+      const timeout = setTimeout(() => {
+        videoRef.current?.play().catch(() => {})
+      }, 100)
+      return () => clearTimeout(timeout)
+    } else {
+      videoRef.current.pause()
+    }
+  }, [isHovered])
+
+  return (
+    <video
+      ref={videoRef}
+      src={src}
+      muted
+      loop
+      playsInline
+      preload="metadata"
+      className="w-full h-full object-cover"
+    />
+  )
+}
 
 const experiences = [
   {
@@ -66,6 +97,7 @@ const experiences = [
 
 export function ExperienceTimeline() {
   const containerRef = useRef<HTMLDivElement>(null)
+  const [hoveredId, setHoveredId] = useState<number | null>(null)
   const { scrollYProgress } = useScroll({
     target: containerRef,
     offset: ["start end", "end start"]
@@ -129,6 +161,8 @@ export function ExperienceTimeline() {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true, margin: "-100px" }}
                 transition={{ duration: 0.7, delay: index * 0.1, ease: [0.21, 0.47, 0.32, 0.98] }}
+                onMouseEnter={() => setHoveredId(exp.id)}
+                onMouseLeave={() => setHoveredId(null)}
                 className={`relative flex flex-col md:flex-row items-center gap-8 group ${isEven ? 'md:flex-row-reverse' : ''}`}
               >
                 
@@ -200,13 +234,9 @@ export function ExperienceTimeline() {
                 <div className={`hidden md:flex md:w-1/2 justify-center items-center opacity-0 group-hover:opacity-100 transition-all duration-700 pointer-events-none ${isEven ? 'md:pr-12' : 'md:pl-12'}`}>
                   {exp.videoUrl && (
                     <div className="relative w-full max-w-[420px] aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl scale-95 group-hover:scale-100 transition-transform duration-700">
-                      <video 
+                      <HoverVideo 
                         src={exp.videoUrl}
-                        autoPlay
-                        muted
-                        loop
-                        playsInline
-                        className="w-full h-full object-cover"
+                        isHovered={hoveredId === exp.id}
                       />
                       {/* Subtly tint the video with primary color */}
                       <div className="absolute inset-0 bg-primary/10 mix-blend-overlay" />
