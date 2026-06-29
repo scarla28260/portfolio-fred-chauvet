@@ -90,7 +90,7 @@ const experiences = [
     telemetry: "SYSTEM_UPGRADE // DATA_IA_ACQUIRED",
     icon: GraduationCap,
     bgIcon: BrainCircuit,
-    color: "from-purple-500/20 to-pink-500/5",
+    color: "from-teal-500/20 to-emerald-500/5",
     videoUrl: "/videos/reussite.mp4",
   }
 ]

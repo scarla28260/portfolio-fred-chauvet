@@ -124,7 +124,7 @@ export default async function DashboardPage() {
 
       {/* Tools */}
       <div className="mt-8 flex justify-end">
-        <form action={async () => {
+        <form aria-label="Inject mock data" action={async () => {
           'use server';
           // Action for manually triggering mock data (for testing)
           const { generateMockData } = await import('@/lib/analytics/engine');
