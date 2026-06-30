@@ -6,7 +6,7 @@ const steps = [
   {
     num: "01",
     title: "Le Terrain",
-    body: "De l'hôtellerie de luxe à la restauration collective, puis à la logistique, j'ai forgé une résilience à toute épreuve. J'ai passé deux décennies à gérer des équipes, piloter des budgets, créer des tableaux de bord et optimiser des ratios de performance.",
+    body: "De l'hôtellerie de luxe à la restauration collective, puis à la logistique, j'ai forgé une résilience à toute épreuve. J'ai passé deux décennies à piloter des budgets, créer des tableaux de bord et optimiser des ratios de performance.",
     accent: "#38BDF8",
   },
   {

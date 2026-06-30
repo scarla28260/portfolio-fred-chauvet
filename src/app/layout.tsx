@@ -1,9 +1,11 @@
 import type { Metadata, Viewport } from "next"
 import { Jost, Syne, Bodoni_Moda } from "next/font/google"
-import CustomCursor from "@/components/ui/CustomCursor";
-import "./globals.css"
+import dynamic from 'next/dynamic';
+const CustomCursor = dynamic(() => import('@/components/ui/CustomCursor'));
 import Navigation from "@/components/Navigation"
-import AmbientParticles from "@/components/animations/AmbientParticles";
+import "./globals.css"
+
+const AmbientParticles = dynamic(() => import('@/components/animations/AmbientParticles'));
 
 const jost = Jost({ subsets: ["latin", "latin-ext"], variable: "--font-jost" })
 const syne = Syne({ subsets: ["latin", "latin-ext"], variable: "--font-syne" })
@@ -22,11 +24,18 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://station-os.vercel.app"),
   title: "Fred Chauvet | Ingénieur Logiciel & Data",
   description: "Portfolio de Fred Chauvet, Ingénieur Logiciel, IA & Data. 18 ans en cuisine et 15 ans en logistique transmutés à l'analyse de données et au développement d'agents IA. Conception d'écosystèmes d'agents et solutions résilientes.",
   keywords: ["Fred Chauvet", "développeur web", "data engineer", "IA", "Next.js", "ingénieur logiciel", "React", "systémique"],
   authors: [{ name: "Fred Chauvet" }],
-    openGraph: {
+  alternates: {
+    canonical: '/',
+    languages: {
+      'fr-FR': '/',
+    },
+  },
+  openGraph: {
     title: "Fred Chauvet | Ingénieur Logiciel & Data",
     description: "Portfolio de Fred Chauvet, Ingénieur Logiciel, IA & Data. 18 ans en cuisine et 15 ans en logistique transmutés à l'analyse de données et au développement d'agents IA.",
     url: "https://station-os.vercel.app",
