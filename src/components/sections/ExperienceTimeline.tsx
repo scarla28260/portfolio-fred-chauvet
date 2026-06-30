@@ -9,17 +9,17 @@ function HoverVideo({ src, isHovered }: { src: string; isHovered: boolean }) {
   const videoRef = useRef<HTMLVideoElement>(null)
 
   useEffect(() => {
-    if (!videoRef.current) return
+    const video = videoRef.current
+    if (!video) return
     
-    // Pour une meilleure fluidité, on ne joue la vidéo que si on la survole
+    // Jouer directement sans délai pour améliorer la fluidité immédiate
     if (isHovered) {
-      // Un petit délai peut éviter de charger si on fait juste passer la souris rapidement
-      const timeout = setTimeout(() => {
-        videoRef.current?.play().catch(() => {})
-      }, 100)
-      return () => clearTimeout(timeout)
+      const playPromise = video.play()
+      if (playPromise !== undefined) {
+        playPromise.catch(() => {})
+      }
     } else {
-      videoRef.current.pause()
+      video.pause()
     }
   }, [isHovered])
 
@@ -30,8 +30,9 @@ function HoverVideo({ src, isHovered }: { src: string; isHovered: boolean }) {
       muted
       loop
       playsInline
-      preload="metadata"
-      className="w-full h-full object-cover"
+      preload="auto"
+      className="w-full h-full object-cover will-change-transform"
+      style={{ transform: "translateZ(0)" }}
     />
   )
 }
@@ -233,7 +234,7 @@ export function ExperienceTimeline() {
                 {/* Opposite Side Video */}
                 <div className={`hidden md:flex md:w-1/2 justify-center items-center opacity-0 group-hover:opacity-100 transition-all duration-700 pointer-events-none ${isEven ? 'md:pr-12' : 'md:pl-12'}`}>
                   {exp.videoUrl && (
-                    <div className="relative w-full max-w-[420px] aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl scale-95 group-hover:scale-100 transition-transform duration-700">
+                    <div className="relative w-full max-w-[420px] aspect-video rounded-2xl overflow-hidden border border-border/50 shadow-2xl scale-95 group-hover:scale-100 transition-transform duration-700 will-change-transform" style={{ transform: "translateZ(0)" }}>
                       <HoverVideo 
                         src={exp.videoUrl}
                         isHovered={hoveredId === exp.id}

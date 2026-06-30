@@ -3,6 +3,7 @@ import { Jost, Syne, Bodoni_Moda } from "next/font/google"
 import CustomCursor from "@/components/ui/CustomCursor";
 import "./globals.css"
 import Navigation from "@/components/Navigation"
+import AmbientParticles from "@/components/animations/AmbientParticles";
 
 const jost = Jost({ subsets: ["latin", "latin-ext"], variable: "--font-jost" })
 const syne = Syne({ subsets: ["latin", "latin-ext"], variable: "--font-syne" })
@@ -25,11 +26,11 @@ export const metadata: Metadata = {
   description: "Portfolio de Fred Chauvet, Ingénieur Logiciel, IA & Data. 18 ans en cuisine et 15 ans en logistique transmutés à l'analyse de données et au développement d'agents IA. Conception d'écosystèmes d'agents et solutions résilientes.",
   keywords: ["Fred Chauvet", "développeur web", "data engineer", "IA", "Next.js", "ingénieur logiciel", "React", "systémique"],
   authors: [{ name: "Fred Chauvet" }],
-  openGraph: {
+    openGraph: {
     title: "Fred Chauvet | Ingénieur Logiciel & Data",
     description: "Portfolio de Fred Chauvet, Ingénieur Logiciel, IA & Data. 18 ans en cuisine et 15 ans en logistique transmutés à l'analyse de données et au développement d'agents IA.",
     url: "https://station-os.vercel.app",
-    siteName: "La Station du Code",
+    siteName: "Portfolio de Fred",
     locale: "fr_FR",
     type: "website",
   },
@@ -61,7 +62,7 @@ export default function RootLayout({
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      name: "La Station du Code",
+      name: "Portfolio de Fred",
       url: "https://station-os.vercel.app"
     }
   ];
@@ -74,6 +75,12 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
+        
+        {/* ── AMBIENT 3D BACKGROUND (GLOBAL) ── */}
+        <AmbientParticles />
+        <div className="fixed top-1/4 left-1/4 w-[50%] h-[50%] bg-aura-navy/10 blur-[150px] pointer-events-none z-0 mix-blend-screen" />
+        <div className="fixed bottom-1/4 right-1/4 w-[40%] h-[40%] bg-aura-gold/5 blur-[120px] pointer-events-none z-0 mix-blend-screen" />
+
         <Navigation />
         {children}
       </body>

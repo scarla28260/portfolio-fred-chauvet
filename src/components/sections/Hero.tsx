@@ -1,4 +1,4 @@
-﻿"use client"
+"use client"
 
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion"
 import { ArrowDownRight } from "lucide-react"
@@ -31,10 +31,10 @@ export function Hero() {
   return (
     <section className="relative min-h-screen flex items-center bg-background pt-20 overflow-hidden" id="hero">
       <div className="absolute inset-0 pointer-events-none">
-        <div className="absolute top-1/4 left-1/4 w-[600px] h-[600px] rounded-full bg-sky-400/8 blur-[140px]" />
-        <div className="absolute top-1/2 right-1/4 w-[500px] h-[500px] rounded-full bg-aura-gold/5 blur-[120px]" />
-        <div className="absolute bottom-1/4 left-1/2 w-[400px] h-[400px] rounded-full bg-primary/5 blur-[100px]" />
-        <div className="absolute inset-0 bg-[linear-gradient(rgba(2,132,199,0.02)_1px,transparent_1px),linear-gradient(90deg,rgba(2,132,199,0.02)_1px,transparent_1px)] bg-[size:80px_80px]" />
+        <div className="absolute top-1/4 left-1/4 w-[600px] h-[600px] rounded-full bg-aura-navy/20 blur-[140px]" />
+        <div className="absolute top-1/2 right-1/4 w-[500px] h-[500px] rounded-full bg-aura-gold/15 blur-[120px]" />
+        <div className="absolute bottom-1/4 left-1/2 w-[400px] h-[400px] rounded-full bg-aura-navy-light/10 blur-[100px]" />
+        <div className="absolute inset-0 bg-[linear-gradient(rgba(6,182,212,0.03)_1px,transparent_1px),linear-gradient(90deg,rgba(6,182,212,0.03)_1px,transparent_1px)] bg-[size:80px_80px]" />
         <div className="absolute top-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-aura-gold/30 to-transparent" />
       </div>
 
@@ -56,7 +56,7 @@ export function Hero() {
             <h1 className="text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-light tracking-tighter text-foreground leading-[0.9] flex flex-wrap items-center gap-x-4 md:gap-x-8 gap-y-4">
               <span>Code.</span>
               <span className="w-full flex items-center gap-4 md:gap-8 perspective-1000">
-                <span className="italic opacity-80 text-primary">Structure.</span>
+                <span className="italic opacity-80 text-aura-navy">Structure.</span>
                 <motion.div
                   initial={{ scale: 0 }}
                   animate={{ scale: 1 }}
@@ -72,7 +72,7 @@ export function Hero() {
                 >
                   <motion.div
                     whileHover={{ scale: 1.1, rotate: 5, transition: { duration: 0.3 } }}
-                    className="w-full h-full relative rounded-full overflow-hidden border-2 border-aura-gold/30 hover:border-aura-gold/70 shadow-[0_0_60px_rgba(212,175,55,0.10)] hover:shadow-[0_0_100px_rgba(212,175,55,0.20)] transition-all duration-500 bg-sky-50"
+                    className="w-full h-full relative rounded-full overflow-hidden border-2 border-aura-gold/30 hover:border-aura-gold/70 shadow-[0_0_60px_rgba(252,211,77,0.15)] hover:shadow-[0_0_100px_rgba(252,211,77,0.30)] transition-all duration-500 bg-background/50 backdrop-blur-sm"
                   >
                     <video
                       src="/voila.mp4"
@@ -100,8 +100,8 @@ export function Hero() {
             </p>
 
             <a
-              href="#experience"
-              className="group flex items-center justify-center w-16 h-16 rounded-full border border-aura-gold/30 text-foreground hover:bg-aura-gold/10 hover:border-aura-gold/70 hover:shadow-[0_0_20px_rgba(212,175,55,0.15)] transition-all duration-500 shrink-0"
+              href="/projets"
+              className="group flex items-center justify-center w-16 h-16 rounded-full border border-aura-gold/30 text-foreground hover:bg-aura-gold/10 hover:border-aura-gold/70 hover:shadow-[0_0_20px_rgba(252,211,77,0.25)] transition-all duration-500 shrink-0"
             >
               <ArrowDownRight className="w-6 h-6 transition-transform duration-500 group-hover:-rotate-45 text-aura-gold" />
               <span className="sr-only">Decouvrir</span>
